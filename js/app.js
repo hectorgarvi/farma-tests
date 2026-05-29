@@ -15,6 +15,8 @@ const state = {
   current: 0, // índice de pregunta visible
   answers: [], // respuesta elegida por pregunta (índice de opción o null)
   immediate: true, // feedback inmediato
+  showDifficulty: true, // mostrar chip de dificultad
+  showTema: true, // mostrar chip de tema
 };
 
 /* ---------- utilidades ---------- */
@@ -161,7 +163,11 @@ function renderQuestion() {
   const answered = state.answers[i];
   const showFeedback = state.immediate && answered !== null;
 
-  const diffClass = ["facil", "medio", "dificil"].includes(q.dificultad) ? q.dificultad : "";
+  const diffClass =
+    state.showDifficulty && ["facil", "medio", "dificil"].includes(q.dificultad)
+      ? q.dificultad
+      : "";
+  const showTema = state.showTema && q.tema;
 
   const answersHtml = q.opciones
     .map((opt, idx) => {
@@ -197,7 +203,7 @@ function renderQuestion() {
     <div class="q-meta">
       <span class="chip">Pregunta ${i + 1}/${state.exam.length}</span>
       ${diffClass ? `<span class="chip ${diffClass}">${q.dificultad}</span>` : ""}
-      ${q.tema ? `<span class="chip">${escapeHtml(q.tema)}</span>` : ""}
+      ${showTema ? `<span class="chip">${escapeHtml(q.tema)}</span>` : ""}
     </div>
     <div class="q-text">${escapeHtml(q.enunciado)}</div>
     <div class="answers">${answersHtml}</div>
@@ -317,6 +323,8 @@ function escapeHtml(str) {
 
 function startExam() {
   state.immediate = $("#opt-immediate").checked;
+  state.showDifficulty = $("#opt-show-difficulty").checked;
+  state.showTema = $("#opt-show-tema").checked;
   buildExam();
   if (state.exam.length === 0) return;
   show("#screen-exam");
