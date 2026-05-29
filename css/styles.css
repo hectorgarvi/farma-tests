@@ -119,6 +119,13 @@ code {
   background: var(--primary);
   transition: width 0.25s ease;
 }
+.btn-quit {
+  flex: 0 0 auto;
+  padding: 7px 12px;
+  font-size: 0.82rem;
+  color: var(--muted);
+}
+.btn-quit:hover:not(:disabled) { border-color: var(--bad); color: var(--bad); }
 
 .card {
   background: var(--surface);

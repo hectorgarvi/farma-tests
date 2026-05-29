@@ -329,6 +329,11 @@ document.addEventListener("DOMContentLoaded", () => {
 
   $("#btn-start").addEventListener("click", startExam);
   $("#btn-restart").addEventListener("click", () => show("#screen-start"));
+  $("#btn-quit").addEventListener("click", () => {
+    if (confirm("¿Salir del examen? Perderás el progreso actual.")) {
+      show("#screen-start");
+    }
+  });
   $("#btn-review").addEventListener("click", renderReview);
 
   $("#btn-prev").addEventListener("click", () => {
