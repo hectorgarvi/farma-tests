@@ -1,0 +1,105 @@
+{
+  "meta": {
+    "titulo": "Banco de preguntas Farma Tests",
+    "version": 1,
+    "nota": "Preguntas de EJEMPLO para probar la app. Se sustituiran por las generadas a partir del temario.",
+    "esquema": {
+      "id": "string unico (ej. q001)",
+      "tema": "string, tema/bloque del temario",
+      "dificultad": "facil | medio | dificil",
+      "enunciado": "string, la pregunta",
+      "opciones": ["array de 4 strings (las respuestas)"],
+      "correcta": "entero, indice (base 0) de la opcion correcta dentro de 'opciones'",
+      "explicacion": "string, por que es correcta / aclaracion del fallo"
+    }
+  },
+  "preguntas": [
+    {
+      "id": "q001",
+      "tema": "Farmacocinética",
+      "dificultad": "facil",
+      "enunciado": "¿Qué proceso farmacocinético describe el paso del fármaco desde el lugar de administración hasta la sangre?",
+      "opciones": ["Absorción", "Distribución", "Metabolismo", "Excreción"],
+      "correcta": 0,
+      "explicacion": "La absorción es el paso del fármaco desde el sitio de administración a la circulación sistémica. La distribución es su reparto por los tejidos."
+    },
+    {
+      "id": "q002",
+      "tema": "Farmacocinética",
+      "dificultad": "facil",
+      "enunciado": "El principal órgano responsable del metabolismo de la mayoría de los fármacos es:",
+      "opciones": ["El riñón", "El hígado", "El pulmón", "El bazo"],
+      "correcta": 1,
+      "explicacion": "El hígado, mediante las enzimas del citocromo P450, es el principal sitio de biotransformación de los fármacos."
+    },
+    {
+      "id": "q003",
+      "tema": "Farmacodinamia",
+      "dificultad": "medio",
+      "enunciado": "Un fármaco que se une a un receptor y produce una respuesta menor que la del agonista pleno, aun a dosis máximas, se denomina:",
+      "opciones": ["Agonista pleno", "Agonista parcial", "Antagonista competitivo", "Agonista inverso"],
+      "correcta": 1,
+      "explicacion": "El agonista parcial tiene actividad intrínseca submáxima: ocupa el receptor pero su efecto techo es inferior al del agonista pleno."
+    },
+    {
+      "id": "q004",
+      "tema": "Farmacodinamia",
+      "dificultad": "medio",
+      "enunciado": "¿Qué efecto tiene un antagonista competitivo sobre la curva dosis-respuesta de un agonista?",
+      "opciones": [
+        "La desplaza a la derecha sin reducir el efecto máximo",
+        "La desplaza a la izquierda",
+        "Reduce el efecto máximo sin desplazarla",
+        "No la modifica"
+      ],
+      "correcta": 0,
+      "explicacion": "El antagonismo competitivo es superable: aumentando la dosis del agonista se alcanza el mismo efecto máximo, por eso la curva se desplaza a la derecha sin bajar el techo."
+    },
+    {
+      "id": "q005",
+      "tema": "Farmacocinética",
+      "dificultad": "dificil",
+      "enunciado": "Un fármaco tiene una semivida de eliminación de 6 horas. ¿Aproximadamente cuánto tiempo tarda en alcanzar el estado de equilibrio (steady state) con dosis repetidas?",
+      "opciones": ["6 horas", "12 horas", "24-30 horas", "72 horas"],
+      "correcta": 2,
+      "explicacion": "El estado de equilibrio se alcanza tras 4-5 semividas. Con t½ = 6 h, son aproximadamente 24-30 horas."
+    },
+    {
+      "id": "q006",
+      "tema": "Interacciones",
+      "dificultad": "dificil",
+      "enunciado": "Un inductor potente del CYP3A4 administrado junto a un fármaco metabolizado por esa enzima provocará típicamente:",
+      "opciones": [
+        "Aumento de las concentraciones plasmáticas del segundo fármaco",
+        "Disminución de las concentraciones plasmáticas del segundo fármaco",
+        "Ningún cambio relevante",
+        "Aumento de la semivida del segundo fármaco"
+      ],
+      "correcta": 1,
+      "explicacion": "Un inductor enzimático acelera el metabolismo del fármaco sustrato, reduciendo sus concentraciones plasmáticas y, con ello, su efecto."
+    },
+    {
+      "id": "q007",
+      "tema": "Vías de administración",
+      "dificultad": "facil",
+      "enunciado": "¿Qué vía de administración evita por completo el efecto de primer paso hepático?",
+      "opciones": ["Oral", "Intravenosa", "Rectal parcial", "Sublingual"],
+      "correcta": 1,
+      "explicacion": "La vía intravenosa introduce el fármaco directamente en la circulación sistémica, evitando el primer paso hepático. La sublingual lo reduce, pero no siempre por completo."
+    },
+    {
+      "id": "q008",
+      "tema": "Farmacodinamia",
+      "dificultad": "medio",
+      "enunciado": "El índice terapéutico de un fármaco se define como la relación entre:",
+      "opciones": [
+        "Dosis tóxica y dosis eficaz",
+        "Dosis eficaz y dosis letal",
+        "Concentración máxima y mínima",
+        "Biodisponibilidad y aclaramiento"
+      ],
+      "correcta": 0,
+      "explicacion": "El índice terapéutico relaciona la dosis tóxica (o letal, DL50) con la dosis eficaz (DE50). Cuanto mayor es, más seguro es el fármaco."
+    }
+  ]
+}

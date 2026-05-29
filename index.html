@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Farma Tests · Simulador de examen</title>
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <h1 class="brand">💊 Farma Tests</h1>
+    <span class="tagline">Simulador de examen</span>
+  </header>
+
+  <main id="app">
+    <!-- Pantalla de inicio -->
+    <section id="screen-start" class="screen">
+      <h2>Generar examen</h2>
+      <p class="muted">
+        Cada examen tiene <strong id="exam-size-label">55</strong> preguntas
+        mezclando todos los niveles de dificultad. Las preguntas se eligen al
+        azar del banco.
+      </p>
+
+      <div class="bank-info" id="bank-info">Cargando banco de preguntas…</div>
+
+      <div class="options-grid">
+        <label class="opt-row">
+          <input type="checkbox" id="opt-immediate" checked />
+          <span>Feedback inmediato (corrige al responder cada pregunta)</span>
+        </label>
+        <label class="opt-row">
+          <input type="checkbox" id="opt-shuffle" checked />
+          <span>Barajar el orden de las opciones</span>
+        </label>
+      </div>
+
+      <button id="btn-start" class="btn btn-primary" disabled>
+        Empezar examen
+      </button>
+    </section>
+
+    <!-- Pantalla de examen -->
+    <section id="screen-exam" class="screen hidden">
+      <div class="exam-head">
+        <div class="progress-wrap">
+          <div class="progress-bar"><div id="progress-fill"></div></div>
+          <span id="progress-text" class="muted"></span>
+        </div>
+        <div class="score-live muted" id="score-live"></div>
+      </div>
+
+      <div id="question-card" class="card"></div>
+
+      <div class="exam-nav">
+        <button id="btn-prev" class="btn">← Anterior</button>
+        <button id="btn-next" class="btn btn-primary">Siguiente →</button>
+        <button id="btn-finish" class="btn btn-primary hidden">
+          Finalizar examen
+        </button>
+      </div>
+    </section>
+
+    <!-- Pantalla de resultados -->
+    <section id="screen-result" class="screen hidden">
+      <h2>Resultado</h2>
+      <div id="result-summary" class="result-summary"></div>
+      <div class="result-actions">
+        <button id="btn-review" class="btn">Ver revisión</button>
+        <button id="btn-restart" class="btn btn-primary">Nuevo examen</button>
+      </div>
+      <div id="review-list" class="review-list hidden"></div>
+    </section>
+  </main>
+
+  <footer class="footer muted">
+    Proyecto personal de estudio · banco de preguntas en
+    <code>data/questions.json</code>
+  </footer>
+
+  <script src="js/app.js"></script>
+</body>
+</html>
