@@ -267,13 +267,23 @@ function finishExam() {
   const wrong = total - right - blank;
   const pct = Math.round((right / total) * 100);
 
+  // Nota sobre 10 con penalización: cada 3 fallos restan 1 acierto.
+  // Los no contestados (en blanco) no penalizan.
+  const neto = Math.max(0, right - wrong / 3);
+  const nota = (neto / total) * 10;
+  const notaFmt = nota.toFixed(2).replace(".", ",");
+  const notaClass = nota >= 5 ? "good" : "bad";
+
   $("#result-summary").innerHTML = `
-    <div class="big-score">${pct}%</div>
-    <div>${right} de ${total} correctas</div>
+    <div class="big-score ${notaClass}">${notaFmt}<span class="nota-max"> / 10</span></div>
+    <div>${pct}% de aciertos · ${right} de ${total} correctas</div>
     <div class="score-bd">
       <span>✅ ${right} aciertos</span>
       <span>❌ ${wrong} fallos</span>
       <span>⬜ ${blank} en blanco</span>
+    </div>
+    <div class="nota-detalle muted">
+      Nota = (${right} − ${wrong}/3) / ${total} × 10 · cada 3 fallos restan 1 acierto
     </div>
   `;
   $("#review-list").classList.add("hidden");

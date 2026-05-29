@@ -213,6 +213,10 @@ code {
   margin-bottom: 20px;
 }
 .big-score { font-size: 3rem; font-weight: 700; }
+.big-score.good { color: var(--ok); }
+.big-score.bad { color: var(--bad); }
+.nota-max { font-size: 1.3rem; font-weight: 500; color: var(--muted); }
+.nota-detalle { margin-top: 12px; font-size: 0.82rem; }
 .score-bd { display: flex; gap: 18px; justify-content: center; flex-wrap: wrap; margin-top: 12px; color: var(--muted); }
 .result-actions { display: flex; gap: 10px; margin-bottom: 24px; }
 
