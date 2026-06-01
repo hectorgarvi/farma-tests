@@ -4,12 +4,20 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Farma Tests · Simulador de examen</title>
+  <script>
+    // Aplica el tema guardado antes de pintar para evitar parpadeo.
+    try {
+      var t = localStorage.getItem("farmaTests:theme");
+      if (t === "light") document.documentElement.setAttribute("data-theme", "light");
+    } catch (e) {}
+  </script>
   <link rel="stylesheet" href="css/styles.css" />
 </head>
 <body>
   <header class="topbar">
     <h1 class="brand">💊 Farma Tests</h1>
     <span class="tagline">Simulador de examen</span>
+    <button id="theme-toggle" class="theme-toggle" title="Cambiar tema" aria-label="Cambiar tema claro/oscuro">🌙</button>
   </header>
 
   <main id="app">

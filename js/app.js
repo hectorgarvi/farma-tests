@@ -439,7 +439,7 @@ function escapeHtml(str) {
     .replace(/"/g, "&quot;");
 }
 
-/* ---------- arranque y eventos ---------- */
+/* ---------- inicio del examen ---------- */
 
 function startExam() {
   state.immediate = $("#opt-immediate").checked;
@@ -452,8 +452,30 @@ function startExam() {
   renderQuestion();
 }
 
+/* ---------- tema claro/oscuro ---------- */
+
+const LS_THEME = "farmaTests:theme";
+
+function currentTheme() {
+  return document.documentElement.getAttribute("data-theme") === "light" ? "light" : "dark";
+}
+
+function applyTheme(theme) {
+  if (theme === "light") document.documentElement.setAttribute("data-theme", "light");
+  else document.documentElement.removeAttribute("data-theme");
+  // El icono muestra el modo actual.
+  $("#theme-toggle").textContent = theme === "light" ? "☀️" : "🌙";
+  localStorage.setItem(LS_THEME, theme);
+}
+
+/* ---------- arranque y eventos ---------- */
+
 document.addEventListener("DOMContentLoaded", () => {
   $("#exam-size-label").textContent = CONFIG.examSize;
+  applyTheme(currentTheme()); // sincroniza icono con lo aplicado por el script del head
+  $("#theme-toggle").addEventListener("click", () => {
+    applyTheme(currentTheme() === "light" ? "dark" : "light");
+  });
   initSubjects();
 
   $("#btn-start").addEventListener("click", startExam);
