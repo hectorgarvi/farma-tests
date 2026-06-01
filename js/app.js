@@ -42,8 +42,9 @@ function show(screenId) {
 /* ---------- asignaturas (selector + persistencia) ---------- */
 
 const LS_SUBJECT = "farmaTests:subject"; // clave localStorage
-let subjects = []; // [{id, nombre, archivo}]
+let subjects = []; // [{id, nombre, archivo, examSize?}]
 let activeSubject = null; // id de la asignatura activa
+let activeExamSize = CONFIG.examSize; // nº de preguntas del examen (según asignatura)
 
 // Carga el manifiesto, monta las pestañas y restaura la última elegida.
 async function initSubjects() {
@@ -95,6 +96,8 @@ async function selectSubject(id) {
     .querySelectorAll(".subject-tab")
     .forEach((b) => b.classList.toggle("active", b.dataset.id === id));
   const subj = subjects.find((s) => s.id === id);
+  activeExamSize = subj.examSize || CONFIG.examSize;
+  $("#exam-size-label").textContent = activeExamSize;
   await loadBank(subj.archivo);
 }
 
@@ -151,21 +154,21 @@ function renderBankInfo() {
     return;
   }
 
-  const enough = total >= CONFIG.examSize;
+  const enough = total >= activeExamSize;
   $("#bank-info").innerHTML =
     `<strong>${total}</strong> preguntas en el banco · ` +
     `🟢 ${c.facil} fáciles · 🟡 ${c.medio} medias · 🔴 ${c.dificil} difíciles` +
     (c.otras ? ` · ${c.otras} sin nivel` : "") +
     (enough
       ? ""
-      : `<br><span class="muted">Hay menos de ${CONFIG.examSize}; el examen usará las ${total} disponibles.</span>`);
+      : `<br><span class="muted">Hay menos de ${activeExamSize}; el examen usará las ${total} disponibles.</span>`);
   startBtn.disabled = false;
 }
 
 /* ---------- generación del examen ---------- */
 
 function buildExam() {
-  const size = Math.min(CONFIG.examSize, state.bank.length);
+  const size = Math.min(activeExamSize, state.bank.length);
 
   // Agrupar por dificultad
   const buckets = { facil: [], medio: [], dificil: [], otras: [] };
