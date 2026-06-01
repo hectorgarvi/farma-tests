@@ -102,6 +102,23 @@ code {
 }
 .opt-row input { width: 18px; height: 18px; accent-color: var(--primary); }
 
+.custom-size-wrap {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin: -2px 0 4px 28px;
+}
+.custom-size-wrap input[type="number"] {
+  width: 84px;
+  padding: 7px 10px;
+  background: var(--surface-2);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  color: var(--text);
+  font-size: 0.95rem;
+}
+.custom-size-wrap input[type="number"]:focus { outline: none; border-color: var(--primary); }
+
 .btn {
   appearance: none;
   border: 1px solid var(--border);

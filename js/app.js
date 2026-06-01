@@ -17,6 +17,7 @@ const state = {
   immediate: true, // feedback inmediato
   showDifficulty: true, // mostrar chip de dificultad
   showTema: true, // mostrar chip de tema
+  onlyDrugs: false, // solo preguntas de identificar fármacos (tipo === "farmaco")
 };
 
 /* ---------- utilidades ---------- */
@@ -133,46 +134,91 @@ function validQuestion(q) {
   );
 }
 
-function countByDifficulty() {
+function countByDifficulty(pool) {
   const c = { facil: 0, medio: 0, dificil: 0, otras: 0 };
-  for (const q of state.bank) {
+  for (const q of pool) {
     if (c[q.dificultad] !== undefined) c[q.dificultad]++;
     else c.otras++;
   }
   return c;
 }
 
+// Nº de preguntas marcadas como de identificación de fármacos.
+function drugCount() {
+  return state.bank.filter((q) => q.tipo === "farmaco").length;
+}
+
+// Conjunto de preguntas disponibles según el filtro activo.
+function currentPool() {
+  return state.onlyDrugs ? state.bank.filter((q) => q.tipo === "farmaco") : state.bank;
+}
+
+// Tamaño de examen elegido: el personalizado si la casilla está marcada,
+// si no el por defecto de la asignatura. Se acota al tamaño del pool.
+function chosenSize(poolLen) {
+  let size = activeExamSize;
+  if ($("#opt-custom-size").checked) {
+    const v = parseInt($("#custom-size").value, 10);
+    if (Number.isFinite(v) && v > 0) size = v;
+  }
+  return Math.max(1, Math.min(size, poolLen));
+}
+
 function renderBankInfo() {
-  const total = state.bank.length;
-  const c = countByDifficulty();
   const startBtn = $("#btn-start");
 
+  // Muestra/oculta el filtro de fármacos según haya preguntas de ese tipo.
+  const drugs = drugCount();
+  const rowDrugs = $("#row-only-drugs");
+  if (drugs > 0) {
+    rowDrugs.classList.remove("hidden");
+  } else {
+    rowDrugs.classList.add("hidden");
+    $("#opt-only-drugs").checked = false;
+    state.onlyDrugs = false;
+  }
+
+  const pool = currentPool();
+  const total = pool.length;
+  const c = countByDifficulty(pool);
+
   if (total === 0) {
-    $("#bank-info").innerHTML =
-      `El banco de esta asignatura está vacío todavía.`;
+    $("#bank-info").innerHTML = state.onlyDrugs
+      ? `No hay preguntas de fármacos en esta asignatura.`
+      : `El banco de esta asignatura está vacío todavía.`;
     startBtn.disabled = true;
     return;
   }
 
-  const enough = total >= activeExamSize;
+  // Ajusta el máximo del input de tamaño personalizado al pool actual.
+  const sizeInput = $("#custom-size");
+  sizeInput.max = total;
+  if (!$("#opt-custom-size").checked || !sizeInput.value) {
+    sizeInput.value = Math.min(activeExamSize, total);
+  } else if (parseInt(sizeInput.value, 10) > total) {
+    sizeInput.value = total;
+  }
+  $("#custom-size-max").textContent = total;
+
+  const willUse = chosenSize(total);
   $("#bank-info").innerHTML =
-    `<strong>${total}</strong> preguntas en el banco · ` +
-    `🟢 ${c.facil} fáciles · 🟡 ${c.medio} medias · 🔴 ${c.dificil} difíciles` +
+    `<strong>${total}</strong> preguntas disponibles` +
+    (state.onlyDrugs ? ` (solo fármacos)` : ` · ${drugs} de fármacos`) +
+    ` · 🟢 ${c.facil} fáciles · 🟡 ${c.medio} medias · 🔴 ${c.dificil} difíciles` +
     (c.otras ? ` · ${c.otras} sin nivel` : "") +
-    (enough
-      ? ""
-      : `<br><span class="muted">Hay menos de ${activeExamSize}; el examen usará las ${total} disponibles.</span>`);
+    `<br><span class="muted">El examen tendrá ${willUse} preguntas.</span>`;
   startBtn.disabled = false;
 }
 
 /* ---------- generación del examen ---------- */
 
 function buildExam() {
-  const size = Math.min(activeExamSize, state.bank.length);
+  const pool = currentPool();
+  const size = chosenSize(pool.length);
 
   // Agrupar por dificultad
   const buckets = { facil: [], medio: [], dificil: [], otras: [] };
-  for (const q of state.bank) {
+  for (const q of pool) {
     (buckets[q.dificultad] !== undefined ? buckets[q.dificultad] : buckets.otras).push(q);
   }
   for (const k in buckets) buckets[k] = shuffle(buckets[k]);
@@ -399,6 +445,7 @@ function startExam() {
   state.immediate = $("#opt-immediate").checked;
   state.showDifficulty = $("#opt-show-difficulty").checked;
   state.showTema = $("#opt-show-tema").checked;
+  state.onlyDrugs = $("#opt-only-drugs").checked;
   buildExam();
   if (state.exam.length === 0) return;
   show("#screen-exam");
@@ -411,6 +458,18 @@ document.addEventListener("DOMContentLoaded", () => {
 
   $("#btn-start").addEventListener("click", startExam);
   $("#btn-restart").addEventListener("click", () => show("#screen-start"));
+
+  // Filtro "solo fármacos": recalcula el banco mostrado.
+  $("#opt-only-drugs").addEventListener("change", (e) => {
+    state.onlyDrugs = e.target.checked;
+    renderBankInfo();
+  });
+  // Personalizar tamaño: muestra/oculta el input y refresca el resumen.
+  $("#opt-custom-size").addEventListener("change", (e) => {
+    $("#custom-size-wrap").classList.toggle("hidden", !e.target.checked);
+    renderBankInfo();
+  });
+  $("#custom-size").addEventListener("input", renderBankInfo);
   $("#btn-quit").addEventListener("click", () => {
     if (confirm("¿Salir del examen? Perderás el progreso actual.")) {
       show("#screen-start");

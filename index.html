@@ -43,6 +43,18 @@
           <input type="checkbox" id="opt-show-tema" checked />
           <span>Mostrar el tema de cada pregunta</span>
         </label>
+        <label class="opt-row hidden" id="row-only-drugs">
+          <input type="checkbox" id="opt-only-drugs" />
+          <span>Solo preguntas de identificar fármacos</span>
+        </label>
+        <label class="opt-row">
+          <input type="checkbox" id="opt-custom-size" />
+          <span>Personalizar el nº de preguntas del examen</span>
+        </label>
+        <div class="custom-size-wrap hidden" id="custom-size-wrap">
+          <input type="number" id="custom-size" min="1" step="1" />
+          <span class="muted">preguntas (máx. <span id="custom-size-max">—</span>)</span>
+        </div>
       </div>
 
       <button id="btn-start" class="btn btn-primary" disabled>
