@@ -1,0 +1,2473 @@
+{
+  "meta": {
+    "titulo": "SNyNH · Soporte y Nutrición Hospitalaria",
+    "version": 1,
+    "total": 176
+  },
+  "preguntas": [
+    {
+      "id": "q001",
+      "tema": "Unidades de Nutrición: modelos y papel en el sistema público de salud",
+      "dificultad": "facil",
+      "enunciado": "¿Cómo se define el soporte nutricional según la ESPEN y la ASPEN?",
+      "opciones": [
+        "Un conjunto de intervenciones destinadas a prevenir o tratar la desnutrición relacionada con la enfermedad mediante el aporte de energía, proteínas y otros nutrientes",
+        "Una técnica exclusiva de administración de nutrición parenteral en pacientes críticos",
+        "Un protocolo de ayuno controlado para preparar exploraciones digestivas",
+        "Un servicio de hostelería encargado únicamente de elaborar los menús del hospital"
+      ],
+      "correcta": 0,
+      "explicacion": "El soporte nutricional se define como el conjunto de intervenciones para prevenir o tratar la desnutrición relacionada con la enfermedad mediante el aporte de energía, proteínas y otros nutrientes por vía oral, enteral y/o parenteral."
+    },
+    {
+      "id": "q002",
+      "tema": "Unidades de Nutrición: modelos y papel en el sistema público de salud",
+      "dificultad": "facil",
+      "enunciado": "La desnutrición hospitalaria se describe como un círculo vicioso porque:",
+      "opciones": [
+        "Solo afecta a pacientes que rechazan la comida voluntariamente",
+        "La enfermedad favorece la aparición de desnutrición y esta produce un empeoramiento de la enfermedad",
+        "Únicamente aparece tras el alta hospitalaria",
+        "Se debe exclusivamente a la falta de personal de cocina"
+      ],
+      "correcta": 1,
+      "explicacion": "El texto define la desnutrición hospitalaria como un círculo vicioso: la enfermedad favorece la aparición de desnutrición y esta agrava la enfermedad."
+    },
+    {
+      "id": "q003",
+      "tema": "Unidades de Nutrición: modelos y papel en el sistema público de salud",
+      "dificultad": "facil",
+      "enunciado": "Según los principios de atención nutricional, ¿cuál debe ser siempre la primera opción de alimentación?",
+      "opciones": [
+        "La nutrición parenteral",
+        "La nutrición enteral por sonda",
+        "La alimentación ordinaria por vía oral",
+        "La nutrición por sorbos o bebida"
+      ],
+      "correcta": 2,
+      "explicacion": "La alimentación ordinaria por vía oral debe ser siempre la primera opción; la nutrición artificial solo se instaura cuando la oral es imposible, inadecuada o insuficiente."
+    },
+    {
+      "id": "q004",
+      "tema": "Unidades de Nutrición: modelos y papel en el sistema público de salud",
+      "dificultad": "facil",
+      "enunciado": "¿Qué tipo de equipo es un Equipo de Soporte Nutricional?",
+      "opciones": [
+        "Un grupo formado únicamente por médicos especialistas en digestivo",
+        "Un servicio administrativo de gestión de camas hospitalarias",
+        "Un comité externo de auditoría económica del hospital",
+        "Un grupo multidisciplinar de profesionales de la salud con experiencia en nutrición"
+      ],
+      "correcta": 3,
+      "explicacion": "El Equipo de Soporte Nutricional es un grupo multidisciplinar de profesionales de la salud con experiencia en nutrición que ayudan en la provisión del soporte nutricional."
+    },
+    {
+      "id": "q005",
+      "tema": "Unidades de Nutrición: modelos y papel en el sistema público de salud",
+      "dificultad": "facil",
+      "enunciado": "El screening nutricional, dentro de la atención nutricional hospitalaria, consiste en:",
+      "opciones": [
+        "Evaluar el riesgo nutricional de todos los pacientes al ingreso y repetirlo periódicamente",
+        "Calcular el coste económico de cada dieta hospitalaria",
+        "Sustituir todas las comidas por suplementos nutricionales",
+        "Realizar una endoscopia a cada paciente que ingresa"
+      ],
+      "correcta": 0,
+      "explicacion": "El screening nutricional evalúa el riesgo nutricional de todos los pacientes al ingreso y se repite periódicamente; debe ser sencillo y considerar edad, talla, sexo y gravedad de la enfermedad."
+    },
+    {
+      "id": "q006",
+      "tema": "Unidades de Nutrición: modelos y papel en el sistema público de salud",
+      "dificultad": "facil",
+      "enunciado": "¿Qué tres tipos de actividades desarrollan las unidades de nutrición multidisciplinares?",
+      "opciones": [
+        "Comerciales, publicitarias y logísticas",
+        "Asistenciales, docentes y de investigación",
+        "Quirúrgicas, radiológicas y de laboratorio",
+        "Administrativas, jurídicas y financieras"
+      ],
+      "correcta": 1,
+      "explicacion": "Las actividades de las unidades son asistenciales, docentes (sin la docencia las unidades se acabarían) y de investigación."
+    },
+    {
+      "id": "q007",
+      "tema": "Unidades de Nutrición: modelos y papel en el sistema público de salud",
+      "dificultad": "facil",
+      "enunciado": "¿Cuál de los siguientes es uno de los tres grandes motivos por los que las personas enfermas no comen en el hospital?",
+      "opciones": [
+        "Porque la comida hospitalaria siempre está fría",
+        "Porque prefieren comprar comida fuera del hospital",
+        "Porque no pueden, no quieren o no les dejamos",
+        "Porque desconocen los horarios de las comidas"
+      ],
+      "correcta": 2,
+      "explicacion": "El texto agrupa las causas en porque no pueden (disfagia, cirugía, patología digestiva), porque no quieren (anorexia, náuseas, depresión) y porque no les dejamos (ayunos, suspensión de comidas)."
+    },
+    {
+      "id": "q008",
+      "tema": "Unidades de Nutrición: modelos y papel en el sistema público de salud",
+      "dificultad": "medio",
+      "enunciado": "¿Cuáles son los cuatro ejes de actuación que establece la Resolución del Consejo de Europa sobre alimentación y atención nutricional en hospitales (2003)?",
+      "opciones": [
+        "Cribado genético, vacunación, aislamiento y cuarentena",
+        "Facturación, hostelería, limpieza y seguridad",
+        "Investigación, docencia, asistencia y gestión económica",
+        "Screening nutricional, prevención de causas, plan de soporte nutricional y responsabilidades claras"
+      ],
+      "correcta": 3,
+      "explicacion": "La Resolución del Consejo de Europa de 2003 establece cuatro ejes: screening nutricional, prevención de causas, plan de soporte nutricional personalizado y responsabilidades claras entre los profesionales."
+    },
+    {
+      "id": "q009",
+      "tema": "Unidades de Nutrición: modelos y papel en el sistema público de salud",
+      "dificultad": "medio",
+      "enunciado": "Respecto al método de monitorización del riesgo nutricional, ¿qué característica debe cumplir?",
+      "opciones": [
+        "Debe ser complejo y reservado solo a especialistas",
+        "Debe aplicarse únicamente tras el alta hospitalaria",
+        "Debe ser fácil de emplear y de entender, e identificar a quienes puedan beneficiarse del soporte nutricional",
+        "Debe basarse exclusivamente en pruebas de imagen avanzadas"
+      ],
+      "correcta": 2,
+      "explicacion": "El método de monitorización del riesgo nutricional debe ser fácil de emplear y de entender, y debe asegurar la identificación de los pacientes que puedan beneficiarse del soporte nutricional."
+    },
+    {
+      "id": "q010",
+      "tema": "Unidades de Nutrición: modelos y papel en el sistema público de salud",
+      "dificultad": "medio",
+      "enunciado": "¿En qué orden se desarrolla el flujo de decisiones del algoritmo de screening nutricional (ASPEN)?",
+      "opciones": [
+        "Plan e implementación, screening, monitorización y valoración",
+        "Valoración completa, screening al ingreso, monitorización y plan",
+        "Screening al ingreso, valoración completa, plan e implementación y monitorización continua",
+        "Monitorización continua, plan, valoración y screening al alta"
+      ],
+      "correcta": 2,
+      "explicacion": "El flujo sigue cuatro pasos en orden: screening al ingreso, valoración completa, plan e implementación, y monitorización continua."
+    },
+    {
+      "id": "q011",
+      "tema": "Unidades de Nutrición: modelos y papel en el sistema público de salud",
+      "dificultad": "medio",
+      "enunciado": "¿Qué organización impulsó en Cancún (2008) la Declaración Internacional del Derecho a la Nutrición en los hospitales?",
+      "opciones": [
+        "FELANPE",
+        "SENPE",
+        "JCAHO",
+        "El Consejo de Europa"
+      ],
+      "correcta": 0,
+      "explicacion": "La FELANPE (Federación Latinoamericana de Terapia Nutricional, Nutrición Clínica y Metabolismo) impulsó en Cancún en 2008 la Declaración Internacional del Derecho a la Nutrición en hospitales."
+    },
+    {
+      "id": "q012",
+      "tema": "Unidades de Nutrición: modelos y papel en el sistema público de salud",
+      "dificultad": "medio",
+      "enunciado": "¿Cuál de los siguientes se cita como un beneficio CLÍNICO de los equipos de soporte nutricional?",
+      "opciones": [
+        "La reducción del coste de proporcionar soporte nutricional",
+        "El menor desperdicio de la fórmula",
+        "La reducción de la morbilidad y la mortalidad",
+        "La reducción de la exposición a responsabilidades legales"
+      ],
+      "correcta": 2,
+      "explicacion": "Entre los beneficios clínicos figuran el reconocimiento y tratamiento precoz de la desnutrición, la reducción de complicaciones mecánicas y metabólicas, y la reducción de la morbilidad y mortalidad; los demás son beneficios económicos u organizativos."
+    },
+    {
+      "id": "q013",
+      "tema": "Unidades de Nutrición: modelos y papel en el sistema público de salud",
+      "dificultad": "medio",
+      "enunciado": "En relación con la autonomía funcional de las unidades de nutrición multidisciplinares, ¿qué se exige?",
+      "opciones": [
+        "Que dependan jerárquicamente del servicio de farmacia",
+        "Que no elaboren ningún reglamento interno",
+        "Que su actividad se limite exclusivamente a la planta de hospitalización",
+        "Que se organicen con libertad pero dejándolo todo por escrito en los manuales"
+      ],
+      "correcta": 3,
+      "explicacion": "La autonomía funcional implica libertad para organizarse sin depender de nadie, pero todo debe quedar reflejado por escrito en los manuales, junto a un reglamento interno de funcionamiento."
+    },
+    {
+      "id": "q014",
+      "tema": "Unidades de Nutrición: modelos y papel en el sistema público de salud",
+      "dificultad": "medio",
+      "enunciado": "¿Qué se indica sobre la nutrición por sorbos o bebida (suplementos) frente a la alimentación ordinaria?",
+      "opciones": [
+        "Debe sustituir siempre a la alimentación ordinaria en ancianos",
+        "No debe usarse para sustituir una adecuada ingesta de alimentos ordinarios y solo se emplea con indicaciones médicas evidentes",
+        "Es la primera opción de soporte en todo paciente ingresado",
+        "Está prohibida en el ámbito hospitalario"
+      ],
+      "correcta": 1,
+      "explicacion": "La nutrición por sorbos no debe sustituir una adecuada ingesta de alimentos ordinarios y solo se empleará cuando existan indicaciones médicas evidentes; los suplementos suplementan, no sustituyen a la nutrición oral."
+    },
+    {
+      "id": "q015",
+      "tema": "Unidades de Nutrición: modelos y papel en el sistema público de salud",
+      "dificultad": "medio",
+      "enunciado": "¿Cuál es el ámbito de actuación de una unidad de nutrición según el material?",
+      "opciones": [
+        "Únicamente la planta de hospitalización",
+        "Exclusivamente la atención primaria",
+        "Solo los quirófanos y la UCI",
+        "Hospital, consultas externas y nutrición artificial domiciliaria"
+      ],
+      "correcta": 3,
+      "explicacion": "El ámbito de actuación incluye el hospital (ingresados, consultas y UCI), las consultas externas de seguimiento ambulatorio y la nutrición artificial domiciliaria coordinada con Atención Primaria."
+    },
+    {
+      "id": "q016",
+      "tema": "Unidades de Nutrición: modelos y papel en el sistema público de salud",
+      "dificultad": "dificil",
+      "enunciado": "Un paciente con riesgo nutricional identificado va a recibir nutrición artificial. Según los principios de soporte nutricional, ¿con qué frecuencia mínima debe revisarse y ajustarse su plan de tratamiento?",
+      "opciones": [
+        "Una vez al mes",
+        "Cada día obligatoriamente",
+        "Al menos una vez por semana",
+        "Solo al alta hospitalaria"
+      ],
+      "correcta": 2,
+      "explicacion": "El plan de tratamiento nutricional debe revisarse y ajustarse al menos una vez por semana, basándose en la ingesta nutricional, las variaciones de peso y otras variables clínicas."
+    },
+    {
+      "id": "q017",
+      "tema": "Unidades de Nutrición: modelos y papel en el sistema público de salud",
+      "dificultad": "dificil",
+      "enunciado": "Según los estudios citados, ¿qué prevalencia de desnutrición moderada o grave al alta hospitalaria se alcanza en los pacientes mayores de 85 años?",
+      "opciones": [
+        "Alrededor del 50% (estudio PREDyCES, 2012)",
+        "Alrededor del 20%",
+        "Alrededor del 70%",
+        "Alrededor del 10%"
+      ],
+      "correcta": 0,
+      "explicacion": "La prevalencia aumenta con la edad y en mayores de 85 años alcanza el 50% al alta hospitalaria, según el estudio PREDyCES de 2012."
+    },
+    {
+      "id": "q018",
+      "tema": "Unidades de Nutrición: modelos y papel en el sistema público de salud",
+      "dificultad": "dificil",
+      "enunciado": "Un paciente con esclerosis lateral amiotrófica (ELA) precisa nutrición enteral domiciliaria. ¿En qué grupo de indicaciones del Anexo I se clasificaría?",
+      "opciones": [
+        "Grupo A: alteraciones mecánicas de la deglución",
+        "Grupo N: trastornos neuromotores",
+        "Grupo C: requerimientos especiales",
+        "Grupo D: desnutrición severa"
+      ],
+      "correcta": 1,
+      "explicacion": "El Grupo N corresponde a trastornos neuromotores, e incluye la ELA, el ictus, la parálisis cerebral y el coma."
+    },
+    {
+      "id": "q019",
+      "tema": "Unidades de Nutrición: modelos y papel en el sistema público de salud",
+      "dificultad": "dificil",
+      "enunciado": "Respecto al consentimiento informado en el soporte nutricional artificial, ¿qué actuación es correcta si un paciente rechaza la nutrición enteral?",
+      "opciones": [
+        "Administrarla de forma forzosa por su propia seguridad",
+        "Respetar su negativa; si negarse supone problemas graves para su salud, habría que pedir permiso a un juez",
+        "Suspender de inmediato toda atención médica",
+        "Sustituirla automáticamente por nutrición parenteral sin avisar"
+      ],
+      "correcta": 1,
+      "explicacion": "No se puede obligar a un paciente a tomar nutrición enteral; si su negativa supone problemas graves para su salud, habría que pedir permiso a un juez. Se respeta la voluntad del paciente de rechazar el soporte."
+    },
+    {
+      "id": "q020",
+      "tema": "Unidades de Nutrición: modelos y papel en el sistema público de salud",
+      "dificultad": "dificil",
+      "enunciado": "¿Qué norma reconoce la Unidad de Nutrición y Dietética (U.11) dentro de la oferta asistencial hospitalaria?",
+      "opciones": [
+        "El Real Decreto 1277/2003",
+        "La Resolución del Consejo de Europa de 1995",
+        "El consenso SENPE de 2011",
+        "La Declaración de Cancún de 2008"
+      ],
+      "correcta": 0,
+      "explicacion": "El Equipo/Unidad de Soporte Nutricional está reconocido por el Real Decreto 1277/2003 (U.11 Nutrición y dietética), publicado en el BOE en 2003."
+    },
+    {
+      "id": "q021",
+      "tema": "Unidades de Nutrición: modelos y papel en el sistema público de salud",
+      "dificultad": "dificil",
+      "enunciado": "Sobre la prescripción de la Nutrición Enteral Domiciliaria (NED), ¿qué afirmación es correcta tras la pandemia?",
+      "opciones": [
+        "El formato de prescripción mediante el Anexo I sigue siendo obligatorio e inalterado",
+        "El formato del Anexo I quedó obsoleto y ahora se realiza mediante informe a inspección médica y coordinación con hospitalización a domicilio o el cuidador principal",
+        "La NED ya no requiere ningún informe justificativo",
+        "La NED solo puede prescribirse desde atención primaria sin coordinación hospitalaria"
+      ],
+      "correcta": 1,
+      "explicacion": "El formato de prescripción mediante el Anexo I quedó obsoleto tras la pandemia; actualmente el proceso se realiza mediante informe a inspección médica y coordinación con hospitalización a domicilio o el cuidador principal."
+    },
+    {
+      "id": "q022",
+      "tema": "Unidades de Nutrición: modelos y papel en el sistema público de salud",
+      "dificultad": "dificil",
+      "enunciado": "En el estudio de Ulibarri et al. (2002, n=6.252) realizado en España, ¿qué porcentaje de pacientes presentaba desnutrición moderada o grave, y en qué procesos era más frecuente?",
+      "opciones": [
+        "El 42%, más frecuente en procesos médicos que en quirúrgicos",
+        "El 80%, más frecuente en procesos quirúrgicos que en médicos",
+        "El 30%, sin diferencias entre procesos médicos y quirúrgicos",
+        "El 50%, exclusivamente en pacientes oncológicos"
+      ],
+      "correcta": 0,
+      "explicacion": "En el estudio de Ulibarri et al. (2002, n=6.252) el 42% presentaba desnutrición moderada o grave, siendo más frecuente en procesos médicos que en quirúrgicos."
+    },
+    {
+      "id": "q023",
+      "tema": "Suplementos alimenticios y dietéticos I",
+      "dificultad": "facil",
+      "enunciado": "¿Qué vía de soporte nutricional ocupa la cúspide de la pirámide de la nutrición clínica?",
+      "opciones": [
+        "La alimentación tradicional",
+        "La suplementación oral",
+        "La nutrición parenteral",
+        "La nutrición enteral"
+      ],
+      "correcta": 2,
+      "explicacion": "La nutrición parenteral ocupa la cúspide de la pirámide, siendo la de mayor coste y especialización y administrándose por vía intravenosa."
+    },
+    {
+      "id": "q024",
+      "tema": "Suplementos alimenticios y dietéticos I",
+      "dificultad": "facil",
+      "enunciado": "¿Qué ocurre con el potencial de consumo y la satisfacción organoléptica a medida que se asciende en la pirámide de la nutrición clínica?",
+      "opciones": [
+        "Ambos aumentan",
+        "Ambos disminuyen",
+        "El potencial aumenta y la satisfacción disminuye",
+        "Permanecen constantes"
+      ],
+      "correcta": 1,
+      "explicacion": "A medida que se asciende en la pirámide disminuyen el potencial de consumo y la satisfacción social y organoléptica, mientras aumenta la complejidad técnica."
+    },
+    {
+      "id": "q025",
+      "tema": "Suplementos alimenticios y dietéticos I",
+      "dificultad": "facil",
+      "enunciado": "La Alimentación Básica Adaptada (ABA) está dirigida principalmente a pacientes con:",
+      "opciones": [
+        "Fallo intestinal absoluto",
+        "Dificultades de masticación o deglución",
+        "Imposibilidad de usar la vía digestiva",
+        "Requerimientos energéticos muy elevados"
+      ],
+      "correcta": 1,
+      "explicacion": "La ABA consiste en alimentos de textura modificada que facilitan la ingesta en pacientes con dificultades de masticación o deglución."
+    },
+    {
+      "id": "q026",
+      "tema": "Suplementos alimenticios y dietéticos I",
+      "dificultad": "facil",
+      "enunciado": "¿Cuál es la primera opción de soporte nutricional siempre que sea posible?",
+      "opciones": [
+        "La dieta oral",
+        "La nutrición enteral por sonda",
+        "La suplementación oral",
+        "La nutrición parenteral periférica"
+      ],
+      "correcta": 0,
+      "explicacion": "La dieta oral es la primera opción siempre que sea posible e incluye la alimentación tradicional y sus variantes terapéuticas adaptadas."
+    },
+    {
+      "id": "q027",
+      "tema": "Suplementos alimenticios y dietéticos I",
+      "dificultad": "facil",
+      "enunciado": "¿Qué modalidades incluye el Soporte Nutricional Artificial (SNA)?",
+      "opciones": [
+        "Solo la nutrición enteral",
+        "La dieta basal y las dietas terapéuticas",
+        "La nutrición enteral (NE) y la nutrición parenteral (NP)",
+        "La ABA y la dieta oral"
+      ],
+      "correcta": 2,
+      "explicacion": "El Soporte Nutricional Artificial incluye la nutrición enteral (NE) y la nutrición parenteral (NP), indicadas cuando la vía oral es insuficiente o imposible."
+    },
+    {
+      "id": "q028",
+      "tema": "Suplementos alimenticios y dietéticos I",
+      "dificultad": "facil",
+      "enunciado": "La suplementación oral se caracteriza porque:",
+      "opciones": [
+        "Sustituye por completo a la alimentación tradicional",
+        "Se administra siempre por vía intravenosa",
+        "Es un complemento que se añade a la dieta habitual cuando no cubre los requerimientos",
+        "Requiere que el tubo digestivo no sea funcional"
+      ],
+      "correcta": 2,
+      "explicacion": "La suplementación oral es un complemento dietético que se añade a la dieta habitual cuando esta no cubre los requerimientos, y no sustituye a la alimentación tradicional."
+    },
+    {
+      "id": "q029",
+      "tema": "Suplementos alimenticios y dietéticos I",
+      "dificultad": "facil",
+      "enunciado": "¿Qué vía de acceso utiliza la nutrición enteral?",
+      "opciones": [
+        "La vía intravenosa",
+        "El tracto gastrointestinal",
+        "La vía subcutánea",
+        "La vía intramuscular"
+      ],
+      "correcta": 1,
+      "explicacion": "La nutrición enteral comprende todas las técnicas de soporte nutricional que utilizan el tracto gastrointestinal como vía de acceso."
+    },
+    {
+      "id": "q030",
+      "tema": "Suplementos alimenticios y dietéticos I",
+      "dificultad": "medio",
+      "enunciado": "¿Por qué se prefiere la vía enteral frente a la parenteral cuando el tubo digestivo es funcionante?",
+      "opciones": [
+        "Por sus beneficios fisiológicos, menor coste y menor tasa de complicaciones",
+        "Porque siempre cubre el 100% de los requerimientos",
+        "Porque no necesita supervisión médica",
+        "Porque tiene mayor grado de especialización"
+      ],
+      "correcta": 0,
+      "explicacion": "Siempre que el tubo digestivo sea funcionante, la vía enteral se prefiere frente a la parenteral por sus beneficios fisiológicos, su menor coste y su menor tasa de complicaciones."
+    },
+    {
+      "id": "q031",
+      "tema": "Suplementos alimenticios y dietéticos I",
+      "dificultad": "medio",
+      "enunciado": "¿Qué significan las siglas ADUME en el contexto de la nutrición enteral?",
+      "opciones": [
+        "Aditivos Dietéticos de Uso Médico Especial",
+        "Alimentos Dietéticos destinados a Usos Médicos Especiales",
+        "Análisis Dietético Universal de Macronutrientes Esenciales",
+        "Administración Domiciliaria de Unidades de Mezcla Enteral"
+      ],
+      "correcta": 1,
+      "explicacion": "Los ADUME's son los Alimentos Dietéticos destinados a Usos Médicos Especiales, regulados para garantizar su seguridad, eficacia y composición nutricional adecuada."
+    },
+    {
+      "id": "q032",
+      "tema": "Suplementos alimenticios y dietéticos I",
+      "dificultad": "medio",
+      "enunciado": "Una característica que define a las fórmulas de nutrición enteral (NET) es que:",
+      "opciones": [
+        "Aportan únicamente macronutrientes sin micronutrientes",
+        "Son nutricionalmente completas y suficientes para cubrir todos los requerimientos",
+        "Solo pueden administrarse por vía intravenosa",
+        "No tienen una composición químicamente definida"
+      ],
+      "correcta": 1,
+      "explicacion": "Las fórmulas de nutrición enteral son preparados con fórmula químicamente definida, mezcla equilibrada de macro y micronutrientes, nutricionalmente completas y con suficiencia para cubrir todos los requerimientos."
+    },
+    {
+      "id": "q033",
+      "tema": "Suplementos alimenticios y dietéticos I",
+      "dificultad": "medio",
+      "enunciado": "En el ámbito hospitalario, la nutrición artificial engloba tres modalidades. ¿Cuáles son?",
+      "opciones": [
+        "Dieta basal, dieta terapéutica y ABA",
+        "Suplementos nutricionales, nutrición enteral y nutrición parenteral",
+        "Vía oral, vía nasogástrica y vía intravenosa",
+        "ABA, suplementación y dieta oral"
+      ],
+      "correcta": 1,
+      "explicacion": "La nutrición artificial engloba tres modalidades: suplementos nutricionales (complemento oral), nutrición enteral (por sonda u ostomía) y nutrición parenteral (aporte intravenoso)."
+    },
+    {
+      "id": "q034",
+      "tema": "Suplementos alimenticios y dietéticos I",
+      "dificultad": "medio",
+      "enunciado": "Ordenadas de menor a mayor complejidad, ¿cuál es la secuencia correcta de las vías de administración?",
+      "opciones": [
+        "Nutrición parenteral, enteral, suplementación, vía oral",
+        "Vía oral, suplementación, nutrición enteral, nutrición parenteral",
+        "Suplementación, vía oral, nutrición parenteral, nutrición enteral",
+        "Vía oral, nutrición parenteral, nutrición enteral, suplementación"
+      ],
+      "correcta": 1,
+      "explicacion": "De menor a mayor complejidad las vías son: vía oral, suplementación, nutrición enteral y nutrición parenteral."
+    },
+    {
+      "id": "q035",
+      "tema": "Suplementos alimenticios y dietéticos I",
+      "dificultad": "medio",
+      "enunciado": "Según los criterios NICE, el orden de prioridad del soporte nutricional es:",
+      "opciones": [
+        "Parenteral sobre enteral, y enteral sobre oral",
+        "Enteral sobre oral, y oral sobre parenteral",
+        "Oral sobre enteral, y enteral sobre parenteral",
+        "Suplementación sobre oral, y oral sobre enteral"
+      ],
+      "correcta": 2,
+      "explicacion": "Los criterios NICE establecen que se priorizará siempre la nutrición oral sobre la enteral, y la enteral sobre la parenteral, buscando que sea seguro, sencillo y coste-eficiente."
+    },
+    {
+      "id": "q036",
+      "tema": "Suplementos alimenticios y dietéticos I",
+      "dificultad": "medio",
+      "enunciado": "¿Cuándo está indicada la nutrición parenteral según las indicaciones de nutrición artificial?",
+      "opciones": [
+        "Cuando la dieta oral es insuficiente pero el tubo digestivo es funcional",
+        "Siempre que el paciente requiera suplementos",
+        "Cuando hay fallo intestinal o imposibilidad absoluta de usar la vía enteral",
+        "Como primera elección en todo paciente hospitalizado"
+      ],
+      "correcta": 2,
+      "explicacion": "La NPT/NPPH está reservada para pacientes con fallo intestinal o imposibilidad absoluta de usar la vía enteral."
+    },
+    {
+      "id": "q037",
+      "tema": "Suplementos alimenticios y dietéticos I",
+      "dificultad": "medio",
+      "enunciado": "¿Qué se quiere expresar al afirmar que la nutrición artificial es un \"concepto dinámico\"?",
+      "opciones": [
+        "Que solo puede aplicarse durante 5 días",
+        "Que pueden combinarse NE, NP y suplementación oral según la evolución del paciente",
+        "Que cambia de coste cada semana",
+        "Que solo se administra por vía intravenosa"
+      ],
+      "correcta": 1,
+      "explicacion": "La nutrición artificial es un concepto dinámico porque puede combinarse NE + NP + suplementación oral según la evolución del paciente, manteniendo la ingesta oral en lo posible."
+    },
+    {
+      "id": "q038",
+      "tema": "Suplementos alimenticios y dietéticos I",
+      "dificultad": "dificil",
+      "enunciado": "En el hospital, el 90% de los pacientes recibe dieta oral. De ese grupo, ¿cómo se reparte entre dieta basal y terapéutica?",
+      "opciones": [
+        "40% dieta basal y 60% dieta terapéutica",
+        "60% dieta basal y 40% dieta terapéutica",
+        "50% dieta basal y 50% dieta terapéutica",
+        "30% dieta basal y 70% dieta terapéutica"
+      ],
+      "correcta": 0,
+      "explicacion": "Del 90% que recibe dieta oral, el 40% lleva dieta basal y el 60% dieta terapéutica."
+    },
+    {
+      "id": "q039",
+      "tema": "Suplementos alimenticios y dietéticos I",
+      "dificultad": "dificil",
+      "enunciado": "Según la distribución del soporte nutricional en el hospital, ¿qué porcentaje de pacientes recibe nutrición artificial y cómo se reparte?",
+      "opciones": [
+        "10%, con 8% enteral y 2% parenteral",
+        "8%, con 6% enteral y 2% parenteral",
+        "6%, con 4% enteral y 2% parenteral",
+        "2%, con 1% enteral y 1% parenteral"
+      ],
+      "correcta": 1,
+      "explicacion": "El 8% recibe nutrición artificial, siendo el 6% nutrición enteral y el 2% nutrición parenteral; el 2% restante corresponde a pacientes sin ingesta registrada."
+    },
+    {
+      "id": "q040",
+      "tema": "Suplementos alimenticios y dietéticos I",
+      "dificultad": "dificil",
+      "enunciado": "Un paciente con malnutrición establecida presenta un IMC de 19 kg/m². ¿Qué dato adicional indicaría soporte nutricional según los criterios NICE?",
+      "opciones": [
+        "Una pérdida involuntaria de peso > 5% en los últimos 3-6 meses",
+        "Cualquier pérdida de peso del 2%",
+        "Una ganancia de peso reciente",
+        "Un IMC superior a 20 kg/m²"
+      ],
+      "correcta": 0,
+      "explicacion": "Con IMC < 20 kg/m² el soporte está indicado cuando se acompaña de una pérdida involuntaria de peso > 5% en los últimos 3-6 meses."
+    },
+    {
+      "id": "q041",
+      "tema": "Suplementos alimenticios y dietéticos I",
+      "dificultad": "dificil",
+      "enunciado": "¿Cuál de los siguientes criterios, por sí solo, indica soporte nutricional en malnutrición establecida?",
+      "opciones": [
+        "Un IMC de 21 kg/m² sin pérdida de peso",
+        "Una pérdida involuntaria de peso del 4% en 6 meses",
+        "Un IMC < 18,5 kg/m²",
+        "Una previsión de ayuno de 2 días"
+      ],
+      "correcta": 2,
+      "explicacion": "En malnutrición establecida, un IMC < 18,5 kg/m² indica por sí solo soporte nutricional, al igual que una pérdida involuntaria de peso superior al 10% en 3-6 meses."
+    },
+    {
+      "id": "q042",
+      "tema": "Suplementos alimenticios y dietéticos I",
+      "dificultad": "dificil",
+      "enunciado": "En un paciente con riesgo de malnutrición, ¿qué situación relacionada con la ingesta justifica el soporte nutricional según los criterios NICE?",
+      "opciones": [
+        "Escasa o nula ingesta en los últimos 5 días y/o previsión de ayuno ≥ 5 días",
+        "Una sola comida omitida en el día",
+        "Ingesta normal con buena absorción",
+        "Previsión de ayuno de 24 horas"
+      ],
+      "correcta": 0,
+      "explicacion": "En riesgo de malnutrición está indicado el soporte ante escasa o nula ingesta en los últimos 5 días y/o previsión de ayuno ≥ 5 días."
+    },
+    {
+      "id": "q043",
+      "tema": "Suplementos alimenticios y dietéticos I",
+      "dificultad": "dificil",
+      "enunciado": "Un paciente tiene el tubo digestivo funcional, pero la dieta oral resulta insuficiente y la suplementación no basta. ¿Qué modalidad sería la indicada?",
+      "opciones": [
+        "Nutrición parenteral total",
+        "Nutrición enteral por sonda u ostomía",
+        "Mantener únicamente la dieta basal",
+        "Ayuno terapéutico"
+      ],
+      "correcta": 1,
+      "explicacion": "Si el tubo digestivo es funcional pero la dieta oral es imposible o insuficiente, está indicada la nutrición enteral mediante sonda u ostomía, preferida frente a la parenteral."
+    },
+    {
+      "id": "q044",
+      "tema": "Suplementos alimenticios y dietéticos I",
+      "dificultad": "dificil",
+      "enunciado": "Los ADUME's están destinados específicamente a pacientes cuya capacidad para:",
+      "opciones": [
+        "Ingerir, digerir, absorber, metabolizar o excretar alimentos esté limitada, deficiente o alterada",
+        "Realizar ejercicio físico esté reducida",
+        "Tolerar la vía intravenosa esté comprometida",
+        "Seguir una dieta basal sea adecuada"
+      ],
+      "correcta": 0,
+      "explicacion": "Los ADUME's se destinan a pacientes cuya capacidad para ingerir, digerir, absorber, metabolizar o excretar alimentos sea limitada, deficiente o esté alterada, o que necesiten nutrientes no aportables solo modificando la dieta."
+    },
+    {
+      "id": "q045",
+      "tema": "Suplementos alimenticios y dietéticos especiales II",
+      "dificultad": "facil",
+      "enunciado": "¿Cómo se define un suplemento de nutrición enteral (NEO)?",
+      "opciones": [
+        "Un preparado que complementa una dieta oral sin suficiencia nutricional y que no puede constituir la única fuente de alimentación",
+        "Una fórmula completa que se administra siempre por sonda como única fuente de nutrición",
+        "Un alimento de textura modificada destinado exclusivamente a pacientes con disfagia",
+        "Un preparado de nutrientes aislados para constituir una dieta modular"
+      ],
+      "correcta": 0,
+      "explicacion": "El NEO complementa una dieta oral sin suficiencia nutricional y no puede ser fuente exclusiva de alimentación."
+    },
+    {
+      "id": "q046",
+      "tema": "Suplementos alimenticios y dietéticos especiales II",
+      "dificultad": "facil",
+      "enunciado": "¿Qué es un módulo de nutrición enteral?",
+      "opciones": [
+        "Un alimento triturado de alto valor nutricional listo para consumir",
+        "Un espesante para adaptar la consistencia de los líquidos",
+        "Una fórmula completa administrada por ostomía como fuente exclusiva",
+        "Un preparado que contiene nutrientes aislados que pueden mezclarse para constituir o modificar una fórmula"
+      ],
+      "correcta": 3,
+      "explicacion": "El módulo contiene nutrientes aislados que pueden mezclarse entre sí para constituir una fórmula completa o añadirse para modificar su composición."
+    },
+    {
+      "id": "q047",
+      "tema": "Suplementos alimenticios y dietéticos especiales II",
+      "dificultad": "facil",
+      "enunciado": "¿Qué son los alimentos de la Alimentación Básica Adaptada (ABA)?",
+      "opciones": [
+        "Fórmulas administradas exclusivamente por sonda nasogástrica",
+        "Soluciones de aminoácidos libres de máxima absorción",
+        "Nutrientes aislados para enriquecer fórmulas estándar",
+        "Alimentos de textura modificada, fáciles de masticar y deglutir, para personas con dificultades para alimentarse"
+      ],
+      "correcta": 3,
+      "explicacion": "La ABA son alimentos de textura modificada, fáciles de masticar y deglutir, destinados a personas con dificultades para alimentarse correctamente."
+    },
+    {
+      "id": "q048",
+      "tema": "Suplementos alimenticios y dietéticos especiales II",
+      "dificultad": "facil",
+      "enunciado": "¿Qué caracteriza a una fórmula de nutrición enteral (NET)?",
+      "opciones": [
+        "Es un preparado nutricional completo administrado por vía digestiva como fuente exclusiva o principal de nutrición",
+        "Es un complemento parcial que nunca cubre las RDA",
+        "Es un módulo de fibra para regular el tránsito intestinal",
+        "Es un espesante para pacientes con disfagia"
+      ],
+      "correcta": 0,
+      "explicacion": "Las NET son preparados completos administrados por vía digestiva (oral, sondas, ostomías) como fuente exclusiva o principal, con suficiencia nutricional."
+    },
+    {
+      "id": "q049",
+      "tema": "Suplementos alimenticios y dietéticos especiales II",
+      "dificultad": "facil",
+      "enunciado": "¿Cuál es la indicación principal de la Alimentación Básica Adaptada (ABA)?",
+      "opciones": [
+        "La insuficiencia renal crónica en diálisis",
+        "El fallo intestinal severo",
+        "La disfagia y las alteraciones deglutorias",
+        "La hipercolesterolemia"
+      ],
+      "correcta": 2,
+      "explicacion": "La disfagia y las alteraciones deglutorias son la indicación principal de la ABA, por el riesgo de aspiración al tragar líquidos y/o sólidos."
+    },
+    {
+      "id": "q050",
+      "tema": "Suplementos alimenticios y dietéticos especiales II",
+      "dificultad": "facil",
+      "enunciado": "Según su densidad calórica, ¿qué fórmula se considera normocalórica o isocalórica?",
+      "opciones": [
+        "La que proporciona menos de 0,9 kcal/ml",
+        "La que proporciona entre 0,9 y 1,2 kcal/ml",
+        "La que proporciona igual o más de 1,2 kcal/ml",
+        "La que proporciona más de 2 kcal/ml"
+      ],
+      "correcta": 1,
+      "explicacion": "Las fórmulas normocalóricas o isocalóricas proporcionan entre 0,9 y 1,2 kcal/ml, como fórmula estándar."
+    },
+    {
+      "id": "q051",
+      "tema": "Suplementos alimenticios y dietéticos especiales II",
+      "dificultad": "facil",
+      "enunciado": "¿Qué define a una fórmula enteral polimérica?",
+      "opciones": [
+        "Aporta las proteínas como aminoácidos libres únicamente",
+        "Aporta las proteínas hidrolizadas en péptidos pequeños",
+        "Aporta las proteínas intactas, como macromoléculas o péptidos grandes",
+        "Carece por completo de fuente proteica"
+      ],
+      "correcta": 2,
+      "explicacion": "En la fórmula polimérica las proteínas se aportan intactas; requiere función digestiva y absortiva conservada y es la más habitual."
+    },
+    {
+      "id": "q052",
+      "tema": "Suplementos alimenticios y dietéticos especiales II",
+      "dificultad": "medio",
+      "enunciado": "¿Qué diferencia a un preparado nutricional completo de un suplemento dietético dentro de los NEO?",
+      "opciones": [
+        "El completo solo aporta micronutrientes y el dietético solo macronutrientes",
+        "El completo puede usarse como única fuente de alimentación, mientras que el dietético se administra siempre como complemento de la dieta oral",
+        "Ambos pueden usarse indistintamente como única fuente",
+        "El dietético cubre las RDA por sí solo y el completo no"
+      ],
+      "correcta": 1,
+      "explicacion": "El preparado completo cubre las RDA y puede ser única fuente; el suplemento dietético hace una aportación parcial y se administra siempre como complemento de la dieta oral."
+    },
+    {
+      "id": "q053",
+      "tema": "Suplementos alimenticios y dietéticos especiales II",
+      "dificultad": "medio",
+      "enunciado": "¿En qué cuatro tipos se clasifican las fórmulas de nutrición enteral (NET)?",
+      "opciones": [
+        "Líquidas, en polvo, en crema y en barrita",
+        "Isotónicas, hipertónicas, hipotónicas y elementales",
+        "Poliméricas, oligoméricas, especiales y modulares",
+        "Normocalóricas, hipercalóricas, hipocalóricas e inmunomoduladoras"
+      ],
+      "correcta": 2,
+      "explicacion": "Las NET se clasifican en poliméricas (proteína intacta), oligoméricas (proteína hidrolizada), especiales (adaptadas a patologías) y modulares (nutrientes aislados)."
+    },
+    {
+      "id": "q054",
+      "tema": "Suplementos alimenticios y dietéticos especiales II",
+      "dificultad": "medio",
+      "enunciado": "Dentro de los modificadores de textura para la disfagia, ¿qué se recomienda como hidratación segura para pacientes con disfagia severa?",
+      "opciones": [
+        "El agua gelificada",
+        "Los caldos diluidos",
+        "Las bebidas carbonatadas",
+        "Los zumos naturales sin espesar"
+      ],
+      "correcta": 0,
+      "explicacion": "El agua gelificada constituye la hidratación segura para pacientes con disfagia severa."
+    },
+    {
+      "id": "q055",
+      "tema": "Suplementos alimenticios y dietéticos especiales II",
+      "dificultad": "medio",
+      "enunciado": "¿Qué inmunonutrientes aportan las fórmulas inmunomoduladoras?",
+      "opciones": [
+        "Celulosa, lignina y pectinas",
+        "Calcio, magnesio, hierro y zinc",
+        "Almidones modificados y dextrinomaltosas",
+        "Arginina, glutamina, omega-3 y nucleótidos"
+      ],
+      "correcta": 3,
+      "explicacion": "Las fórmulas inmunomoduladoras aportan arginina, glutamina, omega-3 y nucleótidos, con capacidad de modular la respuesta inmunitaria."
+    },
+    {
+      "id": "q056",
+      "tema": "Suplementos alimenticios y dietéticos especiales II",
+      "dificultad": "medio",
+      "enunciado": "Según el criterio de forma química de los nutrientes, ¿qué incluye el grupo de las fórmulas oligomonoméricas?",
+      "opciones": [
+        "Únicamente las fórmulas poliméricas con proteína intacta",
+        "Solo las fórmulas enriquecidas con fibra",
+        "Las fórmulas peptídicas y las monoméricas o elementales",
+        "Las fórmulas hipercalóricas y las isotónicas"
+      ],
+      "correcta": 2,
+      "explicacion": "Las oligomonoméricas aportan la proteína hidrolizada e incluyen las fórmulas peptídicas y las monoméricas o elementales, indicadas en malabsorción."
+    },
+    {
+      "id": "q057",
+      "tema": "Suplementos alimenticios y dietéticos especiales II",
+      "dificultad": "medio",
+      "enunciado": "En el algoritmo de elección de fórmula enteral, si el aparato digestivo no funciona, ¿qué se indica?",
+      "opciones": [
+        "Una fórmula estándar polimérica con fibra",
+        "Una fórmula definida específica adaptada a la patología",
+        "Nutrición parenteral total (NPT)",
+        "Una dieta oligomonomérica peptídica"
+      ],
+      "correcta": 2,
+      "explicacion": "Cuando el aparato digestivo no funciona se indica nutrición parenteral total (NPT)."
+    },
+    {
+      "id": "q058",
+      "tema": "Suplementos alimenticios y dietéticos especiales II",
+      "dificultad": "medio",
+      "enunciado": "¿Cuál es el principal inconveniente de los alimentos triturados de alto valor nutricional?",
+      "opciones": [
+        "Que solo pueden administrarse por sonda",
+        "Que requieren gran variedad de alimentos para el equilibrio y, diluidos en caldos, dan una composición no fija e insuficiente con riesgo de desnutrición encubierta",
+        "Que están contraindicados en ancianos institucionalizados",
+        "Que tienen una osmolaridad excesivamente alta"
+      ],
+      "correcta": 1,
+      "explicacion": "Su principal inconveniente es que requieren gran variedad de alimentos y, al diluirse en caldos, producen una composición nutricional no fija e insuficiente, con riesgo de desnutrición encubierta."
+    },
+    {
+      "id": "q059",
+      "tema": "Suplementos alimenticios y dietéticos especiales II",
+      "dificultad": "medio",
+      "enunciado": "¿Qué propiedades fundamentales subraya la definición de fibra dietética de la American Association of Cereal Chemist (2001)?",
+      "opciones": [
+        "Su digestión enzimática completa en el estómago y su absorción en el duodeno",
+        "Su resistencia a la digestión en el intestino delgado y su capacidad de fermentación colónica",
+        "Su solubilidad total en agua y su nulo efecto sobre la microbiota",
+        "Su capacidad calórica directa y su rápida absorción intestinal"
+      ],
+      "correcta": 1,
+      "explicacion": "La definición subraya la resistencia a la digestión enzimática en el intestino delgado y la capacidad de fermentación colónica, de la que dependen muchos efectos beneficiosos."
+    },
+    {
+      "id": "q060",
+      "tema": "Suplementos alimenticios y dietéticos especiales II",
+      "dificultad": "dificil",
+      "enunciado": "¿Qué umbral de aporte define a los NEO empleados como tratamiento dietético para usos médicos especiales?",
+      "opciones": [
+        "Fórmulas con más de 2.000 kcal o 80 g de proteínas/día",
+        "Fórmulas con exactamente 1.500 kcal y 60 g de proteínas/día",
+        "Fórmulas sin límite calórico pero con menos de 20 g de proteínas/día",
+        "Fórmulas con menos de 1.000 kcal o 40 g de proteínas/día"
+      ],
+      "correcta": 3,
+      "explicacion": "Se trata de la administración de fórmulas con menos de 1.000 kcal o 40 g de proteínas/día destinadas a usos médicos especiales."
+    },
+    {
+      "id": "q061",
+      "tema": "Suplementos alimenticios y dietéticos especiales II",
+      "dificultad": "dificil",
+      "enunciado": "Según el criterio de osmolaridad, una fórmula con osmolaridad por encima de 550 mOsm/kg se clasifica como:",
+      "opciones": [
+        "Isotónica, de primera elección por su buena tolerancia",
+        "Moderadamente hipertónica, de tolerancia intermedia",
+        "Hipertónica, con mayor riesgo de intolerancia y diarrea osmótica",
+        "Hipotónica, sin riesgo de diarrea"
+      ],
+      "correcta": 2,
+      "explicacion": "Las fórmulas con osmolaridad superior a 550 mOsm/kg son hipertónicas, con mayor riesgo de intolerancia y diarrea osmótica; se usan con precaución y dilución progresiva."
+    },
+    {
+      "id": "q062",
+      "tema": "Suplementos alimenticios y dietéticos especiales II",
+      "dificultad": "dificil",
+      "enunciado": "Al calcular el aporte hídrico en NET, ¿qué porcentaje de agua libre se atribuye a una fórmula muy concentrada de 2 kcal/cc?",
+      "opciones": [
+        "80% de agua libre",
+        "50% de agua libre",
+        "30% de agua libre",
+        "100% de agua libre"
+      ],
+      "correcta": 2,
+      "explicacion": "Las fórmulas muy concentradas (2 kcal/cc) aportan un 30% de agua libre, frente al 80% de las isocalóricas y el 50% de las energéticas de 1,5 kcal/cc."
+    },
+    {
+      "id": "q063",
+      "tema": "Suplementos alimenticios y dietéticos especiales II",
+      "dificultad": "dificil",
+      "enunciado": "¿Qué característica de composición define a una fórmula enteral rica en grasa, indicada en insuficiencia respiratoria?",
+      "opciones": [
+        "Más del 40% de su VCT procede de lípidos, para reducir la producción de CO2",
+        "El 20% o más del VCT procede de ácidos grasos monoinsaturados",
+        "Más de 3 g/día de omega-3 con efecto antiinflamatorio",
+        "Menos de 35 g/día de fibra fermentable"
+      ],
+      "correcta": 0,
+      "explicacion": "La fórmula rica en grasa obtiene más del 40% de su VCT a partir de lípidos y está indicada en insuficiencia respiratoria para reducir la producción de CO2."
+    },
+    {
+      "id": "q064",
+      "tema": "Suplementos alimenticios y dietéticos especiales II",
+      "dificultad": "dificil",
+      "enunciado": "En una fórmula especial para enfermedad hepática, ¿qué composición se busca?",
+      "opciones": [
+        "Enriquecimiento en sodio y baja en hidratos de carbono",
+        "Enriquecida en aminoácidos de cadena ramificada (AACR), con MCT, baja en grasa total, rica en hidratos de carbono y baja en sodio si hay ascitis",
+        "Alta en grasa (>40% VCT) con omega-3 para reducir el CO2",
+        "Restricción proteica estricta con control de potasio y fósforo"
+      ],
+      "correcta": 1,
+      "explicacion": "Las fórmulas para enfermedad hepática se enriquecen en AACR, con MCT y bajas en grasa total, ricas en hidratos de carbono, concentradas y bajas en sodio en caso de ascitis o retención hídrica."
+    },
+    {
+      "id": "q065",
+      "tema": "Suplementos alimenticios y dietéticos especiales II",
+      "dificultad": "dificil",
+      "enunciado": "¿Cuál es el principal mecanismo antidiarreico de la fibra soluble en nutrición enteral?",
+      "opciones": [
+        "El aumento del volumen del bolo fecal y la aceleración del tránsito",
+        "La absorción de ácidos grasos de cadena corta en el colon, que estimula la reabsorción activa de agua y sodio",
+        "La disminución de la viscosidad del contenido intestinal",
+        "La unión a ácidos biliares y colesterol por parte de las ligninas"
+      ],
+      "correcta": 1,
+      "explicacion": "La absorción de ácidos grasos de cadena corta en el colon estimula la reabsorción activa de agua y sodio, siendo el principal mecanismo antidiarreico de la fibra soluble en NE."
+    },
+    {
+      "id": "q066",
+      "tema": "Suplementos alimenticios y dietéticos especiales II",
+      "dificultad": "dificil",
+      "enunciado": "Una dieta pobre en fibra (pobre en residuo) tiene como indicación principal:",
+      "opciones": [
+        "El estreñimiento crónico y el intestino perezoso",
+        "El control glucémico en la diabetes con NE",
+        "El mantenimiento de la NE domiciliaria prolongada",
+        "La presencia de estenosis del tracto intestinal"
+      ],
+      "correcta": 3,
+      "explicacion": "La principal indicación de la dieta pobre en residuo es la presencia de estenosis del tracto intestinal, buscando disminuir al máximo el volumen fecal."
+    },
+    {
+      "id": "q067",
+      "tema": "Nutrición enteral",
+      "dificultad": "facil",
+      "enunciado": "¿Qué es la nutrición enteral?",
+      "opciones": [
+        "Una técnica de soporte nutricional que introduce nutrientes en el aparato digestivo mediante una dieta líquida de composición conocida",
+        "La administración de nutrientes directamente en una vena central mediante una dieta estéril",
+        "La dieta oral triturada administrada exclusivamente con cubiertos adaptados",
+        "La hidratación por vía subcutánea en pacientes con deshidratación leve"
+      ],
+      "correcta": 0,
+      "explicacion": "La nutrición enteral es una técnica que introduce nutrientes en el aparato digestivo empleando una dieta líquida de composición conocida (fórmula químicamente definida)."
+    },
+    {
+      "id": "q068",
+      "tema": "Nutrición enteral",
+      "dificultad": "facil",
+      "enunciado": "¿Qué requisito básico debe cumplir el paciente para tolerar la nutrición enteral?",
+      "opciones": [
+        "Disponer de un acceso venoso central permeable",
+        "Tener un aparato digestivo anatómico y funcionante útil",
+        "Presentar obstrucción intestinal parcial",
+        "Estar en ayuno absoluto durante al menos 7 días"
+      ],
+      "correcta": 1,
+      "explicacion": "Se requiere un aparato digestivo anatómico y funcionante útil para tolerar la nutrición enteral."
+    },
+    {
+      "id": "q069",
+      "tema": "Nutrición enteral",
+      "dificultad": "facil",
+      "enunciado": "Según la jerarquía del soporte nutricional, ¿cuál es el orden de preferencia?",
+      "opciones": [
+        "Parenteral antes que enteral, y enteral antes que oral",
+        "Enteral antes que oral, y oral antes que parenteral",
+        "Oral antes que enteral, y enteral antes que parenteral",
+        "Parenteral antes que oral, y oral antes que enteral"
+      ],
+      "correcta": 2,
+      "explicacion": "La nutrición oral siempre es preferible a la enteral, y la enteral a la parenteral; el objetivo es mantener el tubo digestivo activo siempre que sea posible."
+    },
+    {
+      "id": "q070",
+      "tema": "Nutrición enteral",
+      "dificultad": "facil",
+      "enunciado": "¿Cuáles son las tres vías principales de acceso al tubo digestivo para la nutrición enteral?",
+      "opciones": [
+        "La boca, la nariz y la vía intramuscular",
+        "La vena periférica, la vena central y la vía subcutánea",
+        "La gastrostomía, la traqueostomía y la cistostomía",
+        "La boca, la sonda y la ostomía"
+      ],
+      "correcta": 3,
+      "explicacion": "Las tres vías principales de acceso son la boca, la sonda (nasogástrica o nasoentérica) y la ostomía (gastrostomía o yeyunostomía)."
+    },
+    {
+      "id": "q071",
+      "tema": "Nutrición enteral",
+      "dificultad": "facil",
+      "enunciado": "¿Cuál es la complicación más grave del soporte nutricional enteral entre las infecciosas?",
+      "opciones": [
+        "La neumonía por aspiración",
+        "La otitis media por obstrucción de la trompa de Eustaquio",
+        "La sinusitis secundaria a sondas permanentes",
+        "La contaminación de la dieta por manipulación inadecuada"
+      ],
+      "correcta": 0,
+      "explicacion": "La neumonía por aspiración es la complicación más grave del soporte nutricional enteral y requiere prevención activa y tratamiento precoz."
+    },
+    {
+      "id": "q072",
+      "tema": "Nutrición enteral",
+      "dificultad": "facil",
+      "enunciado": "¿Cuál es la vía de elección para la administración de nutrición enteral por ostomía?",
+      "opciones": [
+        "La yeyunostomía, por evitar el reflujo",
+        "El estómago (gastrostomía), por su capacidad de reservorio",
+        "La esofagostomía, por su sencillez técnica",
+        "La faringostomía, por su accesibilidad"
+      ],
+      "correcta": 1,
+      "explicacion": "El estómago es la vía de elección por su capacidad de reservorio, la regulación osmótica y la prolongación del tránsito intestinal."
+    },
+    {
+      "id": "q073",
+      "tema": "Nutrición enteral",
+      "dificultad": "facil",
+      "enunciado": "Respecto a las fórmulas culinarias caseras para nutrición enteral por sonda, ¿qué afirmación es correcta?",
+      "opciones": [
+        "Son la opción recomendada de primera elección por su bajo coste",
+        "Garantizan siempre la esterilidad del preparado",
+        "No son recomendables porque no garantizan composición exacta ni higiene",
+        "Son preferibles a los preparados comerciales en pacientes críticos"
+      ],
+      "correcta": 2,
+      "explicacion": "Las fórmulas culinarias caseras NO son recomendables; la pequeña luz de las sondas las hace poco viables y no se garantiza la composición exacta ni la higiene."
+    },
+    {
+      "id": "q074",
+      "tema": "Nutrición enteral",
+      "dificultad": "medio",
+      "enunciado": "Un paciente con accidente vasculocerebral que provoca disfagia neuromotora, pero con tubo digestivo intacto, se clasifica dentro de las indicaciones de nutrición enteral como:",
+      "opciones": [
+        "Tracto anatómicamente alterado, funcionalmente íntegro",
+        "Tracto anatómicamente íntegro, funcionalmente alterado",
+        "Contraindicación absoluta de nutrición enteral",
+        "Tracto íntegro anatómica y funcionalmente"
+      ],
+      "correcta": 3,
+      "explicacion": "Las alteraciones neuromotoras como el accidente vasculocerebral pertenecen al grupo de tracto GI íntegro anatómica y funcionalmente."
+    },
+    {
+      "id": "q075",
+      "tema": "Nutrición enteral",
+      "dificultad": "medio",
+      "enunciado": "¿En cuál de las siguientes situaciones se clasifica la pancreatitis aguda dentro de las indicaciones de nutrición enteral?",
+      "opciones": [
+        "Tracto anatómicamente íntegro, funcionalmente alterado",
+        "Tracto anatómicamente alterado, funcionalmente íntegro",
+        "Tracto íntegro anatómica y funcionalmente",
+        "Alteración mecánica de la deglución"
+      ],
+      "correcta": 0,
+      "explicacion": "La pancreatitis aguda se clasifica entre las indicaciones por tracto anatómicamente íntegro pero funcionalmente alterado, junto con malabsorción, EII y quimioterapia."
+    },
+    {
+      "id": "q076",
+      "tema": "Nutrición enteral",
+      "dificultad": "medio",
+      "enunciado": "¿Cuál de las siguientes es una contraindicación ABSOLUTA de la nutrición enteral?",
+      "opciones": [
+        "Síndrome de intestino corto con remanente menor de 50 cm",
+        "Íleo paralítico",
+        "Fístulas entéricas de alto débito (yeyunales)",
+        "Diarrea persistente y abundante"
+      ],
+      "correcta": 1,
+      "explicacion": "El íleo paralítico es una contraindicación absoluta por el riesgo de aspiración y sobrecrecimiento bacteriano; las demás opciones son contraindicaciones relativas."
+    },
+    {
+      "id": "q077",
+      "tema": "Nutrición enteral",
+      "dificultad": "medio",
+      "enunciado": "¿Qué tres factores fundamentales determinan la elección de la vía de acceso en nutrición enteral?",
+      "opciones": [
+        "El coste, la disponibilidad de personal y la preferencia del paciente",
+        "La edad del paciente, el peso corporal y la glucemia basal",
+        "El tiempo presumible de alimentación, el riesgo de broncoaspiración y la extensión y localización de las lesiones digestivas",
+        "El tipo de fórmula, la osmolaridad y la temperatura de la dieta"
+      ],
+      "correcta": 2,
+      "explicacion": "La elección de la vía depende del tiempo presumible de alimentación, el riesgo de broncoaspiración y la extensión y localización de las lesiones del aparato digestivo."
+    },
+    {
+      "id": "q078",
+      "tema": "Nutrición enteral",
+      "dificultad": "medio",
+      "enunciado": "En el algoritmo de decisión del soporte nutricional, ¿qué determina si se usa nutrición enteral o nutrición parenteral total?",
+      "opciones": [
+        "La tolerancia del paciente a la dieta oral",
+        "El peso corporal del paciente",
+        "La presencia de un acceso venoso central",
+        "Si el aparato digestivo funciona o no"
+      ],
+      "correcta": 3,
+      "explicacion": "Si el aparato digestivo funciona se opta por nutrición enteral; si no funciona, por nutrición parenteral total."
+    },
+    {
+      "id": "q079",
+      "tema": "Nutrición enteral",
+      "dificultad": "medio",
+      "enunciado": "¿Cuál de estas consecuencias clínicas se asocia al reposo intestinal prolongado y la ausencia de nutrición enteral?",
+      "opciones": [
+        "Síndrome de realimentación al reintroducir la alimentación",
+        "Hipertrofia del enterocito",
+        "Aumento de la motilidad intestinal",
+        "Mejora de la función de barrera intestinal"
+      ],
+      "correcta": 0,
+      "explicacion": "El reposo intestinal prolongado provoca atrofia del enterocito, sobrecrecimiento y translocación bacteriana, con consecuencias como diarrea, intolerancia y síndrome de realimentación."
+    },
+    {
+      "id": "q080",
+      "tema": "Nutrición enteral",
+      "dificultad": "medio",
+      "enunciado": "¿Cuál es la técnica de elección para realizar una gastrostomía en pacientes que requieren nutrición enteral prolongada?",
+      "opciones": [
+        "La gastrostomía radiológica percutánea (PRG)",
+        "La gastrostomía endoscópica percutánea (PEG)",
+        "La gastrostomía quirúrgica abierta",
+        "La yeyunostomía quirúrgica"
+      ],
+      "correcta": 1,
+      "explicacion": "La PEG es la técnica de elección para gastrostomía en pacientes con nutrición enteral prolongada, realizada bajo visión endoscópica con mínima invasividad y alta seguridad."
+    },
+    {
+      "id": "q081",
+      "tema": "Nutrición enteral",
+      "dificultad": "medio",
+      "enunciado": "Respecto a la diarrea asociada a la nutrición enteral (DANE), ¿qué causa frecuente debe considerarse siempre en el diagnóstico diferencial?",
+      "opciones": [
+        "El uso de fibra soluble fermentable",
+        "La administración mediante bomba de infusión",
+        "La polifarmacia, especialmente el uso de antibióticos",
+        "El empleo de sondas de pequeño calibre"
+      ],
+      "correcta": 2,
+      "explicacion": "La polifarmacia, especialmente el uso de antibióticos, es una causa frecuente de DANE que debe considerarse siempre en el diagnóstico diferencial."
+    },
+    {
+      "id": "q082",
+      "tema": "Nutrición enteral",
+      "dificultad": "dificil",
+      "enunciado": "Un paciente requiere una sonda nasoentérica que alcance duodeno/yeyuno. ¿Qué longitud aproximada debe tener la sonda?",
+      "opciones": [
+        "75-90 cm",
+        "150-180 cm",
+        "40-60 cm",
+        "105-120 cm"
+      ],
+      "correcta": 3,
+      "explicacion": "La longitud de la sonda nasoentérica (duodeno/yeyuno) es de 105-120 cm, frente a los 75-90 cm de la sonda nasogástrica."
+    },
+    {
+      "id": "q083",
+      "tema": "Nutrición enteral",
+      "dificultad": "dificil",
+      "enunciado": "Durante la monitorización del residuo gástrico, según protocolo, un volumen residual de 300 ml obliga a:",
+      "opciones": [
+        "Administrar procinéticos (umbral ≥ 250 ml)",
+        "Suspender definitivamente la nutrición enteral",
+        "Colocar de inmediato una sonda nasoyeyunal",
+        "No realizar ninguna actuación, pues es un valor normal"
+      ],
+      "correcta": 0,
+      "explicacion": "El protocolo indica actuar con procinéticos si el residuo es ≥ 250 ml y reevaluar/considerar sonda nasoyeyunal si es ≥ 500 ml; 300 ml supera el primer umbral."
+    },
+    {
+      "id": "q084",
+      "tema": "Nutrición enteral",
+      "dificultad": "dificil",
+      "enunciado": "En un paciente de alto riesgo de aspiración con residuo gástrico superior a 500 ml, ¿qué medida específica se recomienda?",
+      "opciones": [
+        "Aumentar el calibre de la sonda nasogástrica",
+        "Colocar una sonda nasoyeyunal tras el ángulo de Treitz",
+        "Cambiar a administración en bolus por jeringa",
+        "Suspender de forma permanente cualquier soporte nutricional"
+      ],
+      "correcta": 1,
+      "explicacion": "En pacientes de alto riesgo se recomienda colocar una sonda nasoyeyunal (tras el ángulo de Treitz) cuando el residuo es superior a 500 ml."
+    },
+    {
+      "id": "q085",
+      "tema": "Nutrición enteral",
+      "dificultad": "dificil",
+      "enunciado": "En la administración en bolus por jeringa, ¿cuál es la velocidad máxima recomendada?",
+      "opciones": [
+        "5 ml/min durante una hora",
+        "100 ml/min",
+        "20 ml/min (unos 3 minutos por jeringa)",
+        "50 ml/min sin límite de tiempo"
+      ],
+      "correcta": 2,
+      "explicacion": "La administración en bolus se realiza con jeringa de 50-100 ml a una velocidad máxima de 20 ml/min (unos 3 minutos por jeringa)."
+    },
+    {
+      "id": "q086",
+      "tema": "Nutrición enteral",
+      "dificultad": "dificil",
+      "enunciado": "Para prevenir la broncoaspiración durante la nutrición enteral, ¿en qué posición debe mantenerse el cabecero de la cama?",
+      "opciones": [
+        "En decúbito supino estricto a 0º",
+        "Elevado a 90º solo durante la infusión",
+        "En posición de Trendelenburg",
+        "Elevado a 30-45º durante todo el tiempo que dure la NE"
+      ],
+      "correcta": 3,
+      "explicacion": "Se recomienda mantener el cabecero elevado a 30-45º durante todo el tiempo que dure la nutrición enteral como medida postural antiaspiración."
+    },
+    {
+      "id": "q087",
+      "tema": "Nutrición enteral",
+      "dificultad": "dificil",
+      "enunciado": "La única causa de diarrea asociada a la nutrición enteral susceptible de tratamiento específico es la infección por Clostridioides difficile. ¿Cuál es el tratamiento indicado?",
+      "opciones": [
+        "Metronidazol, vancomicina o teicoplanina",
+        "Loperamida y reposo intestinal absoluto",
+        "Corticoides sistémicos a dosis altas",
+        "Ciprofloxacino más probióticos"
+      ],
+      "correcta": 0,
+      "explicacion": "La infección por Clostridioides difficile requiere antibiótico (metronidazol, vancomicina o teicoplanina) y valoración endoscópica en casos persistentes."
+    },
+    {
+      "id": "q088",
+      "tema": "Nutrición enteral",
+      "dificultad": "dificil",
+      "enunciado": "Un paciente con dieta de elevado aporte calórico en forma de carbohidratos desarrolla sobrecarga ventilatoria por hipercapnia. ¿Cuál es la actuación correcta?",
+      "opciones": [
+        "Aumentar aún más el aporte de carbohidratos",
+        "Cambiar a dieta de insuficiencia pulmonar: menos carbohidratos y más grasa",
+        "Suspender toda la nutrición y pasar a parenteral",
+        "Reducir el aporte de grasa e incrementar las proteínas"
+      ],
+      "correcta": 1,
+      "explicacion": "La hipercapnia secundaria a dietas con elevado aporte calórico en carbohidratos puede suponer sobrecarga ventilatoria; en ese caso se cambia a dieta de insuficiencia pulmonar con menos carbohidratos y más grasa."
+    },
+    {
+      "id": "q089",
+      "tema": "Nutrición parenteral",
+      "dificultad": "facil",
+      "enunciado": "¿Qué es la nutrición parenteral (NP)?",
+      "opciones": [
+        "La administración intravenosa de nutrientes cuando la vía digestiva no es viable, suficiente o accesible",
+        "La administración de nutrientes a través de una sonda nasogástrica",
+        "La alimentación oral con suplementos hipercalóricos",
+        "La infusión de fármacos por vía subcutánea"
+      ],
+      "correcta": 0,
+      "explicacion": "La NP es la administración intravenosa de nutrientes (glucosa, aminoácidos, lípidos, electrolitos, vitaminas y oligoelementos) cuando la vía digestiva no es viable, suficiente o accesible."
+    },
+    {
+      "id": "q090",
+      "tema": "Nutrición parenteral",
+      "dificultad": "facil",
+      "enunciado": "¿Cuál es el único hidrato de carbono utilizado en la nutrición parenteral?",
+      "opciones": [
+        "La fructosa",
+        "La glucosa",
+        "El xilitol",
+        "La sacarosa"
+      ],
+      "correcta": 1,
+      "explicacion": "La glucosa es el único hidrato de carbono utilizado en NP; cada gramo aporta entre 3,4 y 4 kcal."
+    },
+    {
+      "id": "q091",
+      "tema": "Nutrición parenteral",
+      "dificultad": "facil",
+      "enunciado": "¿Cuál es la complicación metabólica más frecuente de la nutrición parenteral total?",
+      "opciones": [
+        "La hipernatremia",
+        "El síndrome de realimentación",
+        "La hiperglucemia",
+        "El déficit de zinc"
+      ],
+      "correcta": 2,
+      "explicacion": "La hiperglucemia es la complicación metabólica más frecuente de la NPT; favorece infecciones y deterioro clínico."
+    },
+    {
+      "id": "q092",
+      "tema": "Nutrición parenteral",
+      "dificultad": "facil",
+      "enunciado": "¿Cuál es el objetivo final de todo soporte nutricional?",
+      "opciones": [
+        "Mantener la nutrición parenteral de forma indefinida",
+        "La recuperación de la alimentación oral",
+        "Sustituir permanentemente la vía digestiva",
+        "Reducir el número de controles glucémicos"
+      ],
+      "correcta": 1,
+      "explicacion": "El objetivo final del soporte nutricional es la recuperación de la alimentación oral; la nutrición es un puente hacia la recuperación que debe reintroducirse una vez resuelta la causa."
+    },
+    {
+      "id": "q093",
+      "tema": "Nutrición parenteral",
+      "dificultad": "facil",
+      "enunciado": "¿Cuántas kcal aporta 1 gramo de lípidos en la nutrición parenteral?",
+      "opciones": [
+        "4 kcal",
+        "7 kcal",
+        "9 kcal",
+        "3,4 kcal"
+      ],
+      "correcta": 2,
+      "explicacion": "Las emulsiones lipídicas constituyen la fuente energética más concentrada de la NP: 1 g aporta 9 kcal."
+    },
+    {
+      "id": "q094",
+      "tema": "Nutrición parenteral",
+      "dificultad": "facil",
+      "enunciado": "¿Dónde debe situarse el extremo distal de un catéter venoso central (CVC)?",
+      "opciones": [
+        "En la vena cava superior o aurícula derecha",
+        "En una vena periférica del antebrazo",
+        "En la arteria subclavia",
+        "En la vena femoral superficial"
+      ],
+      "correcta": 0,
+      "explicacion": "Un CVC es aquel cuyo extremo distal se sitúa en la vena cava superior o aurícula derecha, confirmado obligatoriamente mediante radiografía de tórax tras la inserción."
+    },
+    {
+      "id": "q095",
+      "tema": "Nutrición parenteral",
+      "dificultad": "facil",
+      "enunciado": "¿Cuál de las siguientes es una de las dos grandes vías de administración del soporte nutricional artificial?",
+      "opciones": [
+        "La vía intramuscular",
+        "La vía enteral",
+        "La vía rectal",
+        "La vía transdérmica"
+      ],
+      "correcta": 1,
+      "explicacion": "El soporte nutricional artificial puede administrarse por dos grandes vías: la enteral (aprovecha el tracto gastrointestinal) y la parenteral (directa al torrente circulatorio)."
+    },
+    {
+      "id": "q096",
+      "tema": "Nutrición parenteral",
+      "dificultad": "medio",
+      "enunciado": "Según el papel que desempeña en el tratamiento, ¿cómo se denomina la NP cuando es el tratamiento nutricional de elección, con la vía digestiva inaccesible o contraindicada de forma absoluta?",
+      "opciones": [
+        "Terapia de soporte",
+        "Terapia paliativa",
+        "Terapia primaria",
+        "Terapia coadyuvante"
+      ],
+      "correcta": 2,
+      "explicacion": "La terapia primaria es aquella en la que la NP actúa como tratamiento nutricional principal, con la vía digestiva inaccesible o contraindicada de forma absoluta (p. ej., intestino corto, fístulas de alto débito, obstrucción)."
+    },
+    {
+      "id": "q097",
+      "tema": "Nutrición parenteral",
+      "dificultad": "medio",
+      "enunciado": "¿Cuál de estas situaciones es una indicación de NP como terapia de soporte?",
+      "opciones": [
+        "Síndrome de intestino corto",
+        "Fístula enterocutánea de alto débito",
+        "Obstrucción intestinal",
+        "Enteritis rádica o quimioterápica"
+      ],
+      "correcta": 3,
+      "explicacion": "La terapia de soporte complementa o sustituye temporalmente la NE; aplica en situaciones perioperatorias, enteritis rádica o quimioterápica y malnutrición severa. El intestino corto, las fístulas y la obstrucción son terapia primaria."
+    },
+    {
+      "id": "q098",
+      "tema": "Nutrición parenteral",
+      "dificultad": "medio",
+      "enunciado": "Respecto al balance nitrogenado (BN), ¿qué afirmación es correcta?",
+      "opciones": [
+        "Mide la diferencia entre el nitrógeno aportado con la dieta y el eliminado por orina en 24 horas",
+        "Evalúa el estado nutricional basal del paciente",
+        "Solo es útil en sujetos sanos",
+        "Su valor ideal en un paciente enfermo es siempre cero"
+      ],
+      "correcta": 0,
+      "explicacion": "El BN mide la diferencia entre el nitrógeno aportado y el eliminado por orina en 24 h; no evalúa el estado nutricional basal sino la adecuación del soporte y el grado de catabolismo."
+    },
+    {
+      "id": "q099",
+      "tema": "Nutrición parenteral",
+      "dificultad": "medio",
+      "enunciado": "¿Qué parámetro se considera clave para cuantificar el grado de estrés metabólico y ajustar el soporte nutricional parenteral?",
+      "opciones": [
+        "La glucemia basal en ayunas",
+        "La eliminación de nitrógeno ureico en orina de 24 horas",
+        "El peso corporal total",
+        "La concentración de albúmina sérica"
+      ],
+      "correcta": 1,
+      "explicacion": "La eliminación de nitrógeno ureico en orina de 24 horas es el parámetro clave para cuantificar el grado de estrés metabólico y ajustar el soporte nutricional parenteral."
+    },
+    {
+      "id": "q100",
+      "tema": "Nutrición parenteral",
+      "dificultad": "medio",
+      "enunciado": "¿Cuál de los siguientes es un aminoácido condicionalmente esencial en situaciones de catabolismo intenso, sustrato preferente del enterocito y el sistema inmune?",
+      "opciones": [
+        "La leucina",
+        "La glutamina",
+        "La fenilalanina",
+        "La metionina"
+      ],
+      "correcta": 1,
+      "explicacion": "En catabolismo intenso, la glutamina (administrada como dipéptido) se vuelve condicionalmente esencial y es el sustrato preferente del enterocito y del sistema inmune."
+    },
+    {
+      "id": "q101",
+      "tema": "Nutrición parenteral",
+      "dificultad": "medio",
+      "enunciado": "¿En qué dos grandes grupos se clasifican las complicaciones de la nutrición parenteral?",
+      "opciones": [
+        "Agudas y crónicas",
+        "Metabólicas y relacionadas con las vías de acceso venoso",
+        "Infecciosas y digestivas",
+        "Reversibles e irreversibles"
+      ],
+      "correcta": 1,
+      "explicacion": "Las complicaciones de la NP se clasifican en metabólicas (relacionadas con la composición y administración de la fórmula) y las relacionadas con las vías de acceso venoso (catéter central)."
+    },
+    {
+      "id": "q102",
+      "tema": "Nutrición parenteral",
+      "dificultad": "medio",
+      "enunciado": "¿Qué ecuación se utiliza para estimar el gasto energético en reposo (GER) en la formulación de la NP?",
+      "opciones": [
+        "La ecuación de Harris-Benedict",
+        "La fórmula de Cockcroft-Gault",
+        "El índice de masa corporal",
+        "La ecuación de Henderson-Hasselbalch"
+      ],
+      "correcta": 0,
+      "explicacion": "El GER se estima mediante la ecuación de Harris-Benedict, ajustado por factores de corrección de actividad, agresión y estado anabólico/catabólico."
+    },
+    {
+      "id": "q103",
+      "tema": "Nutrición parenteral",
+      "dificultad": "medio",
+      "enunciado": "En la inserción de un CVC, ¿cuál es la técnica considerada estándar de referencia para reducir complicaciones infecciosas?",
+      "opciones": [
+        "Lavado de manos con agua y jabón únicamente",
+        "Técnica estéril con precauciones de máxima barrera (gorro, mascarilla, bata, guantes estériles y campo amplio)",
+        "Uso exclusivo de povidona iodada",
+        "Inserción rápida sin campo estéril en urgencias"
+      ],
+      "correcta": 1,
+      "explicacion": "La técnica estéril con precauciones de máxima barrera (gorro, mascarilla, bata, guantes estériles y campo estéril amplio) es el estándar de referencia en todas las inserciones de CVC."
+    },
+    {
+      "id": "q104",
+      "tema": "Nutrición parenteral",
+      "dificultad": "dificil",
+      "enunciado": "En la dosificación de hidratos de carbono en NP, ¿qué consecuencia se asocia a una dosis de glucosa superior a 5 g/kg/día?",
+      "opciones": [
+        "Hipoglucemia refractaria",
+        "Esteatosis hepática",
+        "Hipernatremia",
+        "Déficit de ácidos grasos esenciales"
+      ],
+      "correcta": 1,
+      "explicacion": "El límite máximo de glucosa es 5 g/kg/día; dosis superiores a 5 g/kg/día conducen a esteatosis hepática."
+    },
+    {
+      "id": "q105",
+      "tema": "Nutrición parenteral",
+      "dificultad": "dificil",
+      "enunciado": "Un paciente presenta una eliminación de nitrógeno ureico en orina de 18 g/24h. ¿A qué grado de estrés metabólico corresponde?",
+      "opciones": [
+        "Sin estrés (Grado 0)",
+        "Estrés leve (Grado I)",
+        "Estrés moderado (Grado II)",
+        "Estrés severo (Grado III)"
+      ],
+      "correcta": 3,
+      "explicacion": "Una eliminación de nitrógeno ureico mayor de 15 g/24h corresponde a estrés severo (Grado III), propio de sepsis, quemados, TCE y politrauma."
+    },
+    {
+      "id": "q106",
+      "tema": "Nutrición parenteral",
+      "dificultad": "dificil",
+      "enunciado": "En la dosificación de la NP por grado de estrés, ¿cómo varían el aporte proteico y el cociente kcal no proteicas/g N2 al aumentar el catabolismo?",
+      "opciones": [
+        "Mayor aporte proteico y mayor relación kcal np/N2",
+        "Menor aporte proteico y menor relación kcal np/N2",
+        "Mayor aporte proteico y menor relación kcal np/N2",
+        "Aporte proteico y relación kcal np/N2 constantes"
+      ],
+      "correcta": 2,
+      "explicacion": "A mayor catabolismo, mayor aporte proteico y menor relación kcal no proteicas/g N2, para priorizar la síntesis proteica frente al balance energético."
+    },
+    {
+      "id": "q107",
+      "tema": "Nutrición parenteral",
+      "dificultad": "dificil",
+      "enunciado": "En el síndrome de realimentación, ¿qué alteración electrolítica es especialmente característica y potencialmente fatal?",
+      "opciones": [
+        "La hipernatremia",
+        "La hipofosfatemia",
+        "La hipercalcemia",
+        "La hipercloremia"
+      ],
+      "correcta": 1,
+      "explicacion": "El síndrome de realimentación se caracteriza por alteraciones electrolíticas graves, especialmente hipofosfatemia, que pueden desencadenar arritmias, insuficiencia cardiaca y fallo multiorgánico."
+    },
+    {
+      "id": "q108",
+      "tema": "Nutrición parenteral",
+      "dificultad": "dificil",
+      "enunciado": "Ante una bacteriemia relacionada con catéter por Staphylococcus aureus, ¿qué actuación es obligatoria de forma sistemática?",
+      "opciones": [
+        "Mantener el catéter siempre y solo añadir antibiótico oral",
+        "Evaluar la presencia de endocarditis mediante ecocardiografía transesofágica",
+        "Suspender la NP de forma brusca",
+        "Cambiar el catéter de forma rutinaria sin más estudios"
+      ],
+      "correcta": 1,
+      "explicacion": "Todo paciente con BRC por S. aureus debe ser evaluado sistemáticamente para descartar endocarditis mediante ecocardiografía transesofágica; la duración del tratamiento varía (4-6 semanas vs. 14 días)."
+    },
+    {
+      "id": "q109",
+      "tema": "Nutrición parenteral",
+      "dificultad": "dificil",
+      "enunciado": "¿Por qué la NP estándar de alta osmolaridad debe administrarse siempre por catéter venoso central o PICC?",
+      "opciones": [
+        "Para reducir el número de controles glucémicos",
+        "Para evitar flebitis grave por irritación local de la vena periférica",
+        "Porque la vía periférica no permite infusión continua",
+        "Para disminuir el riesgo de hiperglucemia"
+      ],
+      "correcta": 1,
+      "explicacion": "La NP de alta osmolaridad debe administrarse siempre por CVC o PICC para evitar flebitis grave por irritación local de la vena periférica; solo soluciones de baja osmolaridad pueden ir por vía periférica."
+    },
+    {
+      "id": "q110",
+      "tema": "Nutrición parenteral",
+      "dificultad": "dificil",
+      "enunciado": "¿Cuál de los siguientes tipos de catéter venoso central, con reservorio implantado bajo la piel y acceso mediante aguja de Huber, presenta mínimo riesgo infeccioso en pacientes con NP domiciliaria?",
+      "opciones": [
+        "CVC estándar de poliuretano no tunelizado",
+        "CVC tunelizado tipo Hickman",
+        "Catéter reservorio (Port-a-Cath)",
+        "CVC impregnado con antimicrobianos"
+      ],
+      "correcta": 2,
+      "explicacion": "El catéter reservorio (Port-a-Cath) queda implantado bajo la piel, se accede con aguja tipo Huber a través de la piel intacta y presenta mínimo riesgo infeccioso en NP domiciliaria."
+    },
+    {
+      "id": "q111",
+      "tema": "Modificaciones dietéticas previas a test diagnósticos",
+      "dificultad": "facil",
+      "enunciado": "En el contexto de las analíticas, ¿qué se entiende por 'test diagnóstico'?",
+      "opciones": [
+        "Un tratamiento dietético específico",
+        "Las pruebas que pueden ver modificados sus resultados por la dieta",
+        "Un fármaco que altera la glucemia",
+        "Una técnica de venopunción"
+      ],
+      "correcta": 1,
+      "explicacion": "El material define test diagnóstico como las pruebas, cuyos resultados pueden ser modificados por la dieta."
+    },
+    {
+      "id": "q112",
+      "tema": "Modificaciones dietéticas previas a test diagnósticos",
+      "dificultad": "facil",
+      "enunciado": "¿Cuál de los siguientes NO se menciona como factor que puede alterar los resultados analíticos?",
+      "opciones": [
+        "Ejercicio físico",
+        "Estrés",
+        "Ingestión de fármacos",
+        "Color de los ojos del paciente"
+      ],
+      "correcta": 3,
+      "explicacion": "Entre los factores que alteran resultados figuran ejercicio, estrés, fármacos, tabaco/alcohol, torniquete y dieta previa; el color de los ojos no se menciona."
+    },
+    {
+      "id": "q113",
+      "tema": "Modificaciones dietéticas previas a test diagnósticos",
+      "dificultad": "facil",
+      "enunciado": "Durante el ayuno previo a una analítica, ¿qué está permitido tomar?",
+      "opciones": [
+        "Solo agua",
+        "Zumos naturales",
+        "Infusiones azucaradas",
+        "Bebidas vegetales"
+      ],
+      "correcta": 0,
+      "explicacion": "El material indica que en ayuno solo se puede tomar agua, nada de zumo, infusiones azucaradas ni bebidas vegetales."
+    },
+    {
+      "id": "q114",
+      "tema": "Modificaciones dietéticas previas a test diagnósticos",
+      "dificultad": "facil",
+      "enunciado": "¿En qué tipo de pruebas, en general, NO es necesario el ayuno previo?",
+      "opciones": [
+        "Parámetros celulares",
+        "Parámetros bioquímicos",
+        "Pruebas urinarias y fecales",
+        "Curva de glucosa"
+      ],
+      "correcta": 2,
+      "explicacion": "El material señala que en general el ayuno no es necesario en las pruebas urinarias y fecales."
+    },
+    {
+      "id": "q115",
+      "tema": "Modificaciones dietéticas previas a test diagnósticos",
+      "dificultad": "facil",
+      "enunciado": "La esteatorrea se define como:",
+      "opciones": [
+        "Un incremento patológico de la excreción fecal de grasa",
+        "Presencia de glucosa en orina",
+        "Aumento de cuerpos cetónicos en orina",
+        "Coloración verde de las heces"
+      ],
+      "correcta": 0,
+      "explicacion": "El material define la esteatorrea como un incremento patológico de la excreción fecal de grasa."
+    },
+    {
+      "id": "q116",
+      "tema": "Modificaciones dietéticas previas a test diagnósticos",
+      "dificultad": "facil",
+      "enunciado": "¿Cuál es la finalidad principal de las dietas de exploración (dietas previas a...)?",
+      "opciones": [
+        "Reducir el peso del paciente antes de la prueba",
+        "Provocar la anomalía diagnóstica para ver cómo responde el organismo",
+        "Eliminar el contraste radiológico",
+        "Aumentar la ingesta de grasa de forma indefinida"
+      ],
+      "correcta": 1,
+      "explicacion": "Los objetivos de las dietas de exploración son provocar la anomalía diagnóstica para ver cómo responde el organismo y evitar falsos positivos o negativos."
+    },
+    {
+      "id": "q117",
+      "tema": "Modificaciones dietéticas previas a test diagnósticos",
+      "dificultad": "facil",
+      "enunciado": "El Test de O'Sullivan es la prueba universal de cribado de:",
+      "opciones": [
+        "Diabetes gestacional",
+        "Esteatorrea",
+        "Malabsorción de D-xilosa",
+        "Hipercalcemia"
+      ],
+      "correcta": 0,
+      "explicacion": "El material indica que la prueba universal de la diabetes gestacional es el Test de O'Sullivan."
+    },
+    {
+      "id": "q118",
+      "tema": "Modificaciones dietéticas previas a test diagnósticos",
+      "dificultad": "medio",
+      "enunciado": "Tras 2-4 horas de una comida rica en grasas, ¿qué alteración analítica es esperable en muchos individuos?",
+      "opciones": [
+        "Disminución de la glucemia basal",
+        "Elevación significativa de fosfatasa alcalina y triglicéridos",
+        "Aumento del fósforo sérico",
+        "Descenso de la creatinina"
+      ],
+      "correcta": 1,
+      "explicacion": "El material señala que tras una comida rica en grasas muchos individuos presentan elevación significativa de fosfatasa alcalina y triglicéridos."
+    },
+    {
+      "id": "q119",
+      "tema": "Modificaciones dietéticas previas a test diagnósticos",
+      "dificultad": "medio",
+      "enunciado": "¿Cuál de las siguientes pruebas NO se altera por la ingesta previa de alimentos?",
+      "opciones": [
+        "Glucosa e insulina",
+        "Triglicéridos",
+        "Prueba de embarazo en sangre y orina",
+        "Fosfatasa alcalina"
+      ],
+      "correcta": 2,
+      "explicacion": "El material incluye la prueba de embarazo en sangre y orina entre las pruebas que no se alteran por la ingesta."
+    },
+    {
+      "id": "q120",
+      "tema": "Modificaciones dietéticas previas a test diagnósticos",
+      "dificultad": "medio",
+      "enunciado": "En pacientes con terapia anticoagulante oral, ¿por qué se restringe la ingesta abundante de verduras?",
+      "opciones": [
+        "Porque alteran los valores de vitamina K y el tiempo de protrombina",
+        "Porque elevan la fosfatasa alcalina",
+        "Porque producen hipopotasemia",
+        "Porque aumentan la creatinina"
+      ],
+      "correcta": 0,
+      "explicacion": "Una ingesta elevada de verdura puede alterar los valores de vitamina K y, con ello, el tiempo de protrombina, clave en el control del tratamiento anticoagulante."
+    },
+    {
+      "id": "q121",
+      "tema": "Modificaciones dietéticas previas a test diagnósticos",
+      "dificultad": "medio",
+      "enunciado": "La ingesta de regaliz tiende a producir:",
+      "opciones": [
+        "Hiperpotasemia por efecto diurético",
+        "Hipopotasemia por efecto aldosterónico",
+        "Hipercalcemia por alcalosis",
+        "Hipofosfatemia por antiácidos"
+      ],
+      "correcta": 1,
+      "explicacion": "El material indica que la ingesta de regaliz tiende a producir hipopotasemia por efecto aldosterónico."
+    },
+    {
+      "id": "q122",
+      "tema": "Modificaciones dietéticas previas a test diagnósticos",
+      "dificultad": "medio",
+      "enunciado": "¿Qué alimento puede dar a la orina un tono rojo o rosado?",
+      "opciones": [
+        "Espinacas",
+        "Remolacha",
+        "Leche",
+        "Cerezas (en heces)"
+      ],
+      "correcta": 1,
+      "explicacion": "El material señala el tono rojo o rosado de la orina por ingesta abundante de remolacha (colorantes hidrosolubles que pasan a orina)."
+    },
+    {
+      "id": "q123",
+      "tema": "Modificaciones dietéticas previas a test diagnósticos",
+      "dificultad": "medio",
+      "enunciado": "La cetonuria, con aumento de excreción de cuerpos cetónicos, aparece en:",
+      "opciones": [
+        "Dietas ricas en hidratos de carbono",
+        "Dietas desequilibradas con exceso de grasa y escasez de HCO o ayunos prolongados",
+        "Dietas hiposódicas prolongadas",
+        "Dietas ricas en calcio"
+      ],
+      "correcta": 1,
+      "explicacion": "El material asocia la cetonuria a dietas desequilibradas con exceso de grasa y escasez de HCO o a los ayunos prolongados."
+    },
+    {
+      "id": "q124",
+      "tema": "Modificaciones dietéticas previas a test diagnósticos",
+      "dificultad": "medio",
+      "enunciado": "En el cribado de diabetes mediante PTOG, ¿cuál se considera población de ALTO riesgo?",
+      "opciones": [
+        "Mujeres con un recién nacido de peso superior a 4 kg",
+        "Sujetos con alteraciones de los lípidos plasmáticos",
+        "Mayores de 45 años con sobrepeso y sedentarismo",
+        "Sujetos con intolerancia a la glucosa previa"
+      ],
+      "correcta": 2,
+      "explicacion": "Entre la población de alto riesgo el material incluye a mayores de 45 años con sobrepeso, sedentarismo, SOP, HTA/enfermedad CV o familiar de primer grado con DM."
+    },
+    {
+      "id": "q125",
+      "tema": "Modificaciones dietéticas previas a test diagnósticos",
+      "dificultad": "medio",
+      "enunciado": "¿Qué prueba sigue considerándose el 'gold standard' para el diagnóstico de la esteatorrea?",
+      "opciones": [
+        "El test del hidrógeno respiratorio",
+        "La prueba de Van de Kamer (grasa en heces de 72 horas)",
+        "La curva de tolerancia oral a la glucosa",
+        "La prueba de absorción de la D-xilosa"
+      ],
+      "correcta": 1,
+      "explicacion": "El material indica que la prueba de Van de Kamer, determinación cuantitativa de grasa en heces durante 72 horas, sigue siendo el gold standard de la esteatorrea."
+    },
+    {
+      "id": "q126",
+      "tema": "Modificaciones dietéticas previas a test diagnósticos",
+      "dificultad": "dificil",
+      "enunciado": "En la PTOG de la población general, un valor de glucemia de 160 mg/dl a las 2 horas se interpreta como:",
+      "opciones": [
+        "Normal",
+        "Intolerancia a la glucosa",
+        "Diabetes mellitus franca",
+        "Hipoglucemia reactiva"
+      ],
+      "correcta": 1,
+      "explicacion": "En población general 140-190 mg/dl corresponde a intolerancia a la glucosa; <140 es normal y >200 es DM."
+    },
+    {
+      "id": "q127",
+      "tema": "Modificaciones dietéticas previas a test diagnósticos",
+      "dificultad": "dificil",
+      "enunciado": "Para la dieta de preparación de la PTOG, ¿cuál es la ingesta mínima de hidratos de carbono recomendada en los 3 días previos?",
+      "opciones": [
+        "100 g/día",
+        "150 g/día",
+        "200 g/día",
+        "300 g/día"
+      ],
+      "correcta": 2,
+      "explicacion": "El material indica una dieta normocalórica con ingesta mínima de 200 g/día de HCO durante los 3 días previos a la prueba."
+    },
+    {
+      "id": "q128",
+      "tema": "Modificaciones dietéticas previas a test diagnósticos",
+      "dificultad": "dificil",
+      "enunciado": "Respecto al Test de O'Sullivan, ¿qué afirmación es correcta?",
+      "opciones": [
+        "Se administran 75 g de glucosa y requiere ayuno de 10 horas",
+        "Se administran 50 g de glucosa, no requiere ayuno ni dieta de preparación, y si la glucemia a 1 h es >140 mg/dl se realiza la PTOG",
+        "Se realiza siempre antes de la semana 12 de gestación",
+        "Su resultado se interpreta con dos o más valores alterados"
+      ],
+      "correcta": 1,
+      "explicacion": "El material describe el O'Sullivan con 50 g de glucosa, glucemia a 1 h, sin ayuno ni dieta previa, y PTOG si la glucemia supera 140 mg/dl."
+    },
+    {
+      "id": "q129",
+      "tema": "Modificaciones dietéticas previas a test diagnósticos",
+      "dificultad": "dificil",
+      "enunciado": "En la prueba de grasa en heces de un adulto, ¿qué contenido graso debe tener la dieta y durante cuánto tiempo antes de la exploración?",
+      "opciones": [
+        "Aproximadamente 100 g/día durante los 5 días previos",
+        "40-65 g/día durante 3 días",
+        "200 g/día durante 5 días",
+        "60-80 g/día durante 72 horas"
+      ],
+      "correcta": 0,
+      "explicacion": "El material indica que el adulto debe seguir una dieta con contenido graso aproximado de 100 g/día durante los cinco días previos a la exploración."
+    },
+    {
+      "id": "q130",
+      "tema": "Modificaciones dietéticas previas a test diagnósticos",
+      "dificultad": "dificil",
+      "enunciado": "Sobre la prueba de Van de Kamer, ¿qué limitación se describe respecto a su normalidad?",
+      "opciones": [
+        "Un resultado normal descarta totalmente la patología",
+        "Casi un 40% de pacientes con celiaquía pueden presentar valores normales",
+        "Siempre es patológica en la insuficiencia pancreática leve",
+        "Detecta esteatorrea con menos del 50% de reserva pancreática"
+      ],
+      "correcta": 1,
+      "explicacion": "El material señala que la normalidad de la prueba no descarta patología: casi un 40% de celíacos pueden tener valores normales y la insuficiencia pancreática solo da esteatorrea cuando es grave (<10% de reserva)."
+    },
+    {
+      "id": "q131",
+      "tema": "Modificaciones dietéticas previas a test diagnósticos",
+      "dificultad": "dificil",
+      "enunciado": "En la digestión de los lípidos, ¿qué ocurre con la lipasa gástrica en casos de insuficiencia pancreática y cuál es su pH óptimo?",
+      "opciones": [
+        "Su actividad puede llegar al 90% y actúa de forma óptima a pH 4-5,5",
+        "Su actividad cae al 10% y actúa óptimamente a pH neutro",
+        "Necesita cofactores y se inactiva con la pepsina",
+        "Su actividad permanece en el 10% y requiere ácidos biliares"
+      ],
+      "correcta": 0,
+      "explicacion": "El material indica que en insuficiencia pancreática la lipasa gástrica puede alcanzar el 90% de la digestión y actúa de forma óptima a pH 4-5,5, sin cofactores y resistente a la pepsina."
+    },
+    {
+      "id": "q132",
+      "tema": "Modificaciones dietéticas previas a test diagnósticos",
+      "dificultad": "dificil",
+      "enunciado": "En la determinación de grasa en heces de un adulto, ¿a partir de qué cifra de eliminación diaria se considera patológico?",
+      "opciones": [
+        "> 1 g/día",
+        "> 4 g/día",
+        "> 7 g/día",
+        "> 20 g/día"
+      ],
+      "correcta": 2,
+      "explicacion": "El material indica que en adultos es patológico eliminar más de 7 g/día de grasa, aunque los pacientes con esteatorrea suelen superar los 20 g/día."
+    },
+    {
+      "id": "q133",
+      "tema": "Nutrición artificial en patología órgano-específica (sepsis, quirúrgicos, trasplante, UCI)",
+      "dificultad": "facil",
+      "enunciado": "¿Cómo se define la sepsis desde el punto de vista clínico-metabólico?",
+      "opciones": [
+        "Una infección localizada sin repercusión sistémica ni riesgo vital",
+        "Una situación clínico-metabólica con elevado riesgo de mortalidad causada por una respuesta desregulada del huésped a la infección",
+        "Un estado de desnutrición crónica secundario a enfermedad digestiva",
+        "Una reacción alérgica grave a fármacos antibióticos"
+      ],
+      "correcta": 1,
+      "explicacion": "La sepsis es una situación clínico-metabólica con elevado riesgo de mortalidad para el paciente crítico, causada por una respuesta desregulada del huésped a la infección."
+    },
+    {
+      "id": "q134",
+      "tema": "Nutrición artificial en patología órgano-específica (sepsis, quirúrgicos, trasplante, UCI)",
+      "dificultad": "facil",
+      "enunciado": "¿Cuál es el método de referencia (patrón oro) para calcular el gasto energético en el paciente séptico?",
+      "opciones": [
+        "La calorimetría indirecta",
+        "Las fórmulas predictivas de Harris-Benedict",
+        "El peso corporal multiplicado por un factor fijo",
+        "La bioimpedancia eléctrica"
+      ],
+      "correcta": 0,
+      "explicacion": "La calorimetría indirecta es el patrón oro para calcular el gasto energético, aceptándose las fórmulas predictivas cuando no está disponible."
+    },
+    {
+      "id": "q135",
+      "tema": "Nutrición artificial en patología órgano-específica (sepsis, quirúrgicos, trasplante, UCI)",
+      "dificultad": "facil",
+      "enunciado": "En el paciente séptico hemodinámicamente estable, ¿cuál es la primera opción de soporte nutricional?",
+      "opciones": [
+        "La nutrición parenteral central",
+        "La nutrición complementaria NE+NP",
+        "La vía oral siempre que sea posible y/o suplementos",
+        "La nutrición enteral por yeyunostomía"
+      ],
+      "correcta": 2,
+      "explicacion": "En el paciente hemodinámicamente estable la primera opción es la vía oral siempre que sea posible y/o suplementos."
+    },
+    {
+      "id": "q136",
+      "tema": "Nutrición artificial en patología órgano-específica (sepsis, quirúrgicos, trasplante, UCI)",
+      "dificultad": "facil",
+      "enunciado": "En el paciente quemado, ¿cuál es la vía de alimentación considerada más fisiológica?",
+      "opciones": [
+        "La nutrición parenteral total",
+        "La vía oral",
+        "La sonda nasoyeyunal",
+        "La gastrostomía endoscópica percutánea"
+      ],
+      "correcta": 1,
+      "explicacion": "En el paciente quemado la vía oral es la más fisiológica."
+    },
+    {
+      "id": "q137",
+      "tema": "Nutrición artificial en patología órgano-específica (sepsis, quirúrgicos, trasplante, UCI)",
+      "dificultad": "facil",
+      "enunciado": "¿Cuál es la organización tomada como referencia internacional principal para estas guías de nutrición clínica?",
+      "opciones": [
+        "La OMS",
+        "La ONT",
+        "ESPEN",
+        "La FAO"
+      ],
+      "correcta": 2,
+      "explicacion": "La referencia principal para estas guías es ESPEN, referencia internacional en nutrición clínica."
+    },
+    {
+      "id": "q138",
+      "tema": "Nutrición artificial en patología órgano-específica (sepsis, quirúrgicos, trasplante, UCI)",
+      "dificultad": "facil",
+      "enunciado": "En el trasplante de médula ósea (TMO), ¿cuál es la complicación más frecuente?",
+      "opciones": [
+        "La sepsis",
+        "La trombosis venosa profunda",
+        "La insuficiencia renal aguda",
+        "La hemorragia digestiva alta"
+      ],
+      "correcta": 0,
+      "explicacion": "En el trasplante de médula ósea la complicación más frecuente es la sepsis."
+    },
+    {
+      "id": "q139",
+      "tema": "Nutrición artificial en patología órgano-específica (sepsis, quirúrgicos, trasplante, UCI)",
+      "dificultad": "facil",
+      "enunciado": "En el postoperatorio, ¿cuándo se recomienda iniciar la alimentación oral siempre que sea posible?",
+      "opciones": [
+        "A partir del quinto día",
+        "Cuando el paciente alcance el 100% de sus requerimientos",
+        "En las primeras 24 horas",
+        "Solo tras confirmar ausencia de fiebre durante 72 horas"
+      ],
+      "correcta": 2,
+      "explicacion": "En el postoperatorio es fundamental el inicio precoz de la alimentación oral, en las primeras 24 horas si es posible."
+    },
+    {
+      "id": "q140",
+      "tema": "Nutrición artificial en patología órgano-específica (sepsis, quirúrgicos, trasplante, UCI)",
+      "dificultad": "medio",
+      "enunciado": "¿Cuáles son los cinco mecanismos por los que se produce la desnutrición en la sepsis?",
+      "opciones": [
+        "Inflamación, respuesta hormonal, resistencia insulínica, estado catabólico y pérdida de síntesis proteica",
+        "Anorexia, vómitos, diarrea, fiebre y dolor",
+        "Hipotensión, taquicardia, oliguria, acidosis y coagulopatía",
+        "Disfagia, malabsorción, fístula, íleo y mucositis"
+      ],
+      "correcta": 0,
+      "explicacion": "La desnutrición en la sepsis se produce por inflamación, respuesta hormonal, resistencia insulínica, estado catabólico y disminución de la síntesis proteica."
+    },
+    {
+      "id": "q141",
+      "tema": "Nutrición artificial en patología órgano-específica (sepsis, quirúrgicos, trasplante, UCI)",
+      "dificultad": "medio",
+      "enunciado": "Respecto al inicio de la nutrición enteral en la sepsis, ¿cuándo se recomienda iniciarla si el paciente está hemodinámicamente estable y el tubo digestivo es funcionante?",
+      "opciones": [
+        "Solo tras 7-10 días de estabilización",
+        "A partir del tercer día",
+        "Únicamente cuando la calorimetría indirecta esté disponible",
+        "De forma precoz en las primeras 24-48 horas"
+      ],
+      "correcta": 3,
+      "explicacion": "La NE en sepsis se caracteriza por un inicio precoz en las primeras 24-48 horas si el paciente está estable y el tubo digestivo es funcionante."
+    },
+    {
+      "id": "q142",
+      "tema": "Nutrición artificial en patología órgano-específica (sepsis, quirúrgicos, trasplante, UCI)",
+      "dificultad": "medio",
+      "enunciado": "Según la clasificación de la urgencia quirúrgica y su margen para intervención nutricional preoperatoria, ¿qué tipo de cirugía permite una intervención completa?",
+      "opciones": [
+        "Las emergencias",
+        "Las urgentes",
+        "Las semielectivas",
+        "Las programadas (electivas)"
+      ],
+      "correcta": 3,
+      "explicacion": "Las cirugías programadas (electivas) permiten una intervención completa; las urgentes una mínima, las semielectivas limitada y las emergencias no permiten intervención preoperatoria."
+    },
+    {
+      "id": "q143",
+      "tema": "Nutrición artificial en patología órgano-específica (sepsis, quirúrgicos, trasplante, UCI)",
+      "dificultad": "medio",
+      "enunciado": "¿En qué consiste la prehabilitación dentro de la nutrición perioperatoria?",
+      "opciones": [
+        "Una intervención multimodal (aprox. 4-6 semanas previas) que incluye soporte nutricional, apoyo psicológico, ejercicio físico y conciliación de medicación",
+        "La administración exclusiva de nutrición parenteral 48 horas antes de la cirugía",
+        "El ayuno absoluto durante la semana previa a la intervención",
+        "La corrección únicamente de la anemia mediante transfusión"
+      ],
+      "correcta": 0,
+      "explicacion": "La prehabilitación es una intervención multimodal (aprox. 4-6 semanas previas) que incluye soporte nutricional, apoyo psicológico, ejercicio físico y conciliación de medicación."
+    },
+    {
+      "id": "q144",
+      "tema": "Nutrición artificial en patología órgano-específica (sepsis, quirúrgicos, trasplante, UCI)",
+      "dificultad": "medio",
+      "enunciado": "En la valoración perioperatoria de un paciente con desnutrición leve-moderada o riesgo nutricional, ¿qué actitud se recomienda?",
+      "opciones": [
+        "Proceder con la cirugía sin demora",
+        "Iniciar nutrición parenteral total durante 21 días",
+        "Retrasar la cirugía si es posible e iniciar soporte nutricional oral/enteral 7-14 días previos",
+        "No realizar ninguna intervención nutricional"
+      ],
+      "correcta": 2,
+      "explicacion": "Ante riesgo nutricional o desnutrición leve-moderada se debe retrasar la cirugía si es posible e iniciar soporte nutricional oral/enteral 7-14 días previos."
+    },
+    {
+      "id": "q145",
+      "tema": "Nutrición artificial en patología órgano-específica (sepsis, quirúrgicos, trasplante, UCI)",
+      "dificultad": "medio",
+      "enunciado": "En la toxicidad GI severa del trasplante de células madre hematopoyéticas (TCMH), ¿por qué se considera la nutrición enteral la línea de defensa?",
+      "opciones": [
+        "Porque es más barata que la parenteral",
+        "Porque elimina la necesidad de inmunosupresores",
+        "Porque preserva la microbiota intestinal y la integridad de la mucosa, asociándose a injerto de neutrófilos más temprano y menor incidencia de EICH GI severa",
+        "Porque previene completamente la mucositis"
+      ],
+      "correcta": 2,
+      "explicacion": "La NE es la línea de defensa porque preserva la microbiota y la integridad de la mucosa, asociándose a un injerto de neutrófilos más temprano y menor incidencia de EICH GI severa."
+    },
+    {
+      "id": "q146",
+      "tema": "Nutrición artificial en patología órgano-específica (sepsis, quirúrgicos, trasplante, UCI)",
+      "dificultad": "medio",
+      "enunciado": "¿Cuáles son los cuatro pilares del equipo de soporte nutricional (NST)?",
+      "opciones": [
+        "Diagnóstico, tratamiento, alta y seguimiento",
+        "Cribado, planificación, monitoreo y consejería",
+        "Prescripción, dispensación, administración y registro",
+        "Prevención, detección, corrección y rehabilitación"
+      ],
+      "correcta": 1,
+      "explicacion": "Los cuatro pilares del NST son el cribado (con herramientas validadas como MUST), la planificación, el monitoreo y la consejería."
+    },
+    {
+      "id": "q147",
+      "tema": "Nutrición artificial en patología órgano-específica (sepsis, quirúrgicos, trasplante, UCI)",
+      "dificultad": "medio",
+      "enunciado": "En el paciente quemado, ¿en qué situación se indica iniciar la nutrición enteral según el porcentaje de ingesta?",
+      "opciones": [
+        "Cuando la ingesta es inferior al 75% de las necesidades",
+        "Cuando la ingesta es inferior al 90% de las necesidades",
+        "Solo cuando hay ayuno absoluto",
+        "Cuando la ingesta es inferior al 30% de las necesidades"
+      ],
+      "correcta": 0,
+      "explicacion": "En el quemado la nutrición enteral está indicada en ingestas inferiores al 75% de las necesidades."
+    },
+    {
+      "id": "q148",
+      "tema": "Nutrición artificial en patología órgano-específica (sepsis, quirúrgicos, trasplante, UCI)",
+      "dificultad": "dificil",
+      "enunciado": "En la sepsis, ¿qué aminoácidos están contraindicados por aumento de mortalidad?",
+      "opciones": [
+        "La leucina y la valina",
+        "La metionina y la cisteína",
+        "La arginina y la glutamina",
+        "La lisina y la histidina"
+      ],
+      "correcta": 2,
+      "explicacion": "En la sepsis la arginina y la glutamina están contraindicadas por aumento de la mortalidad."
+    },
+    {
+      "id": "q149",
+      "tema": "Nutrición artificial en patología órgano-específica (sepsis, quirúrgicos, trasplante, UCI)",
+      "dificultad": "dificil",
+      "enunciado": "En el aporte no proteico del paciente séptico, ¿qué cantidad de glucosa se recomienda y qué proporción representa de los glúcidos?",
+      "opciones": [
+        "3-5 g/kg/día, representando el 70% de los glúcidos",
+        "1-2 g/kg/día, representando el 30% de los glúcidos",
+        "5-7 g/kg/día, representando el 90% de los glúcidos",
+        "2-3 g/kg/día, representando el 50% de los glúcidos"
+      ],
+      "correcta": 0,
+      "explicacion": "La glucosa se aporta a 3-5 g/kg/día, representando el 70% de los glúcidos, frente al 30% de los lípidos."
+    },
+    {
+      "id": "q150",
+      "tema": "Nutrición artificial en patología órgano-específica (sepsis, quirúrgicos, trasplante, UCI)",
+      "dificultad": "dificil",
+      "enunciado": "Según ASPEN, ¿qué aporte proteico se recomienda en un paciente séptico con un IMC entre 30 y 40 kg/m2?",
+      "opciones": [
+        "1,2-2 g/kg/día",
+        "Igual a 2 g/kg/día",
+        "Igual a 2,5 g/kg/día",
+        "1,3-1,5 g/kg/día"
+      ],
+      "correcta": 1,
+      "explicacion": "Según ASPEN, con IMC de 30-40 kg/m2 se recomiendan proteínas igual a 2 g/kg/día; con IMC>40 igual a 2,5 g/kg/día y con IMC<30 entre 1,2-2 g/kg/día."
+    },
+    {
+      "id": "q151",
+      "tema": "Nutrición artificial en patología órgano-específica (sepsis, quirúrgicos, trasplante, UCI)",
+      "dificultad": "dificil",
+      "enunciado": "En la NPT del postoperatorio, ¿cuál es el objetivo de control glucémico estricto recomendado?",
+      "opciones": [
+        "80-110 mg/dl",
+        "110-140 mg/dl",
+        "140-180 mg/dl",
+        "180-220 mg/dl"
+      ],
+      "correcta": 2,
+      "explicacion": "En la NPT postoperatoria, dada la frecuente hiperglucemia y resistencia a la insulina, se requiere control glucémico estricto con objetivo de 140-180 mg/dl."
+    },
+    {
+      "id": "q152",
+      "tema": "Nutrición artificial en patología órgano-específica (sepsis, quirúrgicos, trasplante, UCI)",
+      "dificultad": "dificil",
+      "enunciado": "En el cálculo del balance nitrogenado del paciente quemado, ¿qué expresa la fórmula de Klem para el exudado de las quemaduras?",
+      "opciones": [
+        "% SCQ × 0,2 × días post-quemadura",
+        "Urea en orina g/24h × 0,46",
+        "Peso en kg × 25 + (% SCQ × 40)",
+        "% SCQ × 0,12 × peso en kg"
+      ],
+      "correcta": 0,
+      "explicacion": "El exudado por quemaduras se calcula con la fórmula de Klem: % SCQ × 0,2 × días post-quemadura, dentro del balance nitrogenado N = ingresos - pérdidas."
+    },
+    {
+      "id": "q153",
+      "tema": "Nutrición artificial en patología órgano-específica (sepsis, quirúrgicos, trasplante, UCI)",
+      "dificultad": "dificil",
+      "enunciado": "En el politraumatizado, ¿qué aporte proteico se recomienda y cuál es el límite que no debe superarse nunca?",
+      "opciones": [
+        "1-1,5 g/kg/día, sin superar nunca 2 g/kg/día",
+        "1,5-2 g/kg/día con patrón de aminoácidos normal, sin superar nunca 2 g/kg/día",
+        "2-2,5 g/kg/día, sin superar nunca 3 g/kg/día",
+        "0,8-1 g/kg/día, sin superar nunca 1,5 g/kg/día"
+      ],
+      "correcta": 1,
+      "explicacion": "En el politraumatizado se recomiendan 1,5-2 g/kg/día con patrón de aminoácidos no modificado; más de 2 g/kg/día no deben darse nunca."
+    },
+    {
+      "id": "q154",
+      "tema": "Nutrición artificial en patología órgano-específica (sepsis, quirúrgicos, trasplante, UCI)",
+      "dificultad": "dificil",
+      "enunciado": "En el protocolo de GvHD aguda (EICH) del trasplante de células madre, ¿en qué situación están indicados el reposo intestinal total y la nutrición parenteral?",
+      "opciones": [
+        "En cualquier grado de EICH con diarrea",
+        "En GvHD grado I-II con mucositis leve",
+        "Siempre que exista anorexia y náuseas",
+        "Exclusivamente en GvHD grado IV con volúmenes de diarrea > 1.500 ml/24h"
+      ],
+      "correcta": 3,
+      "explicacion": "El reposo intestinal total y la nutrición parenteral están indicados exclusivamente en GvHD grado IV con volúmenes de diarrea superiores a 1.500 ml/24h."
+    },
+    {
+      "id": "q155",
+      "tema": "Síndrome de realimentación",
+      "dificultad": "facil",
+      "enunciado": "¿Cuál es el principal signo o eje central del síndrome de realimentación?",
+      "opciones": [
+        "La hipofosfatemia severa",
+        "La hiperpotasemia severa",
+        "La hipercalcemia",
+        "La hipernatremia"
+      ],
+      "correcta": 0,
+      "explicacion": "El material señala que el principal signo, el eje central del síndrome, es la hipofosfatemia severa y todas las complicaciones asociadas."
+    },
+    {
+      "id": "q156",
+      "tema": "Síndrome de realimentación",
+      "dificultad": "facil",
+      "enunciado": "El síndrome de realimentación es un conjunto de alteraciones metabólicas que aparecen como consecuencia de:",
+      "opciones": [
+        "Una mala praxis en el soporte nutricional de pacientes con malnutrición calórico-proteica",
+        "Una hidratación excesiva en pacientes sanos",
+        "Una infección viral aguda",
+        "Un exceso de actividad física en deportistas"
+      ],
+      "correcta": 0,
+      "explicacion": "Se define como el conjunto de alteraciones metabólicas que pueden ocurrir por una mala praxis en el soporte nutricional de pacientes con malnutrición calórico-proteica (MEP)."
+    },
+    {
+      "id": "q157",
+      "tema": "Síndrome de realimentación",
+      "dificultad": "facil",
+      "enunciado": "¿Qué tipo de alteraciones son las más abundantes en el síndrome de realimentación?",
+      "opciones": [
+        "Renales",
+        "Digestivas",
+        "Cardíacas (arritmias e insuficiencia cardíaca)",
+        "Dermatológicas"
+      ],
+      "correcta": 2,
+      "explicacion": "El material indica que las alteraciones cardíacas son las más abundantes, manifestándose como arritmias e insuficiencia cardíaca."
+    },
+    {
+      "id": "q158",
+      "tema": "Síndrome de realimentación",
+      "dificultad": "facil",
+      "enunciado": "¿Cuándo se producen habitualmente las complicaciones del síndrome de realimentación?",
+      "opciones": [
+        "Inmediatamente al reintroducir la alimentación",
+        "Solo tras un mes de tratamiento",
+        "Únicamente antes de iniciar la alimentación",
+        "Pocos días después del reinicio de la alimentación"
+      ],
+      "correcta": 3,
+      "explicacion": "No se da nada más reintroducir la alimentación; las complicaciones se producen pocos días después del reinicio y pueden tener un desenlace fatal."
+    },
+    {
+      "id": "q159",
+      "tema": "Síndrome de realimentación",
+      "dificultad": "facil",
+      "enunciado": "¿En qué tipo de unidades es especialmente alta la incidencia del síndrome de realimentación?",
+      "opciones": [
+        "Unidades de cuidados intensivos y de enfermedades infecciosas",
+        "Unidades de rehabilitación traumatológica",
+        "Consultas de atención primaria",
+        "Unidades de cirugía ambulatoria"
+      ],
+      "correcta": 0,
+      "explicacion": "La incidencia del síndrome de realimentación es especialmente alta en las unidades de cuidados intensivos y de enfermedades infecciosas."
+    },
+    {
+      "id": "q160",
+      "tema": "Síndrome de realimentación",
+      "dificultad": "facil",
+      "enunciado": "¿Cuál es el principal catión intracelular?",
+      "opciones": [
+        "El sodio",
+        "El calcio",
+        "El magnesio",
+        "El potasio"
+      ],
+      "correcta": 3,
+      "explicacion": "El material indica que el potasio es el principal catión intracelular, encontrándose el 98% del potasio corporal total en el espacio intracelular."
+    },
+    {
+      "id": "q161",
+      "tema": "Síndrome de realimentación",
+      "dificultad": "facil",
+      "enunciado": "En la prevención del síndrome de realimentación, ¿cómo debe instaurarse la nutrición?",
+      "opciones": [
+        "De forma rápida para recuperar el peso cuanto antes",
+        "De forma progresiva y paulatina, especialmente durante los primeros 7-10 días",
+        "Aportando desde el primer día el 100% de las necesidades calóricas",
+        "Exclusivamente por vía parenteral en todos los casos"
+      ],
+      "correcta": 1,
+      "explicacion": "La instauración de la nutrición debe ser progresiva y paulatina, especialmente durante los primeros 7-10 días, hasta que el paciente esté metabólicamente estable."
+    },
+    {
+      "id": "q162",
+      "tema": "Síndrome de realimentación",
+      "dificultad": "medio",
+      "enunciado": "En el estudio clásico de Keys et al sobre el síndrome de realimentación, ¿qué consecuencia se observó tras reintroducir la alimentación normal en los varones sometidos a semiayuno?",
+      "opciones": [
+        "Una disminución de la reserva cardiovascular, con insuficiencia cardíaca en algunos casos",
+        "Una mejoría inmediata y completa del estado general",
+        "Un aumento de la masa ósea sin complicaciones",
+        "Una insuficiencia renal aguda en todos los participantes"
+      ],
+      "correcta": 0,
+      "explicacion": "El estudio de Keys et al en varones objetores de conciencia, tras 6 meses de semiayuno y reintroducción de alimentación, tuvo como consecuencia una disminución de la reserva cardiovascular con insuficiencia cardíaca en algunos casos."
+    },
+    {
+      "id": "q163",
+      "tema": "Síndrome de realimentación",
+      "dificultad": "medio",
+      "enunciado": "¿Cuál de las siguientes situaciones NO se considera factor de riesgo para desarrollar síndrome de realimentación según el material?",
+      "opciones": [
+        "Anorexia nerviosa",
+        "Alcoholismo crónico",
+        "Obesidad estable sin pérdida de peso reciente",
+        "Ayuno de 7-10 días asociado a estrés"
+      ],
+      "correcta": 2,
+      "explicacion": "El riesgo aparece en obesos mórbidos tras pérdida de peso masiva, no en la obesidad estable; sí son factores de riesgo la anorexia nerviosa, el alcoholismo crónico y el ayuno de 7-10 días con estrés."
+    },
+    {
+      "id": "q164",
+      "tema": "Síndrome de realimentación",
+      "dificultad": "medio",
+      "enunciado": "¿Por qué aumentan los requerimientos de tiamina durante la realimentación?",
+      "opciones": [
+        "Porque la insulina introduce glucosa en los tejidos y la tiamina es cofactor del metabolismo energético, sin existir reservas",
+        "Porque la tiamina se elimina por la orina en grandes cantidades",
+        "Porque la tiamina se almacena en exceso en el hígado",
+        "Porque se inhibe la absorción intestinal de tiamina"
+      ],
+      "correcta": 0,
+      "explicacion": "La insulina introduce glucosa en los tejidos y aumenta los requerimientos de tiamina, para la cual no hay reservas, ya que es cofactor del metabolismo energético."
+    },
+    {
+      "id": "q165",
+      "tema": "Síndrome de realimentación",
+      "dificultad": "medio",
+      "enunciado": "Durante la realimentación, ¿qué ocurre con el fósforo, el magnesio y el potasio plasmáticos?",
+      "opciones": [
+        "Aumentan en plasma por liberación desde el hueso",
+        "Se mantienen invariables porque no participan en el anabolismo",
+        "Las células los captan desde la sangre hacia el espacio intracelular, disminuyendo sus niveles séricos",
+        "Se eliminan masivamente por vía urinaria sin desplazamiento celular"
+      ],
+      "correcta": 2,
+      "explicacion": "Las células necesitan P, Mg y K para funcionar, por lo que los captan de la sangre y pasan al espacio intracelular, disminuyendo los niveles séricos."
+    },
+    {
+      "id": "q166",
+      "tema": "Síndrome de realimentación",
+      "dificultad": "medio",
+      "enunciado": "¿Cuál es el valor sérico normal de fósforo según el material?",
+      "opciones": [
+        "0,5-1,5 mg/dl",
+        "5,0-7,0 mg/dl",
+        "1,0-2,0 mg/dl",
+        "2,5-4,5 mg/dl"
+      ],
+      "correcta": 3,
+      "explicacion": "El nivel de fósforo sérico normal es de 2,5-4,5 mg/dl, considerándose hipofosfatemia un fosfato inferior a 2,5 mg/dl."
+    },
+    {
+      "id": "q167",
+      "tema": "Síndrome de realimentación",
+      "dificultad": "medio",
+      "enunciado": "Respecto a la absorción del magnesio, ¿cuál de las siguientes afirmaciones es correcta?",
+      "opciones": [
+        "Se absorbe en el colon y depende de la vitamina D",
+        "Solo se absorbe en presencia de PTH elevada",
+        "No se absorbe por vía intestinal, solo por vía renal",
+        "Tiene lugar en la porción proximal del intestino delgado y es independiente de la vitamina D"
+      ],
+      "correcta": 3,
+      "explicacion": "La absorción del magnesio tiene lugar en la porción proximal del intestino delgado y es independiente de la vitamina D."
+    },
+    {
+      "id": "q168",
+      "tema": "Síndrome de realimentación",
+      "dificultad": "medio",
+      "enunciado": "¿Qué consecuencia metabólica produce el déficit de tiamina?",
+      "opciones": [
+        "Aumento de piruvato que se transforma en lactato, produciendo acidosis láctica",
+        "Una alcalosis respiratoria por hiperventilación",
+        "Una hiperglucemia mantenida sin acidosis",
+        "Un acúmulo de cuerpos cetónicos exclusivamente"
+      ],
+      "correcta": 0,
+      "explicacion": "El déficit de tiamina provoca un aumento de la concentración de piruvato en sangre, que se transforma en lactato, y el aumento de lactato produce acidosis láctica."
+    },
+    {
+      "id": "q169",
+      "tema": "Síndrome de realimentación",
+      "dificultad": "medio",
+      "enunciado": "Según las recomendaciones para instaurar el soporte nutricional especializado en un enfermo con riesgo de síndrome de realimentación, ¿con qué aporte energético se debe comenzar el primer día?",
+      "opciones": [
+        "20-30 kcal/kg/día",
+        "40-50 kcal/kg/día",
+        "10-15 kcal/kg/día (aproximadamente 1000 kcal/día)",
+        "5 kcal/kg/día como máximo"
+      ],
+      "correcta": 2,
+      "explicacion": "Se recomienda aportar el 25% de las necesidades calculadas el primer día, comenzando con 10-15 kcal/kg/día, aproximadamente 1000 kcal/día."
+    },
+    {
+      "id": "q170",
+      "tema": "Síndrome de realimentación",
+      "dificultad": "dificil",
+      "enunciado": "En cuanto a la distribución de los depósitos de fosfato en un adulto medio (700 g), ¿qué porcentaje se localiza en el esqueleto?",
+      "opciones": [
+        "20%",
+        "1%",
+        "80%",
+        "50%"
+      ],
+      "correcta": 2,
+      "explicacion": "De los aproximadamente 700 g de depósitos de fosfato, el 80% se encuentra en el esqueleto, el 20% en tejidos blandos y músculo, y el 1% en el líquido extracelular."
+    },
+    {
+      "id": "q171",
+      "tema": "Síndrome de realimentación",
+      "dificultad": "dificil",
+      "enunciado": "En la regulación renal del fosfato, ¿qué efecto tiene la hormona paratiroidea (PTH) sobre el transportador NaPi-2a?",
+      "opciones": [
+        "Aumenta el número de transportadores y la reabsorción de fosfato",
+        "Produce la internalización y degradación de los transportadores, disminuyendo la reabsorción y provocando fosfaturia",
+        "No tiene ningún efecto sobre los transportadores de fosfato",
+        "Estimula la reabsorción de fosfato en el túbulo distal"
+      ],
+      "correcta": 1,
+      "explicacion": "La PTH ocasiona la internalización y degradación intracelular de los transportadores NaPi-2a, lo que supone una disminución en la reabsorción de fosfato y la aparición de fosfaturia."
+    },
+    {
+      "id": "q172",
+      "tema": "Síndrome de realimentación",
+      "dificultad": "dificil",
+      "enunciado": "¿Por qué la hipofosfatemia disminuye la liberación de oxígeno a los tejidos?",
+      "opciones": [
+        "Porque el fosfato es cofactor del gliceraldehído 3 fosfato deshidrogenasa, y su déficit reduce la producción de 2,3-DPG y de ATP",
+        "Porque aumenta directamente la afinidad de la mioglobina",
+        "Porque el fosfato es necesario para sintetizar hemoglobina",
+        "Porque provoca vasoconstricción periférica generalizada"
+      ],
+      "correcta": 0,
+      "explicacion": "El fosfato es cofactor del gliceraldehído 3 fosfato deshidrogenasa; en hipofosfatemia disminuye la producción de 2,3-DPG y de ATP, y el 2,3-DPG regula la curva de disociación del oxígeno de la hemoglobina."
+    },
+    {
+      "id": "q173",
+      "tema": "Síndrome de realimentación",
+      "dificultad": "dificil",
+      "enunciado": "¿Cuál es la tasa de mortalidad en pacientes con hipofosfatemia grave según el material?",
+      "opciones": [
+        "Del 5%",
+        "Del 15%",
+        "Del 60%",
+        "Del 30%"
+      ],
+      "correcta": 3,
+      "explicacion": "El material indica que la tasa de mortalidad en pacientes con hipofosfatemia grave es del 30%, apareciendo síntomas con valores de fósforo inferiores a 1,5 mg/dl."
+    },
+    {
+      "id": "q174",
+      "tema": "Síndrome de realimentación",
+      "dificultad": "dificil",
+      "enunciado": "Respecto al aporte profiláctico de electrolitos en un enfermo con riesgo de síndrome de realimentación, ¿cuál de las siguientes dosis es correcta?",
+      "opciones": [
+        "Potasio: 10-15 mEq/kg/día",
+        "Magnesio: 2-3 mEq/kg/día",
+        "Fosfato: 5 mmol/kg/día",
+        "Fosfato: 0,5-0,8 mmol/kg/día"
+      ],
+      "correcta": 3,
+      "explicacion": "Se recomienda administrar de forma profiláctica P a 0,5-0,8 mmol/kg/día, K a 1-3 mEq/kg/día y Mg a 0,15-0,20 mEq/kg/día, salvo niveles basales elevados."
+    },
+    {
+      "id": "q175",
+      "tema": "Síndrome de realimentación",
+      "dificultad": "dificil",
+      "enunciado": "¿Cuál es la primera medida que debe adoptarse en el tratamiento del síndrome de realimentación ya establecido?",
+      "opciones": [
+        "Aumentar el aporte de líquidos para diluir los electrolitos",
+        "Disminución del aporte calórico",
+        "Administrar diuréticos de asa",
+        "Aumentar el aporte proteico al máximo"
+      ],
+      "correcta": 1,
+      "explicacion": "El material señala que la disminución del aporte calórico es lo primero que hay que hacer en el tratamiento del síndrome de realimentación."
+    },
+    {
+      "id": "q176",
+      "tema": "Síndrome de realimentación",
+      "dificultad": "dificil",
+      "enunciado": "Cuando se instaura un síndrome de realimentación y el paciente se estabiliza, ¿a qué ritmo debe reintroducirse la alimentación?",
+      "opciones": [
+        "Al 100% del aporte previo de forma inmediata",
+        "Al 200% del previo para compensar el déficit",
+        "Al 50% del previo, con progresión lenta",
+        "Manteniendo el mismo aporte que causó el síndrome"
+      ],
+      "correcta": 2,
+      "explicacion": "Tras suspender el soporte nutricional y estabilizar al paciente, se reintroduce la alimentación a un ritmo bajo (50% del previo) con progresión lenta."
+    }
+  ]
+}
