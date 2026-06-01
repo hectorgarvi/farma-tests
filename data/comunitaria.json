@@ -1,8 +1,8 @@
 {
   "meta": {
     "titulo": "Nutrición Comunitaria",
-    "version": 1,
-    "total": 154
+    "version": 2,
+    "total": 304
   },
   "preguntas": [
     {
@@ -2160,6 +2160,2106 @@
       ],
       "correcta": 1,
       "explicacion": "Un objetivo SMART concreta qué, cuándo, dónde y con qué frecuencia (llevar fruta al trabajo tres días y comerla a media mañana), y el plan si-entonces anticipa una situación difícil con una respuesta ya decidida."
+    },
+    {
+      "id": "q155",
+      "tema": "La nutrición comunitaria",
+      "dificultad": "facil",
+      "enunciado": "Las actuaciones en nutrición comunitaria buscan mejorar los estilos de vida relacionados con la alimentación teniendo en cuenta varios condicionantes. ¿Cuál de los siguientes es uno de ellos?",
+      "opciones": [
+        "La aceptabilidad cultural",
+        "El precio de mercado de los alimentos importados",
+        "La rentabilidad económica para el sistema sanitario",
+        "La opinión exclusiva del profesional prescriptor"
+      ],
+      "correcta": 0,
+      "explicacion": "Las actuaciones tienen en cuenta condicionantes como la adecuación nutricional, la aceptabilidad cultural, los recursos disponibles y el entorno de la comunidad."
+    },
+    {
+      "id": "q156",
+      "tema": "La nutrición comunitaria",
+      "dificultad": "medio",
+      "enunciado": "¿Cuál de los siguientes NO figura entre los condicionantes que deben tenerse en cuenta en las actuaciones de nutrición comunitaria?",
+      "opciones": [
+        "La adecuación nutricional",
+        "La aceptabilidad cultural",
+        "Los recursos disponibles",
+        "El nivel educativo individual del profesional sanitario"
+      ],
+      "correcta": 3,
+      "explicacion": "Los condicionantes señalados son la adecuación nutricional, la aceptabilidad cultural, los recursos disponibles y el entorno en el que vive la comunidad."
+    },
+    {
+      "id": "q157",
+      "tema": "La nutrición comunitaria",
+      "dificultad": "medio",
+      "enunciado": "La creación de entornos favorables como estrategia de intervención implica modificar el entorno en el que vive la comunidad. ¿Qué dimensiones de ese entorno se contemplan?",
+      "opciones": [
+        "El entorno físico, social u organizativo",
+        "Únicamente el entorno físico y geográfico",
+        "Exclusivamente el entorno familiar y doméstico",
+        "Solo el entorno digital y mediático"
+      ],
+      "correcta": 0,
+      "explicacion": "La creación de entornos favorables implica modificar el entorno físico, social u organizativo para facilitar elecciones saludables y reducir barreras al cambio."
+    },
+    {
+      "id": "q158",
+      "tema": "La nutrición comunitaria",
+      "dificultad": "dificil",
+      "enunciado": "Respecto a las acciones de sensibilización de la población, ¿qué afirmación es la más precisa?",
+      "opciones": [
+        "Garantizan por sí solas la modificación de los hábitos alimentarios",
+        "Constituyen un paso previo necesario, pero por sí solas no garantizan el cambio de hábitos",
+        "Son innecesarias cuando existen programas de modificación de estilos de vida",
+        "Sustituyen a la creación de entornos favorables"
+      ],
+      "correcta": 1,
+      "explicacion": "La sensibilización mejora la información y la conciencia y suele ser un paso previo necesario, pero por sí sola no garantiza la modificación de los hábitos, por lo que debe integrarse en estrategias más amplias."
+    },
+    {
+      "id": "q159",
+      "tema": "La nutrición comunitaria",
+      "dificultad": "dificil",
+      "enunciado": "Una intervención propone a una comunidad introducir cambios pequeños, realistas y adaptados a su contexto que puedan mantenerse en el tiempo. ¿A qué línea de estrategia corresponde y qué la caracteriza?",
+      "opciones": [
+        "A la sensibilización, caracterizada por aumentar el conocimiento del problema",
+        "A la creación de entornos favorables, centrada en transformar el espacio físico",
+        "A la modificación de estilos de vida, orientada a cambios progresivos y sostenibles",
+        "A la intervención clínica individual, basada en el tratamiento dietético personalizado"
+      ],
+      "correcta": 2,
+      "explicacion": "La modificación de estilos de vida promueve cambios progresivos y sostenibles, realistas y adaptados al contexto, mantenidos en el tiempo."
+    },
+    {
+      "id": "q160",
+      "tema": "La nutrición comunitaria",
+      "dificultad": "medio",
+      "enunciado": "En relación con los entornos obesogénicos, ¿qué consideran imprescindible muchas estrategias actuales de nutrición comunitaria?",
+      "opciones": [
+        "Intervenir sobre ellos para transformarlos en entornos más protectores de la salud",
+        "Aceptarlos como un condicionante inevitable del estilo de vida",
+        "Limitar la intervención a la información individual sin modificar el entorno",
+        "Sustituirlos por programas exclusivamente clínicos"
+      ],
+      "correcta": 0,
+      "explicacion": "Muchas estrategias actuales consideran imprescindible intervenir sobre los entornos obesogénicos para transformarlos en entornos más protectores de la salud."
+    },
+    {
+      "id": "q161",
+      "tema": "La nutrición comunitaria",
+      "dificultad": "medio",
+      "enunciado": "Dentro del enfoque multidisciplinar de la nutrición comunitaria, ¿cuál de los siguientes campos NO se menciona como conocimiento integrado en la disciplina?",
+      "opciones": [
+        "La epidemiología",
+        "La educación",
+        "Las ciencias de la conducta",
+        "La ingeniería de alimentos"
+      ],
+      "correcta": 3,
+      "explicacion": "La disciplina integra conocimientos de la nutrición, la epidemiología, la educación, las ciencias sociales y las ciencias de la conducta."
+    },
+    {
+      "id": "q162",
+      "tema": "La nutrición comunitaria",
+      "dificultad": "dificil",
+      "enunciado": "¿Por qué resulta imprescindible la integración de conocimientos de distintas disciplinas en la nutrición comunitaria?",
+      "opciones": [
+        "Para reducir el coste de las intervenciones sanitarias",
+        "Para comprender la complejidad de los comportamientos alimentarios y diseñar intervenciones eficaces y adaptadas al contexto",
+        "Para sustituir el papel del dietista-nutricionista por el de otros profesionales",
+        "Para limitar la participación de la población en la toma de decisiones"
+      ],
+      "correcta": 1,
+      "explicacion": "La integración de conocimientos es imprescindible para comprender la complejidad de los comportamientos alimentarios y para diseñar intervenciones eficaces y adaptadas al contexto."
+    },
+    {
+      "id": "q163",
+      "tema": "La nutrición comunitaria",
+      "dificultad": "dificil",
+      "enunciado": "Las tres grandes líneas de intervención suelen integrarse en programas de intervención en nutrición comunitaria. ¿Qué función cumplen principalmente estos programas?",
+      "opciones": [
+        "Constituir el principal instrumento de planificación, implementación y evaluación de las acciones educativas",
+        "Sustituir la necesidad de la participación comunitaria",
+        "Sensibilizar de forma aislada y puntual a la población",
+        "Garantizar el tratamiento dietético individualizado de cada miembro"
+      ],
+      "correcta": 0,
+      "explicacion": "Los programas de intervención constituyen el principal instrumento de planificación, implementación y evaluación de las acciones educativas."
+    },
+    {
+      "id": "q164",
+      "tema": "La nutrición comunitaria",
+      "dificultad": "medio",
+      "enunciado": "Un mismo individuo puede pertenecer simultáneamente a varias comunidades. ¿Qué consecuencia tiene esto para la nutrición comunitaria?",
+      "opciones": [
+        "Cada comunidad influirá de manera distinta en sus hábitos alimentarios y su relación con la salud",
+        "Obliga a tratar a la persona como un individuo aislado",
+        "Impide diseñar estrategias de intervención adecuadas",
+        "Hace irrelevante analizar lo que comparten los miembros de la comunidad"
+      ],
+      "correcta": 0,
+      "explicacion": "La pertenencia a una comunidad no es excluyente; cada una de las comunidades a las que pertenece un individuo influirá de manera distinta en sus hábitos alimentarios y en su relación con la salud."
+    },
+    {
+      "id": "q165",
+      "tema": "La nutrición comunitaria",
+      "dificultad": "dificil",
+      "enunciado": "¿Por qué se afirma que la proximidad geográfica no basta para definir una comunidad en nutrición comunitaria?",
+      "opciones": [
+        "Porque la comunidad se define únicamente por la estructura económica",
+        "Porque las características que definen una comunidad son diversas e incluyen cultura, valores, estructura social, relaciones en el tiempo e identidad colectiva",
+        "Porque solo los grupos pequeños pueden considerarse comunidades",
+        "Porque la pertenencia a una comunidad es siempre excluyente"
+      ],
+      "correcta": 1,
+      "explicacion": "Las características que definen una comunidad no se limitan a la proximidad geográfica; incluyen también la cultura, las creencias y valores, la estructura social y económica, las relaciones en el tiempo y el sentimiento de pertenencia."
+    },
+    {
+      "id": "q166",
+      "tema": "La nutrición comunitaria",
+      "dificultad": "medio",
+      "enunciado": "En el enfoque participativo, ¿quién decide finalmente el camino a seguir y asume la responsabilidad sobre su salud?",
+      "opciones": [
+        "El profesional sanitario, de forma prescriptiva",
+        "Los propios individuos, una vez informados",
+        "El equipo multidisciplinar, sin consultar a la comunidad",
+        "Las instituciones sanitarias por delegación"
+      ],
+      "correcta": 1,
+      "explicacion": "Son los propios individuos quienes, una vez informados, deciden el camino a seguir y asumen la responsabilidad sobre su salud."
+    },
+    {
+      "id": "q167",
+      "tema": "La nutrición comunitaria",
+      "dificultad": "facil",
+      "enunciado": "¿Cuál es el objetivo último de la nutrición comunitaria respecto a los hábitos de la población?",
+      "opciones": [
+        "Favorecer la adquisición y el mantenimiento de hábitos de vida saludables",
+        "Imponer dietas estandarizadas a toda la población",
+        "Tratar individualmente cada caso clínico detectado",
+        "Limitarse a sensibilizar sin promover cambios"
+      ],
+      "correcta": 0,
+      "explicacion": "El objetivo último de la nutrición comunitaria es favorecer la adquisición y el mantenimiento de hábitos de vida saludables, contribuyendo a la prevención de enfermedades y a la mejora de la calidad de vida."
+    },
+    {
+      "id": "q168",
+      "tema": "La nutrición comunitaria",
+      "dificultad": "dificil",
+      "enunciado": "¿Qué diferencia fundamental existe entre la intervención clínica individual y la nutrición comunitaria respecto a los factores que aborda?",
+      "opciones": [
+        "La intervención clínica aborda factores sociales y ambientales, mientras que la comunitaria no",
+        "La nutrición comunitaria actúa sobre colectivos abordando factores sociales, culturales, económicos y ambientales que influyen en la conducta alimentaria",
+        "Ambas se centran exclusivamente en el tratamiento dietético personalizado",
+        "La nutrición comunitaria se limita a factores genéticos individuales"
+      ],
+      "correcta": 1,
+      "explicacion": "A diferencia de la intervención clínica individual, centrada en el tratamiento dietético personalizado, la nutrición comunitaria actúa sobre colectivos abordando los factores sociales, culturales, económicos y ambientales que influyen en la conducta alimentaria."
+    },
+    {
+      "id": "q169",
+      "tema": "La nutrición comunitaria",
+      "dificultad": "medio",
+      "enunciado": "La participación comunitaria favorece varios resultados. ¿Cuál de los siguientes es uno de ellos?",
+      "opciones": [
+        "Una menor implicación de la población en las acciones",
+        "Una mayor dependencia del carácter prescriptivo del profesional",
+        "Una mayor probabilidad de mantenimiento de los cambios a largo plazo",
+        "Una peor adecuación de las intervenciones al contexto real"
+      ],
+      "correcta": 2,
+      "explicacion": "La participación comunitaria favorece una mayor implicación, una mejor adecuación de las intervenciones al contexto real y una mayor probabilidad de mantenimiento de los cambios a largo plazo."
+    },
+    {
+      "id": "q170",
+      "tema": "La nutrición comunitaria",
+      "dificultad": "dificil",
+      "enunciado": "Un dietista-nutricionista realiza un estudio para conocer la situación alimentaria de un barrio y detectar sus principales carencias antes de proponer cualquier acción. ¿A qué funciones del dietista-nutricionista corresponden estas tareas?",
+      "opciones": [
+        "Elaborar materiales educativos y evaluar intervenciones",
+        "Analizar la situación alimentaria y nutricional e identificar problemas y necesidades",
+        "Prescribir tratamientos dietéticos individuales",
+        "Coordinar exclusivamente el sistema sanitario"
+      ],
+      "correcta": 1,
+      "explicacion": "Entre las funciones del dietista-nutricionista están analizar la situación alimentaria y nutricional de una comunidad e identificar problemas y necesidades relacionadas con la alimentación."
+    },
+    {
+      "id": "q171",
+      "tema": "La nutrición comunitaria",
+      "dificultad": "medio",
+      "enunciado": "¿Cuál es la principal función del profesional sanitario en el enfoque participativo de la nutrición comunitaria?",
+      "opciones": [
+        "Prescribir de forma autoritaria las decisiones de la comunidad",
+        "Orientar, informar con base en la evidencia, ofrecer alternativas y acompañar en el proceso de cambio",
+        "Sustituir las decisiones de los individuos por las del equipo",
+        "Limitarse a sensibilizar sin ofrecer alternativas"
+      ],
+      "correcta": 1,
+      "explicacion": "El profesional no adopta un papel autoritario ni prescriptivo; su función es orientar, proporcionar información clara y basada en evidencia, ofrecer alternativas y acompañar a la comunidad en el proceso de cambio."
+    },
+    {
+      "id": "q172",
+      "tema": "La nutrición comunitaria",
+      "dificultad": "dificil",
+      "enunciado": "¿Por qué se considera esencial analizar qué aspectos comparten los individuos que conforman una comunidad?",
+      "opciones": [
+        "Porque solo así puede excluirse a quienes no pertenecen a ella",
+        "Porque estos aspectos determinan tanto los problemas alimentarios existentes como las estrategias de intervención más adecuadas",
+        "Porque permiten prescindir del enfoque participativo",
+        "Porque definen exclusivamente el espacio geográfico de la comunidad"
+      ],
+      "correcta": 1,
+      "explicacion": "Analizar lo que comparten los individuos es esencial porque estos aspectos determinan tanto los problemas alimentarios existentes como las estrategias de intervención más adecuadas."
+    },
+    {
+      "id": "q173",
+      "tema": "La conducta alimentaria",
+      "dificultad": "facil",
+      "enunciado": "La facilidad de adquisición, preparación y consumo de los alimentos, así como el tiempo disponible para ello, se corresponde con una dimensión concreta de los alimentos. ¿Cuál es?",
+      "opciones": [
+        "Dimensión nutritiva",
+        "Dimensión sanitaria",
+        "Dimensión de comodidad",
+        "Dimensión psíquica"
+      ],
+      "correcta": 2,
+      "explicacion": "La dimensión de comodidad recoge la facilidad de adquisición, preparación y consumo, así como el tiempo disponible."
+    },
+    {
+      "id": "q174",
+      "tema": "La conducta alimentaria",
+      "dificultad": "facil",
+      "enunciado": "Las vivencias personales, las experiencias previas y las emociones que influyen en la percepción y aceptación de los alimentos definen una de las dimensiones de estos. ¿Cuál?",
+      "opciones": [
+        "Dimensión psíquica",
+        "Dimensión social y cultural",
+        "Dimensión económica",
+        "Dimensión nutritiva"
+      ],
+      "correcta": 0,
+      "explicacion": "La dimensión psíquica abarca las vivencias personales, las experiencias previas y las emociones en relación con los alimentos."
+    },
+    {
+      "id": "q175",
+      "tema": "La conducta alimentaria",
+      "dificultad": "facil",
+      "enunciado": "Respecto a las predisposiciones biológicas hacia los sabores en el ser humano, ¿cuál de las siguientes afirmaciones es correcta?",
+      "opciones": [
+        "El rechazo a los sabores amargos y agrios es innato, mientras que la atracción por lo salado se desarrolla meses después del nacimiento",
+        "La preferencia por lo salado es innata desde el nacimiento, igual que la del dulce",
+        "El rechazo al dulce y la preferencia por lo amargo tienen valor adaptativo",
+        "La atracción por lo salado está presente desde el nacimiento y se pierde con la edad"
+      ],
+      "correcta": 0,
+      "explicacion": "Existe preferencia innata por el dulce y rechazo inicial a amargos y agrios, mientras que la atracción por lo salado aparece meses después del nacimiento."
+    },
+    {
+      "id": "q176",
+      "tema": "La conducta alimentaria",
+      "dificultad": "medio",
+      "enunciado": "¿Qué valor adaptativo se atribuye a las predisposiciones innatas hacia los sabores dulce y amargo?",
+      "opciones": [
+        "El dulce se asocia a sustancias tóxicas y el amargo a fuentes seguras de energía",
+        "Ambos sabores se asocian a fuentes seguras de energía",
+        "El dulce se asocia a fuentes seguras de energía y el amargo a posibles sustancias tóxicas",
+        "El amargo señala alimentos ricos en proteínas y el dulce, alimentos grasos"
+      ],
+      "correcta": 2,
+      "explicacion": "Lo dulce se asocia con fuentes seguras de energía y lo amargo con posibles sustancias tóxicas, lo que confiere valor adaptativo a estas predisposiciones."
+    },
+    {
+      "id": "q177",
+      "tema": "La conducta alimentaria",
+      "dificultad": "dificil",
+      "enunciado": "En relación con la preferencia por los alimentos ricos en grasa, ¿cuál de las siguientes afirmaciones se ajusta a lo descrito?",
+      "opciones": [
+        "La grasa posee un sabor intenso propio que explica por sí solo su aceptación",
+        "La grasa tiene poco sabor en sí misma, pero aporta textura y palatabilidad, sobre todo combinada con azúcares y sal",
+        "La grasa reduce la palatabilidad cuando se combina con azúcares y sal",
+        "La preferencia por la grasa carece de cualquier componente biológico"
+      ],
+      "correcta": 1,
+      "explicacion": "Aunque la grasa tiene poco sabor propio, aporta textura y palatabilidad, especialmente combinada con azúcares y sal, lo que incrementa la aceptación de muchos alimentos."
+    },
+    {
+      "id": "q178",
+      "tema": "La conducta alimentaria",
+      "dificultad": "medio",
+      "enunciado": "Las diferencias entre personas en la sensibilidad a los sabores, que ayudan a explicar preferencias y aversiones alimentarias, se atribuyen principalmente a un factor concreto. ¿Cuál?",
+      "opciones": [
+        "A la exposición publicitaria recibida",
+        "Al nivel educativo de la persona",
+        "Al poder adquisitivo familiar",
+        "A determinantes genéticos"
+      ],
+      "correcta": 3,
+      "explicacion": "Existen diferencias individuales en la sensibilidad a los sabores determinadas genéticamente, que explican preferencias y aversiones."
+    },
+    {
+      "id": "q179",
+      "tema": "La conducta alimentaria",
+      "dificultad": "dificil",
+      "enunciado": "Los mecanismos de ahorro energético desarrollados por el ser humano a lo largo de la evolución se adaptaron originalmente a un contexto determinado. ¿Cuál, y qué ocurre con ellos en la actualidad?",
+      "opciones": [
+        "Se adaptaron a la abundancia y hoy resultan irrelevantes para la elección de alimentos",
+        "Surgieron en la sociedad moderna de abundancia y aún no afectan a la cantidad ingerida",
+        "Se adaptaron a contextos de escasez y hoy siguen influyendo en la elección y la cantidad consumida en una sociedad de abundancia",
+        "Se adaptaron a la escasez y desaparecen por completo en contextos de abundancia"
+      ],
+      "correcta": 2,
+      "explicacion": "Los mecanismos de ahorro energético se adaptaron a contextos de escasez y, en la actual sociedad de abundancia, siguen influyendo en la elección de alimentos y en la cantidad consumida."
+    },
+    {
+      "id": "q180",
+      "tema": "La conducta alimentaria",
+      "dificultad": "dificil",
+      "enunciado": "Un niño rechaza de forma sistemática los alimentos nuevos entre los 2 y los 5 años. Considerando el abordaje descrito, ¿qué estrategia favorece la aceptación de esos alimentos?",
+      "opciones": [
+        "Presionar con firmeza para que los consuma cuanto antes",
+        "Sustituirlos definitivamente por alimentos ya conocidos",
+        "La exposición repetida y la familiarización mediante experiencias positivas",
+        "Ofrecerlos como recompensa tras una buena conducta"
+      ],
+      "correcta": 2,
+      "explicacion": "La neofobia alimentaria, frecuente entre los 2 y 5 años, se supera mediante la exposición repetida y la familiarización a través de experiencias positivas con los alimentos."
+    },
+    {
+      "id": "q181",
+      "tema": "La conducta alimentaria",
+      "dificultad": "dificil",
+      "enunciado": "Unos padres presionan de forma excesiva a su hijo para que consuma verduras y hortalizas. Según lo descrito, ¿cuál es el efecto más probable de esta presión?",
+      "opciones": [
+        "Un mayor rechazo hacia esos alimentos saludables",
+        "Una aceptación inmediata y duradera de las verduras",
+        "Un aumento de la motivación intrínseca del niño",
+        "La eliminación de la neofobia alimentaria"
+      ],
+      "correcta": 0,
+      "explicacion": "Una presión excesiva para consumir ciertos alimentos, especialmente saludables, se ha asociado con un mayor rechazo hacia estos."
+    },
+    {
+      "id": "q182",
+      "tema": "La conducta alimentaria",
+      "dificultad": "dificil",
+      "enunciado": "En cuanto a los estilos de alimentación parental y su clima socioemocional, ¿cuál de las siguientes afirmaciones es correcta?",
+      "opciones": [
+        "Solo los estilos permisivos se asocian con resultados negativos",
+        "Solo los estilos autoritarios se asocian con resultados negativos",
+        "Tanto los estilos excesivamente autoritarios como los excesivamente permisivos se asocian con resultados negativos",
+        "Ambos extremos son igualmente recomendables si hay afecto"
+      ],
+      "correcta": 2,
+      "explicacion": "Tanto los estilos excesivamente autoritarios como los excesivamente permisivos se han asociado con resultados negativos; lo más adecuado es un enfoque equilibrado con límites claros, apoyo y un ambiente emocional positivo."
+    },
+    {
+      "id": "q183",
+      "tema": "La conducta alimentaria",
+      "dificultad": "medio",
+      "enunciado": "Cuando la comida se utiliza como recompensa con un niño, ¿qué consecuencia se describe sobre su relación con la alimentación?",
+      "opciones": [
+        "Reduce la motivación intrínseca y favorece una relación inadecuada con la alimentación",
+        "Refuerza de forma estable la motivación intrínseca del niño",
+        "Mejora la regulación del hambre y la saciedad",
+        "Es la estrategia parental más recomendada"
+      ],
+      "correcta": 0,
+      "explicacion": "El uso de la comida como recompensa puede reducir la motivación intrínseca del niño y favorecer una relación inadecuada con la alimentación."
+    },
+    {
+      "id": "q184",
+      "tema": "La conducta alimentaria",
+      "dificultad": "medio",
+      "enunciado": "En las primeras etapas de la vida, ¿qué riesgo se asocia con utilizar la comida como premio, castigo o forma de compensación emocional?",
+      "opciones": [
+        "Refuerza la función reguladora del hambre y la saciedad",
+        "Mejora el desarrollo psicosocial del niño sin efectos negativos",
+        "Favorece hábitos inadecuados y una relación emocional distorsionada con la comida",
+        "Acelera la adquisición de actitudes positivas hacia la alimentación"
+      ],
+      "correcta": 2,
+      "explicacion": "Usar la comida como premio, castigo o compensación emocional puede favorecer hábitos inadecuados y una relación emocional distorsionada en la que comer pierde su función reguladora del hambre y la saciedad."
+    },
+    {
+      "id": "q185",
+      "tema": "La conducta alimentaria",
+      "dificultad": "dificil",
+      "enunciado": "En la distinción entre tipos de influencias sobre el comportamiento alimentario, ¿qué define a los 'moderadores'?",
+      "opciones": [
+        "Factores cuya relación con el comportamiento ha sido demostrada y que predicen el cambio",
+        "Mecanismos a través de los cuales una intervención produce su efecto",
+        "Factores que modifican la intensidad o la dirección de la relación entre determinantes y comportamiento",
+        "Conocimientos prácticos que facilitan llevar a cabo el cambio"
+      ],
+      "correcta": 2,
+      "explicacion": "Los moderadores son factores que modifican la intensidad o la dirección de la relación entre los determinantes y el comportamiento."
+    },
+    {
+      "id": "q186",
+      "tema": "La conducta alimentaria",
+      "dificultad": "medio",
+      "enunciado": "Dentro de los tipos de influencias sobre el comportamiento, ¿cómo se definen los 'determinantes'?",
+      "opciones": [
+        "Factores cuya relación con el comportamiento ha sido demostrada y que predicen el cambio",
+        "Mecanismos a través de los cuales la intervención produce su efecto",
+        "Factores que solo modifican la dirección de una relación ya establecida",
+        "Conocimientos motivadores sobre por qué cambiar"
+      ],
+      "correcta": 0,
+      "explicacion": "Los determinantes son factores cuya relación con el comportamiento ha sido demostrada y que predicen el cambio."
+    },
+    {
+      "id": "q187",
+      "tema": "La conducta alimentaria",
+      "dificultad": "medio",
+      "enunciado": "Una intervención de educación alimentaria que actúa sobre la disponibilidad y accesibilidad a alimentos saludables y sobre entornos facilitadores, ¿en qué nivel de determinantes se sitúa?",
+      "opciones": [
+        "Nivel intrapersonal",
+        "Nivel interpersonal",
+        "Nivel comunitario y organizacional",
+        "Nivel estructural y político"
+      ],
+      "correcta": 2,
+      "explicacion": "El nivel comunitario y organizacional incluye la disponibilidad y accesibilidad a alimentos saludables y los entornos facilitadores."
+    },
+    {
+      "id": "q188",
+      "tema": "La conducta alimentaria",
+      "dificultad": "medio",
+      "enunciado": "Las intervenciones que se dirigen a las políticas y sistemas que regulan las acciones en salud actúan sobre un nivel concreto de determinantes. ¿Cuál?",
+      "opciones": [
+        "Nivel intrapersonal",
+        "Nivel interpersonal",
+        "Nivel comunitario y organizacional",
+        "Nivel estructural y político"
+      ],
+      "correcta": 3,
+      "explicacion": "El nivel estructural y político corresponde a las políticas y los sistemas que regulan las acciones en salud."
+    },
+    {
+      "id": "q189",
+      "tema": "La conducta alimentaria",
+      "dificultad": "dificil",
+      "enunciado": "Respecto al papel del conocimiento nutricional en el cambio de la conducta alimentaria, ¿cuál de las siguientes afirmaciones es la más ajustada?",
+      "opciones": [
+        "Un mayor conocimiento garantiza por sí solo el cambio de conducta",
+        "El conocimiento es necesario, pero por sí solo no garantiza el cambio, ya que las elecciones están mediadas por múltiples factores",
+        "El conocimiento es irrelevante para las decisiones alimentarias saludables",
+        "Solo el conocimiento facilitador influye, mientras que el motivador es prescindible"
+      ],
+      "correcta": 1,
+      "explicacion": "Un mayor nivel de alfabetización nutricional se asocia con decisiones más saludables, pero el conocimiento por sí solo no garantiza el cambio, que está mediado por múltiples factores personales y contextuales."
+    },
+    {
+      "id": "q190",
+      "tema": "La conducta alimentaria",
+      "dificultad": "dificil",
+      "enunciado": "Se afirma que el conocimiento influye en el comportamiento cuando se transforma en otro elemento de alto poder motivacional. ¿En cuál?",
+      "opciones": [
+        "En normas sociales",
+        "En moderadores",
+        "En expectativas de resultado únicamente",
+        "En creencias"
+      ],
+      "correcta": 3,
+      "explicacion": "El conocimiento influye en el comportamiento cuando se transforma en creencias, que tienen alto poder motivacional al aportar razones convincentes para cambiar o mantener una conducta."
+    },
+    {
+      "id": "q191",
+      "tema": "La conducta alimentaria",
+      "dificultad": "dificil",
+      "enunciado": "Un mismo alimento, como una sopa caliente, puede asociarse al cuidado y la recuperación durante una enfermedad. ¿Qué ilustra mejor este ejemplo sobre la elección de alimentos?",
+      "opciones": [
+        "Que los alimentos se eligen exclusivamente por su valor nutricional objetivo",
+        "Que los alimentos adquieren significados personales distintos según la situación y la persona",
+        "Que las creencias personales no influyen en la aceptación de alimentos",
+        "Que la dimensión nutritiva prevalece siempre sobre la psíquica"
+      ],
+      "correcta": 1,
+      "explicacion": "Los alimentos se eligen también por los significados personales que se les atribuyen (confort, cuidado, identidad, salud), de modo que un mismo alimento adquiere significados diferentes según la situación y la persona."
+    },
+    {
+      "id": "q192",
+      "tema": "La conducta alimentaria",
+      "dificultad": "medio",
+      "enunciado": "El uso de la alimentación para expresar valores, pertenencia o compromiso social, por ejemplo mediante el consumo de productos ecológicos o 'veggie', es especialmente característico de ciertos grupos. ¿Cuáles se destacan?",
+      "opciones": [
+        "Lactantes y primera infancia",
+        "Personas mayores institucionalizadas",
+        "Adolescentes y adultos jóvenes",
+        "Profesionales sanitarios"
+      ],
+      "correcta": 2,
+      "explicacion": "La identidad alimentaria se usa para expresar valores, pertenencia o compromiso social especialmente en adolescentes y adultos jóvenes, por ejemplo con productos ecológicos o 'veggie'."
+    },
+    {
+      "id": "q193",
+      "tema": "La conducta alimentaria",
+      "dificultad": "dificil",
+      "enunciado": "En los hogares donde ambos progenitores trabajan fuera de casa o en hogares monoparentales, ¿qué tendencia se describe respecto a la alimentación?",
+      "opciones": [
+        "Mayor tiempo dedicado a planificar y preparar comidas y mejor calidad dietética",
+        "Menor tiempo para planificar y preparar comidas, favoreciendo alimentos rápidos o de conveniencia",
+        "Mayor control sobre la oferta alimentaria del hogar",
+        "Mejor calidad dietética por la mayor disponibilidad económica"
+      ],
+      "correcta": 1,
+      "explicacion": "Cuando ambos progenitores trabajan fuera o en hogares monoparentales, el tiempo para planificar y preparar comidas suele ser menor, lo que favorece alimentos rápidos, preparados o de conveniencia con perfil nutricional menos favorable."
+    },
+    {
+      "id": "q194",
+      "tema": "La conducta alimentaria",
+      "dificultad": "medio",
+      "enunciado": "Respecto a la duración e intensidad de las intervenciones de educación alimentaria, ¿qué se afirma sobre su efectividad?",
+      "opciones": [
+        "Las acciones puntuales producen los cambios más estables",
+        "La intensidad de la intervención no influye en los resultados",
+        "Las acciones puntuales y las continuadas tienen el mismo efecto",
+        "Las intervenciones continuadas y coherentes favorecen cambios más estables, mientras que las acciones puntuales tienen impacto limitado"
+      ],
+      "correcta": 3,
+      "explicacion": "Las acciones puntuales suelen tener un impacto limitado, mientras que las intervenciones continuadas y coherentes favorecen cambios más estables."
+    },
+    {
+      "id": "q195",
+      "tema": "Herramientas de diagnóstico en nutrición comunitaria",
+      "dificultad": "medio",
+      "enunciado": "¿Qué característica diferencia al diagnóstico comunitario de la evaluación clínica individual?",
+      "opciones": [
+        "El diagnóstico comunitario se dirige a grupos de población con objetivos educativos y de promoción de la salud, mientras la evaluación clínica valora a una persona concreta con fines terapéuticos",
+        "El diagnóstico comunitario busca una estimación precisa de la ingesta de cada persona",
+        "La evaluación clínica individual se orienta a la planificación de políticas agrícolas",
+        "Ambos persisten el mismo objetivo de generar conocimiento científico generalizable"
+      ],
+      "correcta": 0,
+      "explicacion": "El diagnóstico comunitario se dirige a grupos, responde a objetivos educativos y de promoción de la salud, frente a la evaluación clínica individual centrada en una persona con fines terapéuticos."
+    },
+    {
+      "id": "q196",
+      "tema": "Herramientas de diagnóstico en nutrición comunitaria",
+      "dificultad": "facil",
+      "enunciado": "La disponibilidad alimentaria que ofrecen las hojas de balance alimentario se expresa generalmente como:",
+      "opciones": [
+        "Ingesta media individual ajustada por edad",
+        "Compra media por hogar",
+        "Frecuencia de consumo semanal",
+        "Disponibilidad per cápita"
+      ],
+      "correcta": 3,
+      "explicacion": "Las hojas de balance alimentario reflejan las entradas y salidas de alimentos en un país, expresadas generalmente como disponibilidad per cápita."
+    },
+    {
+      "id": "q197",
+      "tema": "Herramientas de diagnóstico en nutrición comunitaria",
+      "dificultad": "medio",
+      "enunciado": "Entre las limitaciones inherentes a la metodología de las encuestas dietéticas se encuentran:",
+      "opciones": [
+        "La imposibilidad de comparar territorios y la ausencia de registros sanitarios",
+        "Los errores en la estimación de las cantidades, los sesgos de memoria y las dificultades asociadas al uso de tablas de composición de alimentos",
+        "El elevado coste frente al análisis químico directo de la dieta",
+        "La incapacidad de identificar grupos de riesgo o describir patrones generales"
+      ],
+      "correcta": 1,
+      "explicacion": "Las encuestas dietéticas presentan limitaciones como errores en la estimación de cantidades, sesgos de memoria y dificultades con las tablas de composición de alimentos."
+    },
+    {
+      "id": "q198",
+      "tema": "Herramientas de diagnóstico en nutrición comunitaria",
+      "dificultad": "medio",
+      "enunciado": "Las encuestas nutricionales se plantean como alternativa al análisis químico directo de la dieta porque este último es:",
+      "opciones": [
+        "Mucho más costoso y difícil de aplicar a gran escala",
+        "Incapaz de estimar nutrientes",
+        "Menos preciso que cualquier recordatorio",
+        "Inadecuado para identificar disponibilidad per cápita"
+      ],
+      "correcta": 0,
+      "explicacion": "Las encuestas nutricionales constituyen una alternativa viable al análisis químico directo de la dieta, mucho más costoso y difícil de aplicar a gran escala."
+    },
+    {
+      "id": "q199",
+      "tema": "Herramientas de diagnóstico en nutrición comunitaria",
+      "dificultad": "dificil",
+      "enunciado": "Dentro de la evaluación a nivel familiar, ¿qué distinción establece la relación entre fuente de información y aspecto de la cadena alimentaria?",
+      "opciones": [
+        "La encuesta de consumo familiar mide las compras y la de presupuestos familiares mide el consumo en el hogar",
+        "La encuesta de presupuestos familiares se asocia a las compras de alimentos y la encuesta de consumo familiar al consumo de alimentos en el hogar",
+        "Ambas encuestas miden exclusivamente la disponibilidad per cápita nacional",
+        "La encuesta de presupuestos familiares se emplea para la suplementación y fortificación"
+      ],
+      "correcta": 1,
+      "explicacion": "En la cadena alimentaria a nivel familiar, la encuesta de presupuestos familiares corresponde a las compras de alimentos en el hogar y la encuesta de consumo familiar al consumo en el hogar."
+    },
+    {
+      "id": "q200",
+      "tema": "Herramientas de diagnóstico en nutrición comunitaria",
+      "dificultad": "dificil",
+      "enunciado": "¿Cuáles son limitaciones propias de las herramientas de evaluación a nivel familiar?",
+      "opciones": [
+        "Generar conocimiento causal no extrapolable",
+        "Requerir análisis químico de cada alimento adquirido",
+        "Describir comportamientos individuales con excesiva precisión",
+        "Asumir patrones de consumo similares entre los miembros del hogar y no contemplar las pérdidas"
+      ],
+      "correcta": 3,
+      "explicacion": "Las herramientas a nivel familiar presentan limitaciones como asumir patrones de consumo similares entre los miembros del hogar o no contemplar las pérdidas."
+    },
+    {
+      "id": "q201",
+      "tema": "Herramientas de diagnóstico en nutrición comunitaria",
+      "dificultad": "medio",
+      "enunciado": "En la cadena alimentaria, la intervención de tipo suplementación o fortificación se asocia al nivel:",
+      "opciones": [
+        "Nacional",
+        "Familiar",
+        "Individual",
+        "Regional"
+      ],
+      "correcta": 2,
+      "explicacion": "En el nivel individual, las intervenciones en la cadena alimentaria incluyen la educación alimentaria y la suplementación o fortificación."
+    },
+    {
+      "id": "q202",
+      "tema": "Herramientas de diagnóstico en nutrición comunitaria",
+      "dificultad": "medio",
+      "enunciado": "Las intervenciones en los precios y los subsidios como acciones en la cadena alimentaria se vinculan principalmente al nivel:",
+      "opciones": [
+        "Individual",
+        "Familiar",
+        "Nacional de disponibilidad",
+        "Clínico"
+      ],
+      "correcta": 1,
+      "explicacion": "A nivel familiar, las intervenciones en la cadena alimentaria incluyen la educación alimentaria familiar, las intervenciones en los precios, los subsidios familiares y las intervenciones en el lugar de la compra."
+    },
+    {
+      "id": "q203",
+      "tema": "Herramientas de diagnóstico en nutrición comunitaria",
+      "dificultad": "dificil",
+      "enunciado": "En la evaluación individual del consumo en Nutrición Comunitaria, ¿qué finalidad NO se persigue?",
+      "opciones": [
+        "Describir patrones generales",
+        "Identificar grupos de riesgo",
+        "Obtener una estimación precisa de la ingesta individual",
+        "Apoyar actividades educativas e ilustrar ejemplos concretos"
+      ],
+      "correcta": 2,
+      "explicacion": "En Nutrición Comunitaria no se busca una estimación precisa de la ingesta individual, sino información suficiente para orientar decisiones educativas."
+    },
+    {
+      "id": "q204",
+      "tema": "Herramientas de diagnóstico en nutrición comunitaria",
+      "dificultad": "facil",
+      "enunciado": "¿Cuál de las siguientes es una herramienta de evaluación del consumo a nivel individual?",
+      "opciones": [
+        "La hoja de balance alimentario",
+        "El recordatorio de 24 horas",
+        "La encuesta de presupuestos familiares",
+        "La base de datos de la AESAN"
+      ],
+      "correcta": 1,
+      "explicacion": "Entre las herramientas individuales se incluyen la historia dietética, los diarios dietéticos, los recordatorios de 24 horas y los cuestionarios de frecuencia de consumo."
+    },
+    {
+      "id": "q205",
+      "tema": "Herramientas de diagnóstico en nutrición comunitaria",
+      "dificultad": "dificil",
+      "enunciado": "Un técnico recopila gran cantidad de datos que finalmente no influyen en los objetivos, mensajes ni estrategias de la intervención. Según los principios del diagnóstico, esto supone:",
+      "opciones": [
+        "Un requisito imprescindible para garantizar la validez del diagnóstico",
+        "Una carga innecesaria que no mejora la efectividad de la acción educativa",
+        "Una forma de evaluación clínica individual",
+        "Un sistema de vigilancia nutricional"
+      ],
+      "correcta": 1,
+      "explicacion": "Recopilar datos que no influyen en los objetivos, mensajes o estrategias supone una carga innecesaria y no mejora la efectividad de la acción educativa."
+    },
+    {
+      "id": "q206",
+      "tema": "Herramientas de diagnóstico en nutrición comunitaria",
+      "dificultad": "dificil",
+      "enunciado": "¿Qué fuentes de datos integran los sistemas de información y vigilancia nutricional?",
+      "opciones": [
+        "Exclusivamente recordatorios de 24 horas individuales",
+        "Únicamente hojas de balance alimentario",
+        "Encuestas poblacionales, registros sanitarios y otros indicadores de salud",
+        "Solo bases de datos comerciales como la de la AESAN"
+      ],
+      "correcta": 2,
+      "explicacion": "Los sistemas de vigilancia integran datos procedentes de encuestas poblacionales, registros sanitarios y otros indicadores de salud."
+    },
+    {
+      "id": "q207",
+      "tema": "Herramientas de diagnóstico en nutrición comunitaria",
+      "dificultad": "dificil",
+      "enunciado": "Respecto a la interpretación de sus datos, los sistemas de vigilancia nutricional aportan:",
+      "opciones": [
+        "Una visión global y agregada orientada a la planificación y seguimiento, más que al establecimiento de relaciones causales",
+        "Relaciones causales sólidas entre dieta y enfermedad",
+        "Diagnósticos clínicos individuales validados",
+        "Análisis químico directo de la dieta poblacional"
+      ],
+      "correcta": 0,
+      "explicacion": "Estos sistemas aportan una visión global y agregada de la relación entre alimentación y salud, orientada a la planificación y el seguimiento, más que al establecimiento de relaciones causales."
+    },
+    {
+      "id": "q208",
+      "tema": "Herramientas de diagnóstico en nutrición comunitaria",
+      "dificultad": "medio",
+      "enunciado": "¿Para qué resulta especialmente útil la base de datos de alimentos y bebidas de la AESAN en Nutrición Comunitaria?",
+      "opciones": [
+        "Para realizar diagnósticos clínicos individuales del estado nutricional",
+        "Para calcular la ingesta exacta de nutrientes de cada individuo",
+        "Para identificar productos con perfiles nutricionales menos favorables y contextualizar la exposición de la población a determinados productos",
+        "Para establecer relaciones causales entre dieta y enfermedad"
+      ],
+      "correcta": 2,
+      "explicacion": "La base de datos de la AESAN permite conocer qué productos están disponibles, analizar categorías, identificar perfiles nutricionales menos favorables y contextualizar la exposición de la población."
+    },
+    {
+      "id": "q209",
+      "tema": "Herramientas de diagnóstico en nutrición comunitaria",
+      "dificultad": "medio",
+      "enunciado": "El análisis del entorno alimentario permite identificar márgenes de intervención más allá del cambio individual de comportamiento, como:",
+      "opciones": [
+        "La suplementación clínica obligatoria",
+        "La sustitución de las encuestas dietéticas por análisis químicos",
+        "La eliminación del diagnóstico previo",
+        "Acciones en el punto de compra, propuestas en restauración colectiva y recomendaciones sobre reformulación de productos"
+      ],
+      "correcta": 3,
+      "explicacion": "El entorno alimentario permite identificar márgenes de intervención como acciones en el punto de compra, propuestas en restauración colectiva, reformulación de productos o estrategias de comunicación."
+    },
+    {
+      "id": "q210",
+      "tema": "Herramientas de diagnóstico en nutrición comunitaria",
+      "dificultad": "medio",
+      "enunciado": "¿Qué consecuencia puede tener ignorar el entorno alimentario al diseñar una intervención educativa?",
+      "opciones": [
+        "Mejorar la precisión de los recordatorios de 24 horas",
+        "Dar lugar a mensajes poco realistas o difíciles de implementar en la práctica",
+        "Eliminar la variabilidad intraindividual de los datos",
+        "Garantizar relaciones causales entre dieta y salud"
+      ],
+      "correcta": 1,
+      "explicacion": "Ignorar el entorno alimentario puede dar lugar a mensajes poco realistas o difíciles de implementar en la práctica."
+    },
+    {
+      "id": "q211",
+      "tema": "Herramientas de diagnóstico en nutrición comunitaria",
+      "dificultad": "dificil",
+      "enunciado": "Una evaluación dietética muestra resultados distintos según el día de la semana y la estacionalidad. Esta variabilidad se clasifica como:",
+      "opciones": [
+        "Variabilidad interindividual",
+        "Variabilidad intraindividual",
+        "Sesgo del encuestador",
+        "Error de la tabla de composición"
+      ],
+      "correcta": 1,
+      "explicacion": "La variabilidad relacionada con factores como el día de la semana o la estacionalidad dentro de un mismo individuo corresponde a la variabilidad intraindividual; todas las herramientas presentan variabilidad inter e intraindividual."
+    },
+    {
+      "id": "q212",
+      "tema": "Herramientas de diagnóstico en nutrición comunitaria",
+      "dificultad": "facil",
+      "enunciado": "En el contexto comunitario, frente a la precisión absoluta de los datos se prioriza:",
+      "opciones": [
+        "La coherencia y la utilidad de la información obtenida",
+        "El volumen total de datos recogidos",
+        "La exactitud milimétrica de cada ración",
+        "La replicabilidad en laboratorio"
+      ],
+      "correcta": 0,
+      "explicacion": "En el contexto comunitario, la precisión absoluta es menos relevante que la coherencia y utilidad de la información obtenida."
+    },
+    {
+      "id": "q213",
+      "tema": "Herramientas de diagnóstico en nutrición comunitaria",
+      "dificultad": "dificil",
+      "enunciado": "Los informes técnicos y estratégicos de organismos nacionales e internacionales sirven, dentro del diagnóstico en Nutrición Comunitaria, principalmente para:",
+      "opciones": [
+        "Calcular la composición química de los alimentos del mercado",
+        "Situar los problemas nutricionales en marcos más amplios de Salud Pública y alinear las intervenciones con estrategias institucionales",
+        "Sustituir los datos sociodemográficos de la comunidad",
+        "Realizar diagnósticos clínicos individuales"
+      ],
+      "correcta": 1,
+      "explicacion": "Los informes técnicos y estratégicos permiten situar los problemas en marcos más amplios de Salud Pública, identificar líneas prioritarias y alinear las intervenciones con estrategias institucionales."
+    },
+    {
+      "id": "q214",
+      "tema": "Herramientas de diagnóstico en nutrición comunitaria",
+      "dificultad": "medio",
+      "enunciado": "¿Qué permiten principalmente los datos sociodemográficos y socioeconómicos en el diagnóstico?",
+      "opciones": [
+        "Estimar la ingesta exacta de nutrientes",
+        "Identificar colectivos vulnerables, analizar desigualdades y priorizar grupos diana para las intervenciones",
+        "Describir la composición de los alimentos comercializados",
+        "Sustituir a las hojas de balance alimentario"
+      ],
+      "correcta": 1,
+      "explicacion": "Los datos sociodemográficos y socioeconómicos permiten identificar colectivos vulnerables, analizar desigualdades en salud y alimentación y priorizar grupos diana."
+    },
+    {
+      "id": "q215",
+      "tema": "Herramientas de diagnóstico en nutrición comunitaria",
+      "dificultad": "dificil",
+      "enunciado": "¿Cuál de los siguientes usos corresponde a la literatura científica como fuente de contextualización en Nutrición Comunitaria?",
+      "opciones": [
+        "Apoyar la relevancia de determinados problemas y respaldar decisiones educativas basadas en evidencia",
+        "Generar la disponibilidad per cápita de un país",
+        "Sustituir las encuestas de consumo familiar",
+        "Realizar el etiquetado de los productos del mercado"
+      ],
+      "correcta": 0,
+      "explicacion": "La literatura científica se usa como fuente de contextualización para apoyar la relevancia de problemas, justificar enfoques y respaldar decisiones educativas basadas en evidencia."
+    },
+    {
+      "id": "q216",
+      "tema": "Herramientas de diagnóstico en nutrición comunitaria",
+      "dificultad": "medio",
+      "enunciado": "El diseño de intervenciones de educación alimentaria debe tener en cuenta, según el material, los siguientes elementos:",
+      "opciones": [
+        "Únicamente los recursos económicos disponibles",
+        "Los determinantes prioritarios del comportamiento, los recursos disponibles y la viabilidad real de las acciones propuestas",
+        "Solo la opinión del encuestador",
+        "Exclusivamente las relaciones causales demostradas en laboratorio"
+      ],
+      "correcta": 1,
+      "explicacion": "El diseño de intervenciones debe tener en cuenta los determinantes prioritarios del comportamiento, los recursos disponibles y la viabilidad real de las acciones propuestas."
+    },
+    {
+      "id": "q217",
+      "tema": "Bases para el diseño de intervenciones educativas",
+      "dificultad": "medio",
+      "enunciado": "Un diagnóstico comunitario que acumula gran cantidad de datos epidemiológicos pero no relaciona el problema con la población, las fuentes y las acciones propuestas, ¿cómo debe valorarse desde la lectura crítica?",
+      "opciones": [
+        "Como un diagnóstico sólido por su riqueza de datos",
+        "Como un diagnóstico débil, porque la solidez depende del uso coherente y orientado a la acción de la información, no de su cantidad",
+        "Como un diagnóstico aceptable mientras los datos sean recientes",
+        "Como un diagnóstico válido si los datos proceden de fuentes oficiales"
+      ],
+      "correcta": 1,
+      "explicacion": "Un diagnóstico sólido no es el que acumula datos, sino el que usa la información de forma coherente, justificada y orientada a la acción."
+    },
+    {
+      "id": "q218",
+      "tema": "Bases para el diseño de intervenciones educativas",
+      "dificultad": "dificil",
+      "enunciado": "La información de carácter poblacional presenta una limitación fundamental que condiciona su uso en el diseño de intervenciones. ¿Cuál es?",
+      "opciones": [
+        "No permite establecer relaciones causales ni describir comportamientos individuales",
+        "Solo es válida si procede de encuestas nacionales",
+        "No puede combinarse con fuentes cualitativas",
+        "Es siempre menos fiable que la información clínica individual"
+      ],
+      "correcta": 0,
+      "explicacion": "La información poblacional no permite establecer relaciones causales ni describir comportamientos individuales, y fuera de contexto puede conducir a conclusiones erróneas."
+    },
+    {
+      "id": "q219",
+      "tema": "Bases para el diseño de intervenciones educativas",
+      "dificultad": "medio",
+      "enunciado": "El texto sostiene que ningún grupo humano considera comestible todo aquello que biológicamente podría ingerirse. ¿Qué idea ilustra principalmente esta afirmación?",
+      "opciones": [
+        "Que existen alimentos tóxicos que deben evitarse",
+        "Que la disponibilidad económica limita el acceso a los alimentos",
+        "Que los alimentos adquieren significado mediante sistemas simbólicos e interpretativos construidos social y culturalmente",
+        "Que las recomendaciones nutricionales varían según la edad"
+      ],
+      "correcta": 2,
+      "explicacion": "Los alimentos adquieren significado a través de sistemas simbólicos e interpretativos construidos social y culturalmente, que determinan su aceptación, indiferencia o rechazo."
+    },
+    {
+      "id": "q220",
+      "tema": "Bases para el diseño de intervenciones educativas",
+      "dificultad": "dificil",
+      "enunciado": "En alimentación, la motivación para implicarse en un proceso educativo rara vez surge de un determinado tipo de argumento. ¿De cuál?",
+      "opciones": [
+        "De argumentos relacionados con la economía familiar",
+        "De argumentos abstractos sobre la salud futura",
+        "De argumentos vinculados a la identidad cultural",
+        "De argumentos sobre la practicidad y el bienestar inmediato"
+      ],
+      "correcta": 1,
+      "explicacion": "La motivación en alimentación rara vez surge de argumentos abstractos sobre salud futura; suele relacionarse con aspectos inmediatos como bienestar, practicidad, economía, familia, identidad o contexto social."
+    },
+    {
+      "id": "q221",
+      "tema": "Bases para el diseño de intervenciones educativas",
+      "dificultad": "medio",
+      "enunciado": "Respecto a la implicación de la persona en el proceso educativo, ¿qué efecto producen imponer mensajes o culpabilizar?",
+      "opciones": [
+        "Aumentan la atención al refuerzo del riesgo",
+        "Incrementan la autorregulación",
+        "Mejoran la consolidación en la memoria",
+        "Reducen la implicación"
+      ],
+      "correcta": 3,
+      "explicacion": "Imponer mensajes o culpabilizar reduce la implicación, mientras que favorecer la autonomía y la toma de decisiones incrementa la predisposición al cambio."
+    },
+    {
+      "id": "q222",
+      "tema": "Bases para el diseño de intervenciones educativas",
+      "dificultad": "dificil",
+      "enunciado": "Una educación alimentaria efectiva, según la definición de aprendizaje manejada, debe influir de forma integrada en varios elementos. ¿Cuál de los siguientes NO figura entre ellos?",
+      "opciones": [
+        "Conocimientos y habilidades",
+        "Actitudes y valores",
+        "Comportamientos",
+        "Predisposición genética"
+      ],
+      "correcta": 3,
+      "explicacion": "El aprendizaje puede afectar al conocimiento, las habilidades, las actitudes, los valores y los comportamientos; la predisposición genética no se menciona."
+    },
+    {
+      "id": "q223",
+      "tema": "Bases para el diseño de intervenciones educativas",
+      "dificultad": "medio",
+      "enunciado": "Cuando una intervención educativa no logra captar la atención del grupo, ¿qué ocurre según los principios del aprendizaje en EdA?",
+      "opciones": [
+        "El aprendizaje se ralentiza pero acaba produciéndose",
+        "No hay aprendizaje, con independencia de la calidad científica del contenido",
+        "El aprendizaje se traslada a la memoria a largo plazo",
+        "La motivación compensa la falta de atención"
+      ],
+      "correcta": 1,
+      "explicacion": "Cuando una intervención no capta la atención, no hay aprendizaje, independientemente de la calidad científica del contenido."
+    },
+    {
+      "id": "q224",
+      "tema": "Bases para el diseño de intervenciones educativas",
+      "dificultad": "facil",
+      "enunciado": "Según el texto, la atención es un recurso con dos características que condicionan el diseño educativo en contextos comunitarios. ¿Cuáles?",
+      "opciones": [
+        "Ilimitado y constante",
+        "Limitado y fácilmente saturable",
+        "Innato e inmodificable",
+        "Colectivo e independiente de los estímulos"
+      ],
+      "correcta": 1,
+      "explicacion": "La atención es un recurso limitado y fácilmente saturable, especialmente en contextos comunitarios con múltiples estímulos simultáneos."
+    },
+    {
+      "id": "q225",
+      "tema": "Bases para el diseño de intervenciones educativas",
+      "dificultad": "dificil",
+      "enunciado": "El texto afirma que aprender no es recordar información, sino otra cosa. ¿Cuál?",
+      "opciones": [
+        "Acumular el mayor número de datos posibles",
+        "Repetir mecánicamente las recomendaciones",
+        "Saber utilizar la información cuando es necesaria",
+        "Memorizar cifras y nutrientes con precisión"
+      ],
+      "correcta": 2,
+      "explicacion": "Aprender no es recordar información, sino saber utilizarla cuando es necesaria; los datos aislados tienen poco impacto si no se integran en situaciones cotidianas de decisión."
+    },
+    {
+      "id": "q226",
+      "tema": "Bases para el diseño de intervenciones educativas",
+      "dificultad": "medio",
+      "enunciado": "¿Cómo describe el texto el funcionamiento de la memoria en relación con el aprendizaje?",
+      "opciones": [
+        "Como un almacenamiento pasivo donde la información se conserva sin modificación",
+        "Como un proceso que se refuerza cuando la información se repite de forma significativa, se relaciona con conocimientos previos y se aplica a situaciones reales",
+        "Como un sistema que prioriza los datos numéricos sobre los prácticos",
+        "Como una capacidad fija que no depende de la experiencia"
+      ],
+      "correcta": 1,
+      "explicacion": "La memoria no funciona como almacenamiento pasivo; se refuerza cuando la información se repite de forma significativa, se relaciona con conocimientos previos y se aplica a situaciones reales."
+    },
+    {
+      "id": "q227",
+      "tema": "Bases para el diseño de intervenciones educativas",
+      "dificultad": "dificil",
+      "enunciado": "Las funciones ejecutivas implicadas en el cambio de comportamiento alimentario (planificar, decidir, inhibir impulsos, mantener un objetivo) ¿de qué dependen según el texto?",
+      "opciones": [
+        "Del contexto, la carga mental y los recursos disponibles, no solo del conocimiento",
+        "Únicamente del nivel de conocimiento nutricional",
+        "Exclusivamente de la motivación intrínseca",
+        "De la cantidad de información recibida en la intervención"
+      ],
+      "correcta": 0,
+      "explicacion": "Estas funciones no dependen solo del conocimiento, sino del contexto, la carga mental y los recursos disponibles."
+    },
+    {
+      "id": "q228",
+      "tema": "Bases para el diseño de intervenciones educativas",
+      "dificultad": "dificil",
+      "enunciado": "Ante las limitaciones de la autorregulación, ¿qué orientación de diseño propone el texto para las intervenciones educativas eficaces?",
+      "opciones": [
+        "Exigir cambios ambiciosos para maximizar el impacto",
+        "Aumentar la cantidad de información para reforzar el conocimiento",
+        "Reducir la complejidad de las decisiones en lugar de exigir cambios difíciles de sostener",
+        "Centrarse en advertir sobre los riesgos para la salud"
+      ],
+      "correcta": 2,
+      "explicacion": "Diseñar intervenciones eficaces supone tener en cuenta estas limitaciones y reducir la complejidad de las decisiones, en lugar de exigir cambios difíciles de sostener."
+    },
+    {
+      "id": "q229",
+      "tema": "Bases para el diseño de intervenciones educativas",
+      "dificultad": "medio",
+      "enunciado": "Un dietista-nutricionista quiere mejorar que un grupo recuerde y use lo aprendido sobre alimentación. ¿Qué tipo de recursos favorecen la consolidación en memoria según el texto?",
+      "opciones": [
+        "Listados extensos de cifras y nutrientes para memorizar",
+        "Exposiciones teóricas largas y detalladas",
+        "Mensajes centrados en las consecuencias de la enfermedad",
+        "Ejemplos prácticos, aplicación a contextos reales y uso de experiencias propias de la comunidad"
+      ],
+      "correcta": 3,
+      "explicacion": "Las intervenciones deben favorecer ejemplos prácticos, aplicación a contextos reales y uso de experiencias propias de la comunidad."
+    },
+    {
+      "id": "q230",
+      "tema": "Bases para el diseño de intervenciones educativas",
+      "dificultad": "dificil",
+      "enunciado": "El texto señala que el entorno tiene un papel concreto respecto al uso de lo aprendido en alimentación. ¿Cuál?",
+      "opciones": [
+        "El entorno es neutro y no afecta a la conducta",
+        "El entorno puede facilitar o dificultar el uso de lo aprendido",
+        "El entorno solo influye en la fase de atención",
+        "El entorno determina por completo el conocimiento adquirido"
+      ],
+      "correcta": 1,
+      "explicacion": "Desde la EdA, no basta con saber qué es saludable: el entorno puede facilitar o dificultar el uso de lo aprendido."
+    },
+    {
+      "id": "q231",
+      "tema": "Bases para el diseño de intervenciones educativas",
+      "dificultad": "medio",
+      "enunciado": "Para diseñar intervenciones educativas eficaces en nutrición comunitaria, ¿qué nivel de conocimiento sobre el cerebro y el aprendizaje considera necesario el texto?",
+      "opciones": [
+        "Dominar teorías complejas sobre el funcionamiento del cerebro",
+        "No es necesario conocer nada sobre el aprendizaje, basta con la experiencia",
+        "No es necesario dominar teorías complejas, pero sí comprender algunos principios básicos del aprendizaje respaldados por la evidencia",
+        "Es imprescindible formación en neurociencia avanzada"
+      ],
+      "correcta": 2,
+      "explicacion": "No es necesario dominar teorías complejas sobre el cerebro, pero sí comprender algunos principios básicos del aprendizaje respaldados por la evidencia."
+    },
+    {
+      "id": "q232",
+      "tema": "Bases para el diseño de intervenciones educativas",
+      "dificultad": "dificil",
+      "enunciado": "El texto afirma que trasladar de forma simplificada la relación entre dieta, salud y enfermedad a contextos reales resulta reduccionista. ¿Reconoce, no obstante, que dicha relación es...?",
+      "opciones": [
+        "Discutible y aún no demostrada",
+        "Indiscutible, aunque por sí sola insuficiente para provocar cambios sostenidos",
+        "Irrelevante para la educación alimentaria",
+        "Suficiente para cambiar hábitos en cualquier contexto"
+      ],
+      "correcta": 1,
+      "explicacion": "Aunque la relación entre dieta, salud y enfermedad es indiscutible, trasladarla simplificadamente es reduccionista y por sí sola no suele bastar para cambios sostenidos."
+    },
+    {
+      "id": "q233",
+      "tema": "Bases para el diseño de intervenciones educativas",
+      "dificultad": "facil",
+      "enunciado": "¿Qué establece la cultura alimentaria respecto a las prácticas cotidianas?",
+      "opciones": [
+        "Normas no escritas que orientan las prácticas, refuerzan la pertenencia y convierten los alimentos en elementos de identidad y cohesión social",
+        "Normas escritas y obligatorias reguladas legalmente",
+        "Recomendaciones nutricionales basadas en la evidencia",
+        "Prohibiciones sanitarias sobre alimentos de riesgo"
+      ],
+      "correcta": 0,
+      "explicacion": "La cultura alimentaria establece normas no escritas que orientan las prácticas cotidianas, refuerzan el sentido de pertenencia y convierten a los alimentos en elementos de identidad y cohesión social."
+    },
+    {
+      "id": "q234",
+      "tema": "Bases para el diseño de intervenciones educativas",
+      "dificultad": "dificil",
+      "enunciado": "En una sesión, el educador prioriza pocos contenidos clave directamente relacionados con la conducta a favorecer, en lugar de abarcar muchos temas. ¿Con qué principio del aprendizaje es coherente esta decisión?",
+      "opciones": [
+        "Con la autorregulación, porque inhibe impulsos",
+        "Con la memoria episódica, porque almacena todo lo escuchado",
+        "Con la atención, porque es un recurso limitado y no es eficaz transmitir demasiada información a la vez",
+        "Con el modelo de percepción de peligro"
+      ],
+      "correcta": 2,
+      "explicacion": "Como la atención es limitada y saturable, es preferible priorizar pocos contenidos clave relacionados con el comportamiento que se desea favorecer."
+    },
+    {
+      "id": "q235",
+      "tema": "Bases para el diseño de intervenciones educativas",
+      "dificultad": "medio",
+      "enunciado": "La frase de apertura del tema indica que la finalidad de la educación alimentaria y nutricional es transmitir conocimientos técnico-científicos. ¿A quién deben dirigirse según esa formulación?",
+      "opciones": [
+        "Únicamente a los individuos en consulta",
+        "No solo a individuos, sino a la población en general",
+        "Exclusivamente a los profesionales sanitarios",
+        "Solo a grupos de riesgo"
+      ],
+      "correcta": 1,
+      "explicacion": "La finalidad es transmitir, no solo a individuos sino a la población en general, conocimientos que ayuden a realizar elecciones dietéticas saludables."
+    },
+    {
+      "id": "q236",
+      "tema": "Bases para el diseño de intervenciones educativas",
+      "dificultad": "dificil",
+      "enunciado": "Asumir que la alimentación es un proceso sociohistórico y cultural tiene una consecuencia directa sobre cómo entender la educación alimentaria. ¿Cuál?",
+      "opciones": [
+        "Obliga a centrarla en la transmisión de información científica más precisa",
+        "Permite prescindir del diagnóstico previo",
+        "Justifica el uso del modelo de percepción de peligro como eje central",
+        "Obliga a replantearla más allá de la simple transmisión de información científica, atendiendo a significados, creencias, normas sociales y contexto"
+      ],
+      "correcta": 3,
+      "explicacion": "Asumir la alimentación como proceso sociohistórico y cultural obliga a replantear la educación más allá de la transmisión de información, considerando significados, creencias, normas sociales y contexto."
+    },
+    {
+      "id": "q237",
+      "tema": "Bases para el diseño de intervenciones educativas",
+      "dificultad": "medio",
+      "enunciado": "El texto resume que las personas aprenden mejor cuando se dan simultáneamente varias condiciones. ¿Cuáles?",
+      "opciones": [
+        "Cuando reciben mucha información y la memorizan",
+        "Cuando perciben el peligro de enfermar",
+        "Cuando prestan atención, están motivadas, comprenden y pueden aplicar lo aprendido en su contexto real",
+        "Cuando el contenido es científicamente impecable"
+      ],
+      "correcta": 2,
+      "explicacion": "Las personas aprenden mejor cuando prestan atención, están motivadas, comprenden y pueden aplicar lo aprendido en su contexto real."
+    },
+    {
+      "id": "q238",
+      "tema": "Bases para el diseño de intervenciones educativas",
+      "dificultad": "dificil",
+      "enunciado": "Toda intervención educativa implica decisiones fundamentales que, según el texto, no pueden apoyarse solamente en cierta base. ¿En qué NO deben basarse únicamente?",
+      "opciones": [
+        "En el diagnóstico previo y los objetivos claros",
+        "En la buena intención de 'informar' o 'ayudar'",
+        "En un proceso educativo bien diseñado",
+        "En la coherencia con el contexto"
+      ],
+      "correcta": 1,
+      "explicacion": "Estas decisiones no pueden basarse únicamente en la buena intención de informar o ayudar, sino en un proceso educativo bien diseñado, coherente con el diagnóstico y orientado a objetivos claros."
+    },
+    {
+      "id": "q239",
+      "tema": "Planificación de acciones de educación alimentaria (Nutrition Education Design)",
+      "dificultad": "facil",
+      "enunciado": "En el STEP 2 del procedimiento DESIGN, ¿cuál es el aspecto que el educador debe analizar además de las motivaciones y capacidades de la audiencia, ya que puede facilitar o dificultar el logro de los objetivos?",
+      "opciones": [
+        "El nivel de apoyo ambiental y político existente",
+        "El presupuesto disponible para la evaluación final",
+        "El número de sesiones presenciales programadas",
+        "La validez de los cuestionarios de satisfacción"
+      ],
+      "correcta": 0,
+      "explicacion": "El STEP 2 indica que debe analizarse el nivel de apoyo ambiental y político existente, ya que dicho apoyo puede facilitar o dificultar que la audiencia alcance los objetivos del programa."
+    },
+    {
+      "id": "q240",
+      "tema": "Planificación de acciones de educación alimentaria (Nutrition Education Design)",
+      "dificultad": "medio",
+      "enunciado": "Dentro de los determinantes que exploran qué FACILITA el cambio comportamental, las habilidades para poner en marcha planes de acción, fijar objetivos y automonitorizarse, junto con las habilidades emocionales y los sistemas de recompensa, se agrupan bajo:",
+      "opciones": [
+        "Las capacidades de autorregulación",
+        "Las normas sociales y la presión del grupo",
+        "La percepción de riesgos y beneficios",
+        "La identidad cultural y étnica"
+      ],
+      "correcta": 0,
+      "explicacion": "El STEP 2 distingue las capacidades para realizar el comportamiento (conocimientos y competencias) de las capacidades de autorregulación, que incluyen fijar objetivos, automonitorizarse, habilidades emocionales y sistemas de recompensa."
+    },
+    {
+      "id": "q241",
+      "tema": "Planificación de acciones de educación alimentaria (Nutrition Education Design)",
+      "dificultad": "medio",
+      "enunciado": "Una intervención busca traducir una motivación ya existente en acción concreta, desarrollando la autoeficacia, la planificación de objetivos y la autorregulación del comportamiento. ¿Qué grupo de teorías resulta especialmente adecuado?",
+      "opciones": [
+        "Teorías de marketing social",
+        "Modelos centrados en las preferencias alimentarias",
+        "Teorías útiles para facilitar habilidades para la acción",
+        "Teorías útiles para motivar audiencias"
+      ],
+      "correcta": 2,
+      "explicacion": "Las teorías útiles para facilitar habilidades para la acción (como la cognitivo-social y las de autorregulación) son las indicadas cuando el objetivo es traducir la motivación en acción mediante autoeficacia, planificación y automonitorización."
+    },
+    {
+      "id": "q242",
+      "tema": "Planificación de acciones de educación alimentaria (Nutrition Education Design)",
+      "dificultad": "dificil",
+      "enunciado": "¿Cuál de los siguientes modelos NO pertenece al grupo de teorías que integran tanto la motivación como el desarrollo de habilidades para la acción?",
+      "opciones": [
+        "El modelo transteórico",
+        "El enfoque del proceso de acción en salud (HAPA)",
+        "La teoría cognitivo-social",
+        "El modelo de creencias de salud"
+      ],
+      "correcta": 3,
+      "explicacion": "El modelo de creencias de salud figura entre las teorías útiles para motivar audiencias; el transteórico, el HAPA y la cognitivo-social se citan como teorías que integran motivación y desarrollo de habilidades."
+    },
+    {
+      "id": "q243",
+      "tema": "Planificación de acciones de educación alimentaria (Nutrition Education Design)",
+      "dificultad": "dificil",
+      "enunciado": "Al construir el marco conceptual de la intervención en el STEP 3, ¿cuál es el objetivo educativo que el texto asocia específicamente al momento de la 'decisión de actuar'?",
+      "opciones": [
+        "Activar y empoderar la decisión de 'hacer'",
+        "Sensibilizar e incrementar la motivación",
+        "Facilitar las capacidades necesarias para actuar",
+        "Fortalecer la autorregulación y la autodirección"
+      ],
+      "correcta": 0,
+      "explicacion": "La decisión de actuar implica un análisis coste-beneficio y la resolución de ambivalencias, y su objetivo educativo asociado es activar y empoderar la decisión de 'hacer'."
+    },
+    {
+      "id": "q244",
+      "tema": "Planificación de acciones de educación alimentaria (Nutrition Education Design)",
+      "dificultad": "medio",
+      "enunciado": "Según los modelos de ayuda de Brickman, una persona con un nivel ELEVADO de responsabilización con el problema pero BAJO con la solución se ajusta al modelo:",
+      "opciones": [
+        "Modelo moral (necesita motivación)",
+        "Modelo compensatorio (necesita poder)",
+        "Modelo ilustrado (necesita disciplina)",
+        "Modelo sanitario (necesita tratamiento)"
+      ],
+      "correcta": 2,
+      "explicacion": "En la tabla de Brickman, alta responsabilización con el problema y baja con la solución corresponde al modelo ilustrado, que necesita disciplina."
+    },
+    {
+      "id": "q245",
+      "tema": "Planificación de acciones de educación alimentaria (Nutrition Education Design)",
+      "dificultad": "medio",
+      "enunciado": "En los modelos de Brickman, ¿cuál es la combinación que corresponde al modelo sanitario, en el que la persona necesita tratamiento?",
+      "opciones": [
+        "Responsabilización baja con el problema y baja con la solución",
+        "Responsabilización elevada con el problema y elevada con la solución",
+        "Responsabilización baja con el problema y elevada con la solución",
+        "Responsabilización elevada con el problema y baja con la solución"
+      ],
+      "correcta": 0,
+      "explicacion": "El modelo sanitario (necesita tratamiento) corresponde a un nivel bajo de responsabilización tanto con el problema como con la solución."
+    },
+    {
+      "id": "q246",
+      "tema": "Planificación de acciones de educación alimentaria (Nutrition Education Design)",
+      "dificultad": "medio",
+      "enunciado": "El texto recomienda en la educación alimentaria un proceso en dos fases. ¿Cuál es el orden y contenido correcto de dichas fases?",
+      "opciones": [
+        "Primero el empoderamiento y la acción colectiva; después la deliberación activa",
+        "Primero la deliberación activa y la motivación; después el empoderamiento, las habilidades y la autorregulación",
+        "Primero la evaluación de resultados; después la fijación de metas",
+        "Primero el tratamiento clínico; después la educación grupal"
+      ],
+      "correcta": 1,
+      "explicacion": "El proceso en dos fases consiste en una primera fase centrada en la deliberación activa y la motivación, y una segunda orientada al empoderamiento, el desarrollo de habilidades, la autorregulación y la acción colectiva."
+    },
+    {
+      "id": "q247",
+      "tema": "Planificación de acciones de educación alimentaria (Nutrition Education Design)",
+      "dificultad": "facil",
+      "enunciado": "Respecto a la naturaleza de los objetivos educativos del STEP 4, estos describen los resultados esperados centrándose en:",
+      "opciones": [
+        "Lo que hará el educador durante la sesión",
+        "Lo que el participante pensará, sentirá o será capaz de hacer",
+        "Las actividades concretas que se realizarán",
+        "El presupuesto y los recursos materiales necesarios"
+      ],
+      "correcta": 1,
+      "explicacion": "Los objetivos educativos describen resultados esperados centrados en el alumnado: no indican lo que hará el educador, sino lo que el participante pensará, sentirá o será capaz de hacer."
+    },
+    {
+      "id": "q248",
+      "tema": "Planificación de acciones de educación alimentaria (Nutrition Education Design)",
+      "dificultad": "dificil",
+      "enunciado": "En el dominio cognitivo (pensar), ¿cuál es la secuencia correcta de niveles de complejidad, de menor a mayor orden cognitivo?",
+      "opciones": [
+        "Recordar → entender → aplicar → analizar → evaluar → crear",
+        "Entender → recordar → analizar → aplicar → crear → evaluar",
+        "Recordar → aplicar → entender → evaluar → analizar → crear",
+        "Aplicar → recordar → entender → crear → analizar → evaluar"
+      ],
+      "correcta": 0,
+      "explicacion": "El dominio cognitivo sigue la progresión recordar → entender → aplicar → analizar → evaluar → crear o sintetizar, desde lo más básico hasta el mayor orden cognitivo."
+    },
+    {
+      "id": "q249",
+      "tema": "Planificación de acciones de educación alimentaria (Nutrition Education Design)",
+      "dificultad": "dificil",
+      "enunciado": "En el dominio afectivo (sentir), los objetivos pueden orientarse a distintos niveles de implicación. ¿Cuál es la progresión correcta?",
+      "opciones": [
+        "Observación → imitación → práctica repetida → adaptación",
+        "Recordar → entender → aplicar → analizar",
+        "Atención al mensaje → participación activa → valoración y compromiso → organización de valores → integración de los valores en el estilo de vida",
+        "Sensibilizar → decidir → actuar → mantener"
+      ],
+      "correcta": 2,
+      "explicacion": "El dominio afectivo progresa desde la atención al mensaje, a la participación activa, la valoración y compromiso, la organización de valores y la integración de los valores en el estilo de vida."
+    },
+    {
+      "id": "q250",
+      "tema": "Planificación de acciones de educación alimentaria (Nutrition Education Design)",
+      "dificultad": "medio",
+      "enunciado": "Un objetivo específico bien formulado en el ámbito educativo suele incluir tres elementos. ¿Cuáles son?",
+      "opciones": [
+        "El título de la sesión, el determinante y la teoría utilizada",
+        "El presupuesto, el número de participantes y el horizonte temporal",
+        "La acción observable esperada, las condiciones en que se demostrará y el grado de dominio requerido",
+        "La filosofía educacional, el modelo de Brickman y los recursos"
+      ],
+      "correcta": 2,
+      "explicacion": "Los objetivos bien formulados incluyen la acción observable esperada en el alumno, las condiciones bajo las cuales se demostrará dicha acción y el grado de dominio o maestría requerido."
+    },
+    {
+      "id": "q251",
+      "tema": "Planificación de acciones de educación alimentaria (Nutrition Education Design)",
+      "dificultad": "dificil",
+      "enunciado": "Un educador diseña una actividad de 'intenciones de implementación' con la fórmula 'Si ocurre X, entonces haré Y'. ¿A qué determinante motivacional está orientada principalmente esta estrategia?",
+      "opciones": [
+        "A los hábitos y rutinas",
+        "A la percepción del riesgo",
+        "A las normas sociales",
+        "A las preferencias alimentarias"
+      ],
+      "correcta": 0,
+      "explicacion": "Las intenciones de implementación ('Si ocurre X, entonces haré Y') se citan como actividad para trabajar los hábitos y rutinas, sacando a la luz la conducta automática y rediseñando rutinas."
+    },
+    {
+      "id": "q252",
+      "tema": "Planificación de acciones de educación alimentaria (Nutrition Education Design)",
+      "dificultad": "dificil",
+      "enunciado": "Una actividad de 'balance decisional' (pros y contras de cambiar frente a no cambiar) y las escalas de disposición ('del 0 al 10, ¿cuánto quiero?') se utilizan para trabajar principalmente:",
+      "opciones": [
+        "Las normas sociales y la presión del grupo",
+        "Las preferencias alimentarias",
+        "Las intenciones comportamentales y ambivalencias",
+        "La percepción del riesgo"
+      ],
+      "correcta": 2,
+      "explicacion": "El balance decisional y las escalas de disposición se proponen para trabajar las intenciones comportamentales y ambivalencias, ayudando a pasar de 'me gustaría' a 'voy a intentarlo'."
+    },
+    {
+      "id": "q253",
+      "tema": "Planificación de acciones de educación alimentaria (Nutrition Education Design)",
+      "dificultad": "medio",
+      "enunciado": "Las catas comparativas, las técnicas de cocina y combinaciones y el reto de 'probar 1 alimento nuevo a la semana sin presión' son actividades dirigidas a trabajar el determinante de:",
+      "opciones": [
+        "Las preferencias alimentarias",
+        "La autoeficacia",
+        "La reestructuración cognitiva",
+        "La eficacia colectiva"
+      ],
+      "correcta": 0,
+      "explicacion": "Estas actividades buscan conectar el cambio con el disfrute y aumentar la exposición positiva, trabajando el determinante de las preferencias alimentarias, ya que 'si el cambio sabe mal, no se mantiene'."
+    },
+    {
+      "id": "q254",
+      "tema": "Planificación de acciones de educación alimentaria (Nutrition Education Design)",
+      "dificultad": "medio",
+      "enunciado": "La reestructuración cognitiva como estrategia de autorregulación tiene como finalidad principal:",
+      "opciones": [
+        "Reorganizar el entorno doméstico y la disponibilidad de alimentos",
+        "Fijar objetivos SMART y planes de acción escritos",
+        "Ayudar a reinterpretar experiencias previas de éxito o fracaso, evitando atribuciones rígidas o desadaptativas",
+        "Crear espacios de diálogo para la acción colectiva"
+      ],
+      "correcta": 2,
+      "explicacion": "La reestructuración cognitiva consiste en ayudar a reinterpretar experiencias previas evitando atribuciones rígidas como 'no valgo para esto', protegiendo la autoeficacia y reduciendo el abandono."
+    },
+    {
+      "id": "q255",
+      "tema": "Planificación de acciones de educación alimentaria (Nutrition Education Design)",
+      "dificultad": "dificil",
+      "enunciado": "La creencia de que un grupo o comunidad tiene la capacidad de actuar conjuntamente para modificar su entorno se denomina:",
+      "opciones": [
+        "Autoeficacia percibida",
+        "Autorregulación",
+        "Capacidad comportamental",
+        "Eficacia colectiva"
+      ],
+      "correcta": 3,
+      "explicacion": "La eficacia colectiva se refiere a la creencia de que un grupo o comunidad puede actuar conjuntamente para modificar su entorno, y se trabaja con identificación participativa de problemas y acciones de incidencia."
+    },
+    {
+      "id": "q256",
+      "tema": "Planificación de acciones de educación alimentaria (Nutrition Education Design)",
+      "dificultad": "facil",
+      "enunciado": "En el sistema de las 4ES, la fase orientada a dar sentido al cambio mediante mensajes 'why-to', trabajando beneficios esperados, actitudes y barreras percibidas, es:",
+      "opciones": [
+        "Explain",
+        "Excite",
+        "Expand",
+        "Exit"
+      ],
+      "correcta": 0,
+      "explicacion": "La fase Explain introduce información significativa que ayuda a comprender por qué merece la pena cambiar (why-to), trabajando beneficios esperados, actitudes afectivas, barreras y autoeficacia."
+    },
+    {
+      "id": "q257",
+      "tema": "Planificación de acciones de educación alimentaria (Nutrition Education Design)",
+      "dificultad": "medio",
+      "enunciado": "En la relación entre las 4ES y la teoría del cambio, ¿qué determinantes habituales se asocian principalmente a la fase Exit?",
+      "opciones": [
+        "Riesgo, beneficios y autoevaluación",
+        "Actitudes, creencias y emociones",
+        "Conocimiento y autoeficacia",
+        "Metas, autorregulación y apoyo social"
+      ],
+      "correcta": 3,
+      "explicacion": "La fase Exit tiene como función aplicar y consolidar, y sus determinantes habituales son las metas, la autorregulación y el apoyo social."
+    },
+    {
+      "id": "q258",
+      "tema": "Planificación de acciones de educación alimentaria (Nutrition Education Design)",
+      "dificultad": "dificil",
+      "enunciado": "En la evaluación de resultados clasificada por horizonte temporal, los cambios en la ingesta, las prácticas alimentarias, los hábitos de compra o la planificación de comidas corresponden a:",
+      "opciones": [
+        "Resultados a corto plazo (determinantes del cambio)",
+        "Resultados de la evaluación de proceso",
+        "Resultados a medio plazo (cambio comportamental)",
+        "Resultados a largo plazo (resultados fisiológicos o de salud)"
+      ],
+      "correcta": 2,
+      "explicacion": "Los resultados a medio plazo evalúan el cambio comportamental, es decir, cambios en los comportamientos objetivo como la ingesta, las prácticas alimentarias, los hábitos de compra o la planificación de comidas."
+    },
+    {
+      "id": "q259",
+      "tema": "Planificación de acciones de educación alimentaria (Nutrition Education Design)",
+      "dificultad": "dificil",
+      "enunciado": "Respecto a los diseños de evaluación en educación alimentaria comunitaria, el texto señala que los ensayos clínicos aleatorizados:",
+      "opciones": [
+        "Son el diseño habitual y más viable en este contexto",
+        "Aunque ideales para investigación, suelen ser poco viables en educación alimentaria comunitaria",
+        "Están prohibidos por motivos éticos en intervenciones educativas",
+        "Solo se aplican a la evaluación de proceso"
+      ],
+      "correcta": 1,
+      "explicacion": "El texto indica que los ensayos clínicos aleatorizados, aunque ideales para investigación, suelen ser poco viables en educación alimentaria comunitaria, donde se usan diseños test-retest, cuasiexperimentales o cualitativos."
+    },
+    {
+      "id": "q260",
+      "tema": "Planificación de acciones de educación alimentaria (Nutrition Education Design)",
+      "dificultad": "medio",
+      "enunciado": "Las herramientas de evaluación deben cumplir tres criterios fundamentales. ¿Cuáles son?",
+      "opciones": [
+        "Brevedad, anonimato y bajo coste",
+        "Fidelidad, alcance y satisfacción",
+        "Validez, atractivo visual y consentimiento informado",
+        "Validez, fiabilidad y sensibilidad al cambio"
+      ],
+      "correcta": 3,
+      "explicacion": "Las herramientas de evaluación deben cumplir criterios de validez (miden lo que pretenden medir), fiabilidad (consistencia) y sensibilidad al cambio."
+    },
+    {
+      "id": "q261",
+      "tema": "Planificación de proyectos en nutrición comunitaria",
+      "dificultad": "facil",
+      "enunciado": "En la planificación de proyectos en nutrición comunitaria, ¿cuál es la función propia del proyecto frente a la del procedimiento DESIGN?",
+      "opciones": [
+        "Estructurar, organizar y hacer operativa una intervención ya diseñada",
+        "Generar nuevas ideas de intervención y redefinir el comportamiento objetivo",
+        "Sustituir el diagnóstico de situación por un análisis institucional",
+        "Decidir qué determinantes del comportamiento son prioritarios"
+      ],
+      "correcta": 0,
+      "explicacion": "El proyecto no redefine la intervención: la estructura, organiza y hace operativa, respondiendo a cómo, con qué recursos, en qué plazos y por quién se implementará."
+    },
+    {
+      "id": "q262",
+      "tema": "Planificación de proyectos en nutrición comunitaria",
+      "dificultad": "medio",
+      "enunciado": "El apartado de marco institucional y encaje en políticas o planes de un proyecto en nutrición comunitaria constituye la traducción a lenguaje institucional de un elemento concreto del DESIGN. ¿De cuál?",
+      "opciones": [
+        "De la audiencia y el contexto del STEP 2",
+        "De los objetivos educativos del STEP 4",
+        "De las estrategias de intervención del STEP 5",
+        "De la relevancia y necesidad del problema del STEP 1"
+      ],
+      "correcta": 3,
+      "explicacion": "El marco institucional traduce lo que en el DESIGN es relevancia y necesidad (STEP 1) a un lenguaje institucional: qué problema se prioriza y por qué en ese contexto concreto."
+    },
+    {
+      "id": "q263",
+      "tema": "Planificación de proyectos en nutrición comunitaria",
+      "dificultad": "medio",
+      "enunciado": "Dentro de la fase de identificación del problema y delimitación de la situación, ¿qué aspecto se refiere a cómo es vivido el problema por la población implicada y condiciona su aceptación e implicación comunitaria?",
+      "opciones": [
+        "La magnitud",
+        "La percepción social",
+        "El contexto",
+        "El alcance"
+      ],
+      "correcta": 1,
+      "explicacion": "La percepción social describe cómo vive la población el problema, lo que condiciona su aceptación y la implicación comunitaria."
+    },
+    {
+      "id": "q264",
+      "tema": "Planificación de proyectos en nutrición comunitaria",
+      "dificultad": "dificil",
+      "enunciado": "Al invertir el árbol de problemas transformando problemas en objetivos, ¿qué se obtiene y para qué sirve?",
+      "opciones": [
+        "La matriz de priorización, que permite seleccionar el problema central",
+        "La tabla de coherencia, que vincula objetivos con indicadores",
+        "El árbol de objetivos, que orienta la formulación de los objetivos del proyecto",
+        "El análisis DAFO, que anticipa obstáculos y oportunidades"
+      ],
+      "correcta": 2,
+      "explicacion": "Al invertir el árbol de problemas (problemas a objetivos) se obtiene el árbol de objetivos, que orienta la formulación de los objetivos del proyecto."
+    },
+    {
+      "id": "q265",
+      "tema": "Planificación de proyectos en nutrición comunitaria",
+      "dificultad": "dificil",
+      "enunciado": "El árbol de problemas permite distinguir entre tipos de causas. ¿Qué causas serán prioritarias en el DESIGN según esta distinción?",
+      "opciones": [
+        "Las causas potencialmente modificables mediante educación",
+        "Las causas que requieren apoyos ambientales o políticos",
+        "Las consecuencias a largo plazo del problema central",
+        "Las causas de mayor magnitud epidemiológica"
+      ],
+      "correcta": 0,
+      "explicacion": "El árbol permite distinguir las causas potencialmente modificables mediante educación, que serán prioritarias en el DESIGN, de otras que requieren apoyos ambientales o políticos."
+    },
+    {
+      "id": "q266",
+      "tema": "Planificación de proyectos en nutrición comunitaria",
+      "dificultad": "medio",
+      "enunciado": "Respecto a los criterios de calidad de los objetivos del proyecto en nutrición comunitaria, ¿cuál de las siguientes afirmaciones es correcta?",
+      "opciones": [
+        "Deben describir con detalle las actividades y metodologías que se emplearán",
+        "Pueden ser ambiguos siempre que sean ambiciosos",
+        "No es necesario que sean evaluables si el proyecto es breve",
+        "No deben describir actividades ni metodologías concretas"
+      ],
+      "correcta": 3,
+      "explicacion": "Entre los criterios de calidad, los objetivos deben ser claros, evaluables y realistas, y explícitamente no deben describir actividades ni metodologías concretas."
+    },
+    {
+      "id": "q267",
+      "tema": "Planificación de proyectos en nutrición comunitaria",
+      "dificultad": "medio",
+      "enunciado": "En un proyecto en nutrición comunitaria, ¿con qué elementos del DESIGN se corresponden de forma directa los objetivos específicos del proyecto?",
+      "opciones": [
+        "Con el comportamiento objetivo global definido en el STEP 1",
+        "Con las estrategias de intervención del STEP 5",
+        "Con los objetivos educativos formulados en el STEP 4",
+        "Con los indicadores de evaluación del STEP 6"
+      ],
+      "correcta": 2,
+      "explicacion": "Los objetivos específicos del proyecto derivan del objetivo general y corresponden de forma directa a los objetivos educativos formulados en el STEP 4 del DESIGN."
+    },
+    {
+      "id": "q268",
+      "tema": "Planificación de proyectos en nutrición comunitaria",
+      "dificultad": "facil",
+      "enunciado": "Las sesiones, talleres y dinámicas grupales constituyen, dentro de los componentes de la estrategia de intervención, un ejemplo de:",
+      "opciones": [
+        "Intervenciones educativas directas",
+        "Intervenciones educativas indirectas",
+        "Acciones de apoyo ambiental o contextual",
+        "Recursos institucionales y colaboraciones"
+      ],
+      "correcta": 0,
+      "explicacion": "Las sesiones, talleres y dinámicas grupales son intervenciones educativas directas, frente a las indirectas (materiales, campañas) y las de apoyo ambiental."
+    },
+    {
+      "id": "q269",
+      "tema": "Planificación de proyectos en nutrición comunitaria",
+      "dificultad": "dificil",
+      "enunciado": "La secuencia lógica de la intervención dentro de la estrategia se describe como una narrativa del proceso. ¿Qué ejemplo de secuencia se ajusta a esa descripción?",
+      "opciones": [
+        "Evaluación de impacto, evaluación de resultados, evaluación de proceso",
+        "Sensibilización inicial, desarrollo de habilidades, aplicación y refuerzo, seguimiento",
+        "Identificación, análisis, priorización del problema",
+        "Fortalezas, debilidades, oportunidades, amenazas"
+      ],
+      "correcta": 1,
+      "explicacion": "La secuencia lógica se ejemplifica como sensibilización inicial, desarrollo de habilidades, aplicación y refuerzo, y seguimiento; no es un cronograma detallado sino una narrativa del proceso."
+    },
+    {
+      "id": "q270",
+      "tema": "Planificación de proyectos en nutrición comunitaria",
+      "dificultad": "dificil",
+      "enunciado": "Dentro de la estrategia de intervención, ¿qué elemento describe explícitamente cómo se espera que las acciones propuestas influyan sobre los determinantes del comportamiento y, en última instancia, sobre la conducta objetivo?",
+      "opciones": [
+        "El enfoque general de la intervención",
+        "Los componentes principales del proyecto",
+        "El mecanismo de cambio esperado",
+        "La secuencia lógica de la intervención"
+      ],
+      "correcta": 2,
+      "explicacion": "El mecanismo de cambio esperado describe explícitamente cómo las acciones influyen sobre los determinantes del comportamiento y, finalmente, sobre la conducta objetivo."
+    },
+    {
+      "id": "q271",
+      "tema": "Planificación de proyectos en nutrición comunitaria",
+      "dificultad": "medio",
+      "enunciado": "En la descripción de cada actividad del plan de acción, ¿cuál de los siguientes elementos NO forma parte de los que se deben recoger?",
+      "opciones": [
+        "Qué se va a hacer y cómo se va a hacer",
+        "Dónde se va a realizar y quién la realiza",
+        "A quién va dirigida dentro del proyecto",
+        "El cálculo económico detallado del coste unitario"
+      ],
+      "correcta": 3,
+      "explicacion": "La descripción de la actividad incluye qué, cómo, dónde, quién la realiza y a quién va dirigida; el coste se aborda en el apartado de recursos y presupuesto, no en la descripción de la actividad."
+    },
+    {
+      "id": "q272",
+      "tema": "Planificación de proyectos en nutrición comunitaria",
+      "dificultad": "medio",
+      "enunciado": "Los resultados o productos esperados que deben definirse por cada actividad del plan de acción se entienden como:",
+      "opciones": [
+        "Productos inmediatos y observables derivados de su realización",
+        "Cambios sostenidos en indicadores antropométricos a largo plazo",
+        "Hipótesis teóricas sobre el mecanismo de cambio",
+        "Criterios de priorización del problema central"
+      ],
+      "correcta": 0,
+      "explicacion": "Los resultados esperados son productos inmediatos y observables derivados de la actividad, como el número de sesiones realizadas o materiales distribuidos."
+    },
+    {
+      "id": "q273",
+      "tema": "Planificación de proyectos en nutrición comunitaria",
+      "dificultad": "facil",
+      "enunciado": "En cuanto al orden de definición dentro de la planificación, ¿qué relación existe entre el plan de actividades y el presupuesto?",
+      "opciones": [
+        "El presupuesto se fija al inicio y condiciona qué actividades pueden plantearse",
+        "El presupuesto se deriva directamente del plan de actividades ya definido",
+        "El presupuesto y las actividades se definen de forma independiente y paralela",
+        "El presupuesto sustituye al plan de actividades cuando los recursos son escasos"
+      ],
+      "correcta": 1,
+      "explicacion": "En nutrición comunitaria primero se decide qué se va a hacer y después se calcula qué se necesita: el presupuesto es la expresión económica del plan de acción y se deriva de él."
+    },
+    {
+      "id": "q274",
+      "tema": "Planificación de proyectos en nutrición comunitaria",
+      "dificultad": "medio",
+      "enunciado": "Al identificar los recursos humanos de un proyecto, el material advierte sobre un error frecuente. ¿Cuál?",
+      "opciones": [
+        "Incluir personal voluntario junto al personal profesional",
+        "Especificar el grado de implicación en horas o sesiones",
+        "Indicar las necesidades de formación previa del equipo",
+        "Limitarse a quién ejecuta las sesiones sin contemplar coordinación, preparación de materiales, seguimiento y evaluación"
+      ],
+      "correcta": 3,
+      "explicacion": "Se advierte de no limitarse a quién ejecuta las sesiones, sino contemplar también tareas de coordinación, preparación de materiales, seguimiento y evaluación."
+    },
+    {
+      "id": "q275",
+      "tema": "Planificación de proyectos en nutrición comunitaria",
+      "dificultad": "dificil",
+      "enunciado": "Además de costes de personal, materiales, equipamiento, logísticos y de evaluación, ¿qué partida adicional debe incluir el presupuesto de un proyecto en nutrición comunitaria?",
+      "opciones": [
+        "Una partida de beneficios para la entidad responsable",
+        "Una partida de devolución de fondos no utilizados",
+        "Una partida de previsión razonable por si surgen imprevistos",
+        "Una partida de publicidad institucional obligatoria"
+      ],
+      "correcta": 2,
+      "explicacion": "El presupuesto debe incluir, además de los costes habituales, una partida de previsión razonable para imprevistos."
+    },
+    {
+      "id": "q276",
+      "tema": "Planificación de proyectos en nutrición comunitaria",
+      "dificultad": "medio",
+      "enunciado": "Si tras el análisis de recursos se comprueba que estos no son suficientes para ejecutar el proyecto tal como está planteado, ¿qué tipo de ajustes propone el material?",
+      "opciones": [
+        "Repriorizar actividades, simplificar formatos, ajustar cobertura o duración y reforzar colaboraciones",
+        "Mantener el diseño íntegro y posponer indefinidamente la ejecución",
+        "Eliminar el sistema de evaluación para reducir costes",
+        "Sustituir los objetivos específicos por otros más ambiciosos"
+      ],
+      "correcta": 0,
+      "explicacion": "Si los recursos no bastan, se debe repriorizar actividades, simplificar formatos, ajustar cobertura o duración y reforzar colaboraciones."
+    },
+    {
+      "id": "q277",
+      "tema": "Planificación de proyectos en nutrición comunitaria",
+      "dificultad": "dificil",
+      "enunciado": "¿En qué momento del proceso de planificación debe realizarse el análisis DAFO y qué relación guarda con el diagnóstico de situación del DESIGN?",
+      "opciones": [
+        "Antes del DESIGN, sustituyendo al diagnóstico de situación",
+        "Durante el STEP 2, como parte del análisis de la audiencia",
+        "Al finalizar la evaluación de impacto, para justificar resultados",
+        "Una vez definido el proyecto, complementando (sin sustituir) el diagnóstico y el análisis de la audiencia"
+      ],
+      "correcta": 3,
+      "explicacion": "El DAFO se realiza una vez definido el proyecto y no sustituye el diagnóstico (STEP 1) ni el análisis de audiencia (STEP 2), sino que los complementa en una fase posterior."
+    },
+    {
+      "id": "q278",
+      "tema": "Planificación de proyectos en nutrición comunitaria",
+      "dificultad": "facil",
+      "enunciado": "¿De qué campo de conocimiento procede originalmente la herramienta de análisis DAFO?",
+      "opciones": [
+        "De la epidemiología nutricional",
+        "De las ciencias administrativas",
+        "De la psicología del comportamiento",
+        "De la pedagogía social"
+      ],
+      "correcta": 1,
+      "explicacion": "El DAFO es una herramienta procedente de las ciencias administrativas que analiza de forma integrada factores internos y externos del proyecto."
+    },
+    {
+      "id": "q279",
+      "tema": "Planificación de proyectos en nutrición comunitaria",
+      "dificultad": "medio",
+      "enunciado": "En el aprovechamiento estratégico del DAFO, ¿qué busca el cruce DO (Debilidades-Oportunidades)?",
+      "opciones": [
+        "Cómo usar las fortalezas para aprovechar oportunidades",
+        "Cómo usar fortalezas para minimizar amenazas",
+        "Cómo reducir debilidades aprovechando oportunidades",
+        "Qué ajustes son necesarios para evitar riesgos críticos"
+      ],
+      "correcta": 2,
+      "explicacion": "El cruce DO plantea cómo reducir las debilidades aprovechando las oportunidades del entorno."
+    },
+    {
+      "id": "q280",
+      "tema": "Planificación de proyectos en nutrición comunitaria",
+      "dificultad": "dificil",
+      "enunciado": "Dentro de la evaluación de resultados, ¿qué tipo de cambios corresponden específicamente a los resultados a medio plazo?",
+      "opciones": [
+        "Cambios en comportamientos alimentarios o prácticas concretas",
+        "Cambios en conocimientos, actitudes y autoeficacia",
+        "Cambios en indicadores fisiológicos y antropométricos",
+        "Cambios en la intención comportamental y las percepciones"
+      ],
+      "correcta": 0,
+      "explicacion": "Los resultados a medio plazo se refieren a cambios en comportamientos alimentarios o prácticas concretas, mientras que los de corto plazo afectan a conocimientos, actitudes, percepciones, autoeficacia o intención."
+    },
+    {
+      "id": "q281",
+      "tema": "Planificación de proyectos en nutrición comunitaria",
+      "dificultad": "dificil",
+      "enunciado": "Respecto a la evaluación de impacto en un proyecto de nutrición comunitaria, ¿qué afirmación es correcta?",
+      "opciones": [
+        "Es siempre obligatoria, incluso en proyectos pequeños y breves",
+        "Se basa exclusivamente en registros de asistencia y diarios de campo",
+        "Valora únicamente la fidelidad al diseño durante la implementación",
+        "Se centra en resultados de salud o efectos sostenidos y suele requerir intervenciones de mayor duración e intensidad"
+      ],
+      "correcta": 3,
+      "explicacion": "La evaluación de impacto se centra en resultados de salud o efectos sostenidos, requiere mayor duración e intensidad y no siempre es viable en proyectos pequeños, aunque conviene explicitar si se contempla."
+    },
+    {
+      "id": "q282",
+      "tema": "Planificación de proyectos en nutrición comunitaria",
+      "dificultad": "medio",
+      "enunciado": "Sobre el título y la ficha técnica con que comienza todo proyecto, ¿qué recomendación se establece para la denominación?",
+      "opciones": [
+        "Debe ser genérico para abarcar el mayor número de intervenciones posibles",
+        "Debe ser específico y hacer referencia a la población y/o al comportamiento abordado",
+        "Debe omitir la población diana para no limitar la cobertura",
+        "Debe coincidir literalmente con el nombre de la convocatoria de financiación"
+      ],
+      "correcta": 1,
+      "explicacion": "El título debe ser específico y reflejar el foco, haciendo referencia a la población y/o al comportamiento abordado y evitando formulaciones excesivamente genéricas."
+    },
+    {
+      "id": "q283",
+      "tema": "El consejo dietético",
+      "dificultad": "facil",
+      "enunciado": "El consejo dietético se concibe como una herramienta complementaria a las intervenciones poblacionales, grupales y ambientales. ¿Sobre qué nivel del cambio actúa específicamente?",
+      "opciones": [
+        "El nivel individual, atendiendo a la heterogeneidad de motivaciones y barreras de las personas",
+        "Los determinantes colectivos y las normas sociales",
+        "Los entornos alimentarios y la disponibilidad de alimentos",
+        "Las políticas públicas de salud"
+      ],
+      "correcta": 0,
+      "explicacion": "Mientras la nutrición comunitaria actúa sobre determinantes colectivos, normas y entornos, el consejo dietético permite trabajar el cambio a escala individual."
+    },
+    {
+      "id": "q284",
+      "tema": "El consejo dietético",
+      "dificultad": "facil",
+      "enunciado": "¿Cuál de las siguientes es una de las funciones que el consejo dietético puede desempeñar en la práctica profesional?",
+      "opciones": [
+        "Sustituir por completo a las intervenciones grupales y comunitarias",
+        "Imponer una dieta cerrada cuando las estrategias poblacionales fracasan",
+        "Actuar como puerta de entrada o refuerzo de intervenciones grupales",
+        "Eliminar la necesidad de coordinación interinstitucional"
+      ],
+      "correcta": 2,
+      "explicacion": "Entre sus funciones se cita actuar como puerta de entrada o refuerzo de intervenciones grupales, además de complementar programas y facilitar el mantenimiento del cambio."
+    },
+    {
+      "id": "q285",
+      "tema": "El consejo dietético",
+      "dificultad": "facil",
+      "enunciado": "Según la evidencia recogida en el tema, ¿qué factor es uno de los mejores predictores del éxito del cambio en el consejo dietético?",
+      "opciones": [
+        "La precisión cuantitativa del registro dietético",
+        "El número de sesiones de seguimiento programadas",
+        "La alianza profesional-persona",
+        "La rapidez en proponer objetivos concretos"
+      ],
+      "correcta": 2,
+      "explicacion": "La alianza profesional-persona es uno de los mejores predictores del éxito del cambio, incluso por encima del contenido técnico del consejo."
+    },
+    {
+      "id": "q286",
+      "tema": "El consejo dietético",
+      "dificultad": "medio",
+      "enunciado": "En la entrevista motivacional, el principio de que el consejo se realiza 'con la persona y no sobre la persona', reconociendo que el paciente es el experto en su propia vida, corresponde a:",
+      "opciones": [
+        "La afirmación",
+        "La evocación",
+        "El respeto a la autonomía",
+        "La asociación o colaboración"
+      ],
+      "correcta": 3,
+      "explicacion": "La asociación (colaboración) implica construir la intervención mediante una relación igualitaria, reconociendo al paciente como experto en su contexto y limitaciones."
+    },
+    {
+      "id": "q287",
+      "tema": "El consejo dietético",
+      "dificultad": "medio",
+      "enunciado": "El elemento de la entrevista motivacional según el cual las razones, valores y aspiraciones para cambiar no se imponen ni se 'inoculan' desde fuera, sino que el profesional ayuda a que emerjan desde la propia persona, se denomina:",
+      "opciones": [
+        "Asociación",
+        "Respeto a la autonomía",
+        "Evocación",
+        "Resistencia al reflejo de corregir"
+      ],
+      "correcta": 2,
+      "explicacion": "La evocación busca que emerjan las razones, valores, aspiraciones y motivaciones propias de la persona, sin imponer el cambio desde fuera."
+    },
+    {
+      "id": "q288",
+      "tema": "El consejo dietético",
+      "dificultad": "medio",
+      "enunciado": "En el modelo RULE de la entrevista motivacional, el principio 'Empoderar' (Empower) consiste fundamentalmente en:",
+      "opciones": [
+        "Explorar y evocar la motivación a partir de valores y prioridades personales",
+        "Reforzar la autoeficacia centrándose en capacidades y logros previos más que en fracasos",
+        "Adoptar una escucha activa y empática sin juicio",
+        "Evitar la tendencia a dar consejos inmediatos"
+      ],
+      "correcta": 1,
+      "explicacion": "Empoderar (Empower) consiste en reforzar la autoeficacia, centrándose en capacidades y logros previos más que en fracasos."
+    },
+    {
+      "id": "q289",
+      "tema": "El consejo dietético",
+      "dificultad": "medio",
+      "enunciado": "En la clasificación de preguntas para la consulta, ¿cuál es la desventaja característica de una pregunta direccional como 'Usted toma leche, ¿verdad?'?",
+      "opciones": [
+        "Toma demasiado tiempo y provee información innecesaria",
+        "Provee respuestas incompletas que obligan a hacer más preguntas",
+        "Introduce nuevos temas de forma abrupta",
+        "Dirige a la respuesta de la persona y revela los prejuicios del entrevistador"
+      ],
+      "correcta": 3,
+      "explicacion": "La pregunta direccional tiene como desventaja que dirige a la respuesta de la persona y revela los prejuicios del entrevistador."
+    },
+    {
+      "id": "q290",
+      "tema": "El consejo dietético",
+      "dificultad": "medio",
+      "enunciado": "Una pregunta del tipo 'Ahora que hemos visto los alimentos que consume en casa, cuénteme por qué come cuando va de restaurantes' se clasifica como:",
+      "opciones": [
+        "Pregunta primaria, porque introduce nuevos temas",
+        "Pregunta secundaria, porque revela más información",
+        "Pregunta neutral, porque busca respuestas más precisas",
+        "Pregunta cerrada, porque verifica información"
+      ],
+      "correcta": 0,
+      "explicacion": "Las preguntas primarias introducen nuevos temas en la conversación, como pasar de la comida en casa a la de restaurantes."
+    },
+    {
+      "id": "q291",
+      "tema": "El consejo dietético",
+      "dificultad": "medio",
+      "enunciado": "Al trabajar el desarrollo de habilidades y autoeficacia, ¿en qué grupo se clasifican la planificación, la compra, la cocina y la lectura de etiquetas?",
+      "opciones": [
+        "Habilidades cognitivas",
+        "Habilidades emocionales",
+        "Habilidades prácticas",
+        "Habilidades motivacionales"
+      ],
+      "correcta": 2,
+      "explicacion": "Las habilidades prácticas incluyen planificación, compra, cocina y lectura de etiquetas; las cognitivas son toma de decisiones y pensamiento crítico, y las emocionales, gestión del estrés, presión social y culpa."
+    },
+    {
+      "id": "q292",
+      "tema": "El consejo dietético",
+      "dificultad": "medio",
+      "enunciado": "La 'conversación de cambio' en la entrevista motivacional se refiere a:",
+      "opciones": [
+        "La argumentación del profesional a favor del cambio",
+        "La verbalización por parte del paciente de sus propios deseos, capacidades, razones y necesidades de cambiar",
+        "El intercambio de información técnica nutricional entre profesional y paciente",
+        "La confrontación de las creencias erróneas del paciente"
+      ],
+      "correcta": 1,
+      "explicacion": "La conversación de cambio es la verbalización por el propio paciente de sus deseos, capacidades, razones y necesidades de cambiar; el objetivo del profesional es facilitarla, no argumentar él mismo."
+    },
+    {
+      "id": "q293",
+      "tema": "El consejo dietético",
+      "dificultad": "medio",
+      "enunciado": "¿Con qué modelo de cambio de comportamiento se señala que la entrevista motivacional puede integrarse de forma natural en el consejo dietético?",
+      "opciones": [
+        "El modelo SMART de fijación de objetivos",
+        "El modelo de las etapas de cambio de Prochaska y DiClemente",
+        "El modelo OARS de microhabilidades",
+        "El procedimiento DESIGN"
+      ],
+      "correcta": 1,
+      "explicacion": "La entrevista motivacional puede integrarse con el modelo de las etapas de cambio de Prochaska y DiClemente, adaptando la intervención al momento motivacional de cada persona."
+    },
+    {
+      "id": "q294",
+      "tema": "El consejo dietético",
+      "dificultad": "medio",
+      "enunciado": "En la fase de definición compartida de objetivos, los objetivos SMART y la descomposición de conductas complejas en micro-acciones conectan con un paso concreto del procedimiento DESIGN. ¿Cuál?",
+      "opciones": [
+        "Los objetivos SMART con el STEP 4 y las intenciones de implementación con el STEP 5",
+        "Ambos con el STEP 6",
+        "Los objetivos SMART con el STEP 6 y las micro-acciones con el STEP 4",
+        "Ambos con el STEP 3"
+      ],
+      "correcta": 0,
+      "explicacion": "Los objetivos SMART se conectan con el STEP 4 y las intenciones de implementación ('si ocurre X, haré Y') con el STEP 5."
+    },
+    {
+      "id": "q295",
+      "tema": "El consejo dietético",
+      "dificultad": "dificil",
+      "enunciado": "En el guion orientativo de primera consulta, el acuerdo sobre el siguiente paso 'no necesariamente un cambio conductual', el resumen compartido y el refuerzo del compromiso y la autonomía corresponden al bloque de:",
+      "opciones": [
+        "Acogida y encuadre",
+        "Exploración del motivo de consulta",
+        "Exploración inicial de motivación",
+        "Cierre"
+      ],
+      "correcta": 3,
+      "explicacion": "El bloque de cierre incluye el resumen compartido, el acuerdo sobre el siguiente paso (no necesariamente conductual) y el refuerzo del compromiso y de la autonomía."
+    },
+    {
+      "id": "q296",
+      "tema": "El consejo dietético",
+      "dificultad": "dificil",
+      "enunciado": "Cuando una persona no está preparada para cambiar y aparecen ambivalencias, ¿cuál suele ser el objetivo inicial del consejo dietético?",
+      "opciones": [
+        "Imponer un plan de acción para evitar la procrastinación",
+        "Trabajar la motivación, resolver ambivalencias y aumentar la percepción de capacidad",
+        "Entregar una dieta cerrada como punto de referencia",
+        "Derivar de inmediato a otro profesional"
+      ],
+      "correcta": 1,
+      "explicacion": "Forzar objetivos cuando la persona no está preparada genera resistencia o abandono; por ello el objetivo inicial suele ser trabajar la motivación, resolver ambivalencias y aumentar la percepción de capacidad."
+    },
+    {
+      "id": "q297",
+      "tema": "El consejo dietético",
+      "dificultad": "dificil",
+      "enunciado": "Respecto a la prevención de recaídas en la fase de seguimiento, ¿cuál es la afirmación correcta?",
+      "opciones": [
+        "Las recaídas deben evitarse a toda costa, pues indican fracaso del plan",
+        "La prevención de recaídas se entiende como la eliminación de las dificultades del proceso",
+        "Las recaídas forman parte del proceso y la prevención consiste en prepararse para afrontarlas",
+        "Una recaída obliga a reiniciar el proceso desde la fase de acogida"
+      ],
+      "correcta": 2,
+      "explicacion": "Las recaídas son esperables y forman parte del proceso; la prevención no es eliminar dificultades, sino anticipar situaciones de riesgo, normalizar la dificultad y preparar respuestas alternativas."
+    },
+    {
+      "id": "q298",
+      "tema": "El consejo dietético",
+      "dificultad": "dificil",
+      "enunciado": "Según el uso que se hace de la información obtenida durante el seguimiento, ¿cuándo procede simplificar el cambio?",
+      "opciones": [
+        "Cuando la persona ha adquirido suficiente autonomía",
+        "Cuando el plan está funcionando adecuadamente",
+        "Cuando se detecta sobrecarga en la persona",
+        "Cuando aparecen trastornos de la conducta alimentaria"
+      ],
+      "correcta": 2,
+      "explicacion": "La información del seguimiento se usa para simplificar el cambio cuando se detecta sobrecarga, frente a mantener el plan si funciona o cerrar el proceso si se ha alcanzado autonomía."
+    },
+    {
+      "id": "q299",
+      "tema": "El consejo dietético",
+      "dificultad": "dificil",
+      "enunciado": "¿Cuál de las siguientes NO se menciona como indicador de límite del consejo dietético que aconseje derivar o complementar la intervención?",
+      "opciones": [
+        "Presencia de trastornos de la conducta alimentaria o sintomatología psicológica relevante",
+        "Inseguridad alimentaria severa o exclusión social",
+        "Baja confianza puntuada con un 5 en la escala de autoeficacia",
+        "Dificultades de salud mental que interfieren significativamente con el cambio"
+      ],
+      "correcta": 2,
+      "explicacion": "Los indicadores de límite incluyen TCA, problemas sociales graves y dificultades de salud mental; una puntuación intermedia de confianza es material habitual de trabajo, no un criterio de derivación."
+    },
+    {
+      "id": "q300",
+      "tema": "El consejo dietético",
+      "dificultad": "dificil",
+      "enunciado": "La afirmación de que el consejo dietético es 'necesario, pero no suficiente cuando se utiliza de forma aislada' se justifica porque:",
+      "opciones": [
+        "El comportamiento alimentario depende solo de la motivación y el conocimiento de la persona",
+        "El comportamiento alimentario está condicionado por normas sociales, disponibilidad de alimentos, contexto laboral y políticas públicas",
+        "El consejo dietético carece de base en la evidencia científica",
+        "Las intervenciones individuales son siempre más eficaces que las poblacionales"
+      ],
+      "correcta": 1,
+      "explicacion": "El comportamiento alimentario no depende solo de la motivación o el conocimiento, sino que está condicionado por normas sociales, disponibilidad, organización del tiempo, entorno familiar, contexto laboral y políticas públicas."
+    },
+    {
+      "id": "q301",
+      "tema": "El consejo dietético",
+      "dificultad": "dificil",
+      "enunciado": "¿En qué se diferencia principalmente la autorrevisión guiada de los registros dietéticos clásicos?",
+      "opciones": [
+        "Exige una cuantificación más precisa de alimentos que el registro clásico",
+        "Tiene como finalidad favorecer un proceso de reflexión personal sobre la experiencia de cambio",
+        "Sustituye por completo al seguimiento profesional",
+        "Solo puede plantearse por escrito y de forma extensa"
+      ],
+      "correcta": 1,
+      "explicacion": "A diferencia de los registros dietéticos clásicos, la autorrevisión guiada busca favorecer la reflexión personal sobre la experiencia de cambio (qué ha ocurrido, cómo se ha sentido y qué ha aprendido)."
+    },
+    {
+      "id": "q302",
+      "tema": "El consejo dietético",
+      "dificultad": "dificil",
+      "enunciado": "Dentro de la estructura de resolución de problemas, ante el obstáculo 'No ceno bien cuando llego cansado', la frase 'Si no tengo nada preparado, entonces elegiré X en lugar de pedir comida rápida' representa:",
+      "opciones": [
+        "La identificación del obstáculo",
+        "La exploración de alternativas posibles",
+        "El plan B por si la primera opción falla",
+        "La elección de la opción viable principal"
+      ],
+      "correcta": 2,
+      "explicacion": "La frase es un plan B, formulado como plan de implementación 'si-entonces', para el caso de que la primera opción elegida falle."
+    },
+    {
+      "id": "q303",
+      "tema": "El consejo dietético",
+      "dificultad": "dificil",
+      "enunciado": "En las escalas rápidas (0-10), ante una persona que puntúa su disposición o importancia, ¿cuál de estas preguntas de profundización refleja correctamente el uso recomendado de la escala?",
+      "opciones": [
+        "'¿Por qué no te has puesto un 10 todavía?'",
+        "'¿Por qué has elegido un 5 y no un 2?'",
+        "'¿No crees que deberías estar más motivado?'",
+        "'¿Estás seguro de ese número?'"
+      ],
+      "correcta": 1,
+      "explicacion": "La clave no está en el número sino en la conversación posterior; preguntar '¿por qué un 5 y no un 2?' permite trabajar la ambivalencia y la autoeficacia de forma natural."
+    },
+    {
+      "id": "q304",
+      "tema": "El consejo dietético",
+      "dificultad": "dificil",
+      "enunciado": "Desde el punto de vista metodológico, ¿qué afirmación describe mejor la naturaleza del consejo dietético según el tema?",
+      "opciones": [
+        "Es una simple recomendación técnica cuya eficacia depende de la corrección nutricional del mensaje",
+        "Es una intervención de cambio de comportamiento que actúa sobre los determinantes individuales del comer",
+        "Es un protocolo cerrado de entrega de dieta basado en normas rígidas",
+        "Es una técnica aislada independiente del razonamiento del DESIGN"
+      ],
+      "correcta": 1,
+      "explicacion": "El consejo dietético es una intervención de cambio de comportamiento; su eficacia no depende solo de la corrección nutricional del mensaje, sino de su capacidad para influir en los determinantes individuales del comer."
     }
   ]
 }

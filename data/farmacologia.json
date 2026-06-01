@@ -1,9 +1,9 @@
 {
   "meta": {
     "titulo": "Banco de preguntas Farma Tests",
-    "version": 3,
+    "version": 4,
     "fuente": "FARMACOLOGÍA Y NUTRICIÓN.pdf (16 temas)",
-    "total": 728
+    "total": 908
   },
   "preguntas": [
     {
@@ -10197,6 +10197,2526 @@
       ],
       "correcta": 0,
       "explicacion": "La interacción farmacéutica se debe a una incompatibilidad fisicoquímica cuya consecuencia es la formación de complejos, precipitados, etc."
+    },
+    {
+      "id": "q729",
+      "tema": "Farmacodinamia y reacciones adversas a los medicamentos",
+      "dificultad": "medio",
+      "enunciado": "Según la curva dosis-respuesta del material, ¿cuál de los siguientes es el fármaco MÁS potente (alcanza la DE50 a menor dosis)?",
+      "opciones": [
+        "morfina",
+        "codeína",
+        "aspirina",
+        "acetilcolina"
+      ],
+      "correcta": 0,
+      "explicacion": "El material indica expresamente que el más potente es la morfina (alcanza la DE50 a menor dosis), seguida de la codeína y, como menos potente, la aspirina."
+    },
+    {
+      "id": "q730",
+      "tema": "Farmacodinamia y reacciones adversas a los medicamentos",
+      "dificultad": "medio",
+      "enunciado": "De los fármacos comparados en la curva dosis-respuesta del material, ¿cuál es el MENOS potente (necesita mayor dosis para alcanzar el 50% del efecto)?",
+      "opciones": [
+        "morfina",
+        "codeína",
+        "aspirina",
+        "adrenalina"
+      ],
+      "correcta": 2,
+      "explicacion": "El texto señala que el menos potente es la aspirina; la morfina es la más potente y la codeína intermedia, por lo que estas son distractores incorrectos."
+    },
+    {
+      "id": "q731",
+      "tema": "Farmacodinamia y reacciones adversas a los medicamentos",
+      "dificultad": "dificil",
+      "enunciado": "El material cita un fármaco como ejemplo de sustancia exógena que se une a los receptores opioides actuando como agonista. ¿Cuál es?",
+      "opciones": [
+        "aspirina",
+        "acetilcolina",
+        "morfina",
+        "adrenalina"
+      ],
+      "correcta": 2,
+      "explicacion": "El material indica que a los receptores opioides se unen sustancias exógenas, fármacos como la morfina; la acetilcolina y la adrenalina son ligandos de receptores colinérgicos y adrenérgicos respectivamente, y la aspirina no se cita como opioide."
+    },
+    {
+      "id": "q732",
+      "tema": "Neurotransmisión adrenérgica",
+      "dificultad": "medio",
+      "enunciado": "¿Cuál de los siguientes es un agonista beta 2 utilizado en el asma y la EPOC?",
+      "opciones": [
+        "salbutamol",
+        "propranolol",
+        "doxazosina",
+        "clonidina"
+      ],
+      "correcta": 0,
+      "explicacion": "El material indica que el salbutamol (ventolin) es un agonista beta 2 broncodilatador usado en asma y EPOC. Propranolol es betabloqueante, doxazosina antagonista alfa 1 y clonidina agonista alfa 2."
+    },
+    {
+      "id": "q733",
+      "tema": "Neurotransmisión adrenérgica",
+      "dificultad": "dificil",
+      "enunciado": "¿Cuál de los siguientes fármacos es un betabloqueante cardioselectivo?",
+      "opciones": [
+        "propranolol",
+        "timolol",
+        "atenolol",
+        "fenilefrina"
+      ],
+      "correcta": 2,
+      "explicacion": "Según el material, atenolol y bisoprolol son cardioselectivos, mientras que propranolol y timolol no lo son. Fenilefrina es un agonista alfa 1."
+    },
+    {
+      "id": "q734",
+      "tema": "Neurotransmisión adrenérgica",
+      "dificultad": "medio",
+      "enunciado": "¿Qué fármaco se utiliza en la anafilaxia, la parada cardiaca y la hipotensión aguda por ser un potente estimulante cardiaco e hipertensor no selectivo?",
+      "opciones": [
+        "salbutamol",
+        "adrenalina",
+        "doxazosina",
+        "mirabegrón"
+      ],
+      "correcta": 1,
+      "explicacion": "El material describe la adrenalina (epinefrina) como agonista no selectivo, potente estimulante cardiaco e hipertensor, indicada en anafilaxia, parada cardiaca e hipotensión aguda."
+    },
+    {
+      "id": "q735",
+      "tema": "Neurotransmisión adrenérgica",
+      "dificultad": "medio",
+      "enunciado": "¿Cuál de los siguientes es un antagonista alfa 1 indicado en la hipertensión y la hiperplasia benigna de próstata?",
+      "opciones": [
+        "clonidina",
+        "doxazosina",
+        "formoterol",
+        "atenolol"
+      ],
+      "correcta": 1,
+      "explicacion": "Según el material, la doxazosina es un antagonista alfa 1 (vasodilatador) usado en hipertensión, Raynaud e hiperplasia benigna de próstata. Clonidina es agonista alfa 2 y atenolol betabloqueante."
+    },
+    {
+      "id": "q736",
+      "tema": "Neurotransmisión adrenérgica",
+      "dificultad": "dificil",
+      "enunciado": "¿Qué fármaco es un betabloqueante de uso ocular empleado en el glaucoma?",
+      "opciones": [
+        "timolol",
+        "propranolol",
+        "oximetazolina",
+        "bisoprolol"
+      ],
+      "correcta": 0,
+      "explicacion": "El material señala que el timolol (ocular) se utiliza para el glaucoma por su acción a nivel ocular. Propranolol y bisoprolol son betabloqueantes de uso sistémico y la oximetazolina un descongestionante alfa 1."
+    },
+    {
+      "id": "q737",
+      "tema": "Neurotransmisión adrenérgica",
+      "dificultad": "medio",
+      "enunciado": "¿Cuál de los siguientes es un agonista alfa 1 usado como descongestionante nasal de uso tópico que puede causar congestión de rebote?",
+      "opciones": [
+        "dopamina",
+        "oximetazolina",
+        "propranolol",
+        "mirtazapina"
+      ],
+      "correcta": 1,
+      "explicacion": "El material indica que nafazolina y oximetazolina son agonistas alfa 1 de vía tópica para la descongestión nasal/ocular y pueden producir congestión de rebote con adicción."
+    },
+    {
+      "id": "q738",
+      "tema": "Neurotransmisión adrenérgica",
+      "dificultad": "dificil",
+      "enunciado": "¿Qué fármaco es un agonista alfa 2 que disminuye la liberación de noradrenalina y reduce la tensión arterial?",
+      "opciones": [
+        "fenilefrina",
+        "clonidina",
+        "salbutamol",
+        "timolol"
+      ],
+      "correcta": 1,
+      "explicacion": "Según el material, la clonidina es el ejemplo de agonista alfa 2, que provoca disminución de la liberación de catecolaminas y reduce la tensión arterial."
+    },
+    {
+      "id": "q739",
+      "tema": "Neurotransmisión adrenérgica",
+      "dificultad": "dificil",
+      "enunciado": "¿Cuál de los siguientes fármacos es un inhibidor de la MAO de acción adrenérgica indirecta?",
+      "opciones": [
+        "entacapona",
+        "selegilina",
+        "efedrina",
+        "dopamina"
+      ],
+      "correcta": 1,
+      "explicacion": "El material clasifica la selegilina y la rasagilina como inhibidores de la MAO (acción indirecta). La entacapona es inhibidor de la COMT y la efedrina de acción mixta."
+    },
+    {
+      "id": "q740",
+      "tema": "Neurotransmisión adrenérgica",
+      "dificultad": "dificil",
+      "enunciado": "¿Qué fármaco es un inhibidor de la COMT dentro de los adrenérgicos de acción indirecta?",
+      "opciones": [
+        "rasagilina",
+        "entacapona",
+        "selegilina",
+        "tiramina"
+      ],
+      "correcta": 1,
+      "explicacion": "El material indica que la entacapona es inhibidor de la COMT, mientras que selegilina y rasagilina inhiben la MAO y la tiramina facilita la liberación de noradrenalina."
+    },
+    {
+      "id": "q741",
+      "tema": "Neurotransmisión adrenérgica",
+      "dificultad": "medio",
+      "enunciado": "¿Cuál de los siguientes fármacos es un adrenérgico de acción mixta utilizado en el TDAH?",
+      "opciones": [
+        "cocaína",
+        "metilfenidato",
+        "fenilefrina",
+        "atenolol"
+      ],
+      "correcta": 1,
+      "explicacion": "Según el material, la anfetamina y el metilfenidato son fármacos de acción mixta usados en el TDAH. La cocaína es de acción indirecta (inhibe la recaptación) y fenilefrina agonista alfa 1."
+    },
+    {
+      "id": "q742",
+      "tema": "Neurotransmisión adrenérgica",
+      "dificultad": "medio",
+      "enunciado": "¿Qué fármaco actúa por acción indirecta inhibiendo la recaptación de noradrenalina?",
+      "opciones": [
+        "cocaína",
+        "salbutamol",
+        "doxazosina",
+        "bisoprolol"
+      ],
+      "correcta": 0,
+      "explicacion": "El material señala que la cocaína inhibe la recaptación de noradrenalina (acción indirecta). El resto son agonista beta 2, antagonista alfa 1 y betabloqueante respectivamente."
+    },
+    {
+      "id": "q743",
+      "tema": "Neurotransmisión adrenérgica",
+      "dificultad": "medio",
+      "enunciado": "¿Cuál de los siguientes es un agonista beta 1 que estimula la fuerza y la función cardiaca?",
+      "opciones": [
+        "formoterol",
+        "dopamina",
+        "oximetazolina",
+        "alfuzosina"
+      ],
+      "correcta": 1,
+      "explicacion": "Según el material, la dopamina es el ejemplo de agonista beta 1 que estimula la fuerza y la función cardiaca. Formoterol es agonista beta 2 y alfuzosina antagonista alfa 1."
+    },
+    {
+      "id": "q744",
+      "tema": "Neurotransmisión adrenérgica",
+      "dificultad": "dificil",
+      "enunciado": "¿Qué fármaco es un antagonista alfa 2 empleado como antidepresivo?",
+      "opciones": [
+        "clonidina",
+        "mirtazapina",
+        "doxazosina",
+        "propranolol"
+      ],
+      "correcta": 1,
+      "explicacion": "El material indica que los antagonistas alfa 2 son antidepresivos y cita la mirtazapina. La clonidina es agonista alfa 2 y la doxazosina antagonista alfa 1."
+    },
+    {
+      "id": "q745",
+      "tema": "Neurotransmisión adrenérgica",
+      "dificultad": "dificil",
+      "enunciado": "¿Cuál de los siguientes es un agonista beta indicado en el síndrome de vejiga hiperactiva por relajar el detrusor vesical?",
+      "opciones": [
+        "mirabegrón",
+        "salbutamol",
+        "formoterol",
+        "dopamina"
+      ],
+      "correcta": 0,
+      "explicacion": "Según el material, el mirabegrón (Betmiga) produce relajación del detrusor vesical y trata la urgencia/incontinencia de la vejiga hiperactiva, a diferencia de los demás agonistas beta."
+    },
+    {
+      "id": "q746",
+      "tema": "Neurotransmisión adrenérgica",
+      "dificultad": "medio",
+      "enunciado": "¿Qué fármaco es un agonista alfa 1 que se utiliza en la congestión nasal y ocular, como midriático diagnóstico y en la hipotensión?",
+      "opciones": [
+        "fenilefrina",
+        "clonidina",
+        "mirtazapina",
+        "timolol"
+      ],
+      "correcta": 0,
+      "explicacion": "El material describe la fenilefrina (y fenilpropanolamina) como agonistas alfa 1 usados en congestión nasal/ocular, como midriáticos diagnósticos y en hipotensión."
+    },
+    {
+      "id": "q747",
+      "tema": "Neurotransmisión adrenérgica",
+      "dificultad": "dificil",
+      "enunciado": "¿Cuál de los siguientes antagonistas alfa 1 destaca por ser selectivo sobre el tracto urinario?",
+      "opciones": [
+        "doxazosina",
+        "alfuzosina",
+        "atenolol",
+        "fenilefrina"
+      ],
+      "correcta": 1,
+      "explicacion": "Según el material, la alfuzosina es el antagonista alfa 1 selectivo del tracto urinario, frente a la doxazosina. Atenolol es betabloqueante y fenilefrina agonista alfa 1."
+    },
+    {
+      "id": "q748",
+      "tema": "Neurotransmisión adrenérgica",
+      "dificultad": "dificil",
+      "enunciado": "¿Qué fármaco facilita la liberación de noradrenalina como mecanismo de acción adrenérgica indirecta?",
+      "opciones": [
+        "cocaína",
+        "tiramina",
+        "entacapona",
+        "rasagilina"
+      ],
+      "correcta": 1,
+      "explicacion": "El material señala que la tiramina facilita la liberación de noradrenalina, mientras que la cocaína inhibe su recaptación y entacapona/rasagilina bloquean su metabolismo."
+    },
+    {
+      "id": "q749",
+      "tema": "Neurotransmisión adrenérgica",
+      "dificultad": "medio",
+      "enunciado": "¿Cuál de los siguientes es un betabloqueante NO cardioselectivo según el material?",
+      "opciones": [
+        "atenolol",
+        "bisoprolol",
+        "propranolol",
+        "salbutamol"
+      ],
+      "correcta": 2,
+      "explicacion": "El material indica que propranolol y timolol no son cardioselectivos, frente a atenolol y bisoprolol que sí lo son. El salbutamol es un agonista beta 2."
+    },
+    {
+      "id": "q750",
+      "tema": "Transmisión colinérgica",
+      "dificultad": "medio",
+      "enunciado": "¿Cuál de los siguientes es un inhibidor de la acetilcolinesterasa de uso clínico indicado en la enfermedad de Alzheimer?",
+      "opciones": [
+        "donepezilo",
+        "pilocarpina",
+        "atropina",
+        "tolterodina"
+      ],
+      "correcta": 0,
+      "explicacion": "El donepezilo es un colinérgico de acción indirecta (inhibidor de la acetilcolinesterasa) de uso clínico en Alzheimer, junto a rivastigmina y galantamina. Pilocarpina es agonista muscarínico directo y atropina/tolterodina son anticolinérgicos."
+    },
+    {
+      "id": "q751",
+      "tema": "Transmisión colinérgica",
+      "dificultad": "dificil",
+      "enunciado": "¿Cuál de los siguientes bloqueantes neuromusculares no despolarizantes es de acción larga?",
+      "opciones": [
+        "mivacurio",
+        "rocuronio",
+        "pancuronio",
+        "vecuronio"
+      ],
+      "correcta": 2,
+      "explicacion": "El pancuronio es un bloqueante no despolarizante de acción larga (junto a doxacuronio y pipecuronio). Mivacurio es de acción corta y rocuronio/vecuronio de acción intermedia."
+    },
+    {
+      "id": "q752",
+      "tema": "Transmisión colinérgica",
+      "dificultad": "dificil",
+      "enunciado": "¿Cuál de los siguientes bloqueantes neuromusculares no despolarizantes es de acción intermedia?",
+      "opciones": [
+        "doxacuronio",
+        "pipecuronio",
+        "vecuronio",
+        "mivacurio"
+      ],
+      "correcta": 2,
+      "explicacion": "El vecuronio es un bloqueante no despolarizante de acción intermedia (junto a rocuronio, atracurio y cis-atracurio). Doxacuronio y pipecuronio son de acción larga y mivacurio de acción corta."
+    },
+    {
+      "id": "q753",
+      "tema": "Transmisión colinérgica",
+      "dificultad": "medio",
+      "enunciado": "¿Cuál de los siguientes es un bloqueante neuromuscular despolarizante?",
+      "opciones": [
+        "succinilcolina",
+        "atracurio",
+        "pancuronio",
+        "mivacurio"
+      ],
+      "correcta": 0,
+      "explicacion": "La succinilcolina es el bloqueante despolarizante de acción corta. Atracurio, pancuronio y mivacurio son bloqueantes no despolarizantes (competitivos)."
+    },
+    {
+      "id": "q754",
+      "tema": "Transmisión colinérgica",
+      "dificultad": "medio",
+      "enunciado": "¿Qué fármaco colinérgico se utiliza por vía oral en la xerostomía y la sequedad ocular para aumentar la secreción salivar y lagrimal?",
+      "opciones": [
+        "acetilcolina",
+        "pilocarpina",
+        "muscarina",
+        "metacolina"
+      ],
+      "correcta": 1,
+      "explicacion": "La pilocarpina se emplea por vía oral en xerostomía y sequedad ocular al aumentar las secreciones salivar y lagrimal. La acetilcolina no se usa por vía oral, la muscarina carece de utilidad clínica y la metacolina no tiene esa indicación."
+    },
+    {
+      "id": "q755",
+      "tema": "Transmisión colinérgica",
+      "dificultad": "dificil",
+      "enunciado": "¿Cuál de los siguientes parasimpaticomiméticos de acción directa fue el primer parasimpaticomimético estudiado y carece de utilidad clínica, estudiándose por su toxicidad?",
+      "opciones": [
+        "pilocarpina",
+        "acetilcolina",
+        "muscarina",
+        "metacolina"
+      ],
+      "correcta": 2,
+      "explicacion": "La muscarina, presente en setas como la Amanita muscaria, fue el primer parasimpaticomimético estudiado y no tiene utilidad clínica; se estudia por su toxicidad colinérgica. Pilocarpina y acetilcolina sí tienen uso clínico."
+    },
+    {
+      "id": "q756",
+      "tema": "Transmisión colinérgica",
+      "dificultad": "facil",
+      "enunciado": "¿Qué fármaco es el propio neurotransmisor colinérgico y se emplea por vía intraocular en cirugía cuando se requiere miosis rápida y completa?",
+      "opciones": [
+        "pilocarpina",
+        "acetilcolina",
+        "atropina",
+        "escopolamina"
+      ],
+      "correcta": 1,
+      "explicacion": "La acetilcolina es el propio neurotransmisor y, por su mala biodisponibilidad oral, se usa por vía intraocular en cirugía para lograr miosis rápida. Pilocarpina se usa en glaucoma y atropina/escopolamina son anticolinérgicos."
+    },
+    {
+      "id": "q757",
+      "tema": "Transmisión colinérgica",
+      "dificultad": "dificil",
+      "enunciado": "¿Cuál de los siguientes bloqueantes neuromusculares actúa de forma indirecta como inhibidor de la liberación de acetilcolina y se utiliza en estrabismo, distonía cervical e hiperhidrosis?",
+      "opciones": [
+        "toxina botulínica",
+        "succinilcolina",
+        "atracurio",
+        "cis-atracurio"
+      ],
+      "correcta": 0,
+      "explicacion": "La toxina botulínica no actúa sobre los receptores; inhibe la liberación de acetilcolina y se indica en estrabismo, distonía cervical, hiperhidrosis y arrugas. Succinilcolina, atracurio y cis-atracurio actúan en la placa motora bloqueando los receptores."
+    },
+    {
+      "id": "q758",
+      "tema": "Farmacología neuropsíquica",
+      "dificultad": "facil",
+      "enunciado": "¿Cuál de los siguientes es un antipsicótico típico (neuroléptico clásico)?",
+      "opciones": [
+        "clozapina",
+        "olanzapina",
+        "haloperidol",
+        "risperidona"
+      ],
+      "correcta": 2,
+      "explicacion": "El haloperidol es, junto con la clorpromazina, uno de los antipsicóticos típicos más importantes; clozapina, olanzapina y risperidona son atípicos."
+    },
+    {
+      "id": "q759",
+      "tema": "Farmacología neuropsíquica",
+      "dificultad": "medio",
+      "enunciado": "¿Cuál de los siguientes es un antipsicótico atípico?",
+      "opciones": [
+        "olanzapina",
+        "haloperidol",
+        "clorpromazina",
+        "amitriptilina"
+      ],
+      "correcta": 0,
+      "explicacion": "La olanzapina es un antipsicótico atípico (junto con clozapina y risperidona); haloperidol y clorpromazina son típicos y la amitriptilina es un antidepresivo tricíclico."
+    },
+    {
+      "id": "q760",
+      "tema": "Farmacología neuropsíquica",
+      "dificultad": "dificil",
+      "enunciado": "¿Qué antipsicótico atípico se asocia de forma característica a hiperprolactinemia con galactorrea, disfunción sexual y osteoporosis?",
+      "opciones": [
+        "haloperidol",
+        "risperidona",
+        "diazepam",
+        "fluoxetina"
+      ],
+      "correcta": 1,
+      "explicacion": "La risperidona es un antipsicótico atípico citado en el material en relación con la hiperprolactinemia y sus consecuencias (galactorrea, disfunción sexual, osteoporosis)."
+    },
+    {
+      "id": "q761",
+      "tema": "Farmacología neuropsíquica",
+      "dificultad": "medio",
+      "enunciado": "¿Cuál de los siguientes fármacos es un antidepresivo tricíclico?",
+      "opciones": [
+        "sertralina",
+        "moclobemida",
+        "amitriptilina",
+        "fluvoxamina"
+      ],
+      "correcta": 2,
+      "explicacion": "La amitriptilina (junto con la imipramina) es un tricíclico; sertralina y fluvoxamina son ISRS y la moclobemida es un IMAO."
+    },
+    {
+      "id": "q762",
+      "tema": "Farmacología neuropsíquica",
+      "dificultad": "medio",
+      "enunciado": "¿Cuál de los siguientes es un inhibidor selectivo de la recaptación de serotonina (ISRS)?",
+      "opciones": [
+        "imipramina",
+        "sertralina",
+        "moclobemida",
+        "amitriptilina"
+      ],
+      "correcta": 1,
+      "explicacion": "La sertralina es un ISRS; imipramina y amitriptilina son tricíclicos y la moclobemida es un IMAO."
+    },
+    {
+      "id": "q763",
+      "tema": "Farmacología neuropsíquica",
+      "dificultad": "dificil",
+      "enunciado": "¿Cuál de los siguientes fármacos es un ISRS comercializado como Prozac?",
+      "opciones": [
+        "fluoxetina",
+        "sertralina",
+        "fluvoxamina",
+        "imipramina"
+      ],
+      "correcta": 0,
+      "explicacion": "El material identifica la fluoxetina (Prozac) como ISRS; sertralina y fluvoxamina también son ISRS pero no son el principio activo del Prozac, y la imipramina es un tricíclico."
+    },
+    {
+      "id": "q764",
+      "tema": "Farmacología neuropsíquica",
+      "dificultad": "dificil",
+      "enunciado": "Un antidepresivo bloquea receptores H1, alfa-1 y muscarínicos provocando sequedad de boca, retención urinaria y arritmias. ¿Cuál de los siguientes encaja con ese perfil?",
+      "opciones": [
+        "sertralina",
+        "fluoxetina",
+        "imipramina",
+        "moclobemida"
+      ],
+      "correcta": 2,
+      "explicacion": "La imipramina es un tricíclico, grupo que bloquea H1, alfa-1 y muscarínicos generando efectos anticolinérgicos y cardiovasculares; los ISRS (sertralina, fluoxetina) y el IMAO moclobemida no comparten ese perfil."
+    },
+    {
+      "id": "q765",
+      "tema": "Farmacología neuropsíquica",
+      "dificultad": "medio",
+      "enunciado": "¿Cuál de los siguientes es una benzodiazepina de acción ansiolítica?",
+      "opciones": [
+        "flurazepam",
+        "lormetazepam",
+        "alprazolam",
+        "zolpidem"
+      ],
+      "correcta": 2,
+      "explicacion": "El alprazolam (con diazepam y lorazepam) figura como benzodiazepina ansiolítica; flurazepam, lormetazepam y zolpidem se clasifican como hipnótico-sedantes."
+    },
+    {
+      "id": "q766",
+      "tema": "Farmacología neuropsíquica",
+      "dificultad": "medio",
+      "enunciado": "¿Qué benzodiazepina ansiolítica se cita en el material para el tratamiento del insomnio?",
+      "opciones": [
+        "diazepam",
+        "flurazepam",
+        "lormetazepam",
+        "zolpidem"
+      ],
+      "correcta": 0,
+      "explicacion": "El material indica el diazepam como benzodiazepina ansiolítica empleada en el tratamiento del insomnio; flurazepam, lormetazepam y zolpidem son del grupo hipnótico-sedante."
+    },
+    {
+      "id": "q767",
+      "tema": "Farmacología neuropsíquica",
+      "dificultad": "dificil",
+      "enunciado": "¿Qué benzodiazepina ansiolítica se usa mucho en España como hipnótico en el tratamiento del insomnio?",
+      "opciones": [
+        "alprazolam",
+        "lorazepam",
+        "flurazepam",
+        "lormetazepam"
+      ],
+      "correcta": 1,
+      "explicacion": "El material señala el lorazepam como ansiolítico que en España se utiliza mucho como hipnótico para el insomnio; alprazolam es ansiolítico y flurazepam y lormetazepam son hipnótico-sedantes."
+    },
+    {
+      "id": "q768",
+      "tema": "Farmacología neuropsíquica",
+      "dificultad": "medio",
+      "enunciado": "¿Cuál de los siguientes fármacos antiepilépticos actúa potenciando la inhibición (no bloqueando canales de Na+)?",
+      "opciones": [
+        "carbamazepina",
+        "fenitoína",
+        "ácido valproico",
+        "clorpromazina"
+      ],
+      "correcta": 2,
+      "explicacion": "El ácido valproico se clasifica entre los que potencian la inhibición; carbamazepina y fenitoína bloquean canales de Na+ y la clorpromazina es un antipsicótico."
+    },
+    {
+      "id": "q769",
+      "tema": "Farmacología neuropsíquica",
+      "dificultad": "dificil",
+      "enunciado": "¿Qué fármaco antiepiléptico que potencia la inhibición se asocia de forma característica a trastornos digestivos y aumento de peso?",
+      "opciones": [
+        "fenobarbital",
+        "gabapentina",
+        "ácido valproico",
+        "carbamazepina"
+      ],
+      "correcta": 2,
+      "explicacion": "El material atribuye al ácido valproico trastornos digestivos y aumento de peso; fenobarbital y gabapentina también potencian la inhibición pero con otro perfil y la carbamazepina bloquea canales de Na+."
+    },
+    {
+      "id": "q770",
+      "tema": "Farmacología neuropsíquica",
+      "dificultad": "medio",
+      "enunciado": "Dentro de los antiepilépticos que potencian la inhibición, ¿cuál de los siguientes se incluye en ese grupo?",
+      "opciones": [
+        "fenitoína",
+        "gabapentina",
+        "carbamazepina",
+        "haloperidol"
+      ],
+      "correcta": 1,
+      "explicacion": "La gabapentina figura entre los antiepilépticos que potencian la inhibición; fenitoína y carbamazepina bloquean canales de Na+ y el haloperidol es un antipsicótico."
+    },
+    {
+      "id": "q771",
+      "tema": "Patología musculoesquelética",
+      "dificultad": "medio",
+      "enunciado": "¿Cuál de los siguientes es un inhibidor SELECTIVO de la COX-2?",
+      "opciones": [
+        "ibuprofeno",
+        "celecoxib",
+        "naproxeno",
+        "diclofenaco"
+      ],
+      "correcta": 1,
+      "explicacion": "El celecoxib es el inhibidor selectivo de la COX-2 citado en el material; ibuprofeno, naproxeno y diclofenaco son inhibidores NO selectivos de la COX."
+    },
+    {
+      "id": "q772",
+      "tema": "Patología musculoesquelética",
+      "dificultad": "dificil",
+      "enunciado": "¿Qué fármaco analgésico-antitérmico, sin efecto antiinflamatorio, destaca por su riesgo de agranulocitosis?",
+      "opciones": [
+        "paracetamol",
+        "ibuprofeno",
+        "metamizol (Nolotil)",
+        "naproxeno"
+      ],
+      "correcta": 2,
+      "explicacion": "El metamizol no es antiinflamatorio ni gastrolesivo, pero tiene riesgo de agranulocitosis; el paracetamol comparte el perfil seguro pero su riesgo característico es la hepatotoxicidad, y ibuprofeno y naproxeno sí son antiinflamatorios."
+    },
+    {
+      "id": "q773",
+      "tema": "Patología musculoesquelética",
+      "dificultad": "dificil",
+      "enunciado": "¿Qué opioide se sintetizó intentando mejorar la morfina y resultó tener numerosos problemas de salud?",
+      "opciones": [
+        "metadona",
+        "fentanilo",
+        "buprenorfina",
+        "heroína"
+      ],
+      "correcta": 3,
+      "explicacion": "Según el material, la heroína se sintetizó intentando mejorar la morfina y se obtuvo un fármaco con muchos problemas de salud; los demás son agonistas (puro o parcial) sin esa descripción."
+    },
+    {
+      "id": "q774",
+      "tema": "Patología musculoesquelética",
+      "dificultad": "medio",
+      "enunciado": "Entre los AINE, ¿cuál es el único con efecto antiagregante plaquetario?",
+      "opciones": [
+        "ácido acetilsalicílico (AAS)",
+        "ibuprofeno",
+        "naproxeno",
+        "diclofenaco"
+      ],
+      "correcta": 0,
+      "explicacion": "El material indica que la aspirina (AAS) es el único AINE con efecto antiagregante plaquetario; ibuprofeno, naproxeno y diclofenaco son inhibidores no selectivos de la COX sin esa propiedad destacada."
+    },
+    {
+      "id": "q775",
+      "tema": "Patología musculoesquelética",
+      "dificultad": "medio",
+      "enunciado": "¿Qué opioide se emplea como antidiarreico al actuar sobre los receptores MOR a nivel gastrointestinal sin atravesar la barrera hematoencefálica?",
+      "opciones": [
+        "codeína",
+        "morfina",
+        "loperamida (Fortase)",
+        "naloxona"
+      ],
+      "correcta": 2,
+      "explicacion": "La loperamida no se absorbe bien ni atraviesa la barrera hematoencefálica, por lo que actúa sobre los receptores MOR gastrointestinales y se usa como antidiarreico; la codeína es antitusivo, la morfina analgésico mayor y la naloxona antagonista."
+    },
+    {
+      "id": "q776",
+      "tema": "Patología musculoesquelética",
+      "dificultad": "medio",
+      "enunciado": "¿Qué fármaco se utiliza como antitusivo junto con la codeína?",
+      "opciones": [
+        "loperamida",
+        "dextrometorfano",
+        "fentanilo",
+        "naloxona"
+      ],
+      "correcta": 1,
+      "explicacion": "El material señala la codeína y el dextrometorfano como antitusivos; la loperamida es antidiarreico, el fentanilo un agonista puro analgésico y la naloxona el antagonista/antídoto."
+    },
+    {
+      "id": "q777",
+      "tema": "Corticoides e inmunosupresores",
+      "dificultad": "dificil",
+      "enunciado": "¿Cuál de los siguientes fármacos biológicos tiene como diana terapéutica el CD-20?",
+      "opciones": [
+        "Rituximab",
+        "Infliximab",
+        "Adalimumab",
+        "Etanercept"
+      ],
+      "correcta": 0,
+      "explicacion": "Según la tabla del material, rituximab (quimérico, -ximab) actúa frente a CD-20; infliximab, adalimumab y etanercept tienen como diana el TNF-α."
+    },
+    {
+      "id": "q778",
+      "tema": "Corticoides e inmunosupresores",
+      "dificultad": "dificil",
+      "enunciado": "¿Qué fármaco biológico tiene como diana terapéutica la interleucina-12 (IL-12)?",
+      "opciones": [
+        "Golimumab",
+        "Ustekinumab",
+        "Certolizumab",
+        "Vedolizumab"
+      ],
+      "correcta": 1,
+      "explicacion": "El material indica que ustekinumab (-numab) tiene como diana la IL-12; golimumab y certolizumab actúan sobre TNF-α y vedolizumab sobre la integrina α4β7."
+    },
+    {
+      "id": "q779",
+      "tema": "Corticoides e inmunosupresores",
+      "dificultad": "dificil",
+      "enunciado": "¿Cuál de los siguientes fármacos biológicos actúa sobre la integrina α4β7/MAdCAM-1?",
+      "opciones": [
+        "Tocilizumab",
+        "Adalimumab",
+        "Vedolizumab",
+        "Rituximab"
+      ],
+      "correcta": 2,
+      "explicacion": "En la tabla, vedolizumab tiene como diana la integrina α4β7/MAdCAM-1; tocilizumab actúa sobre IL-6, adalimumab sobre TNF-α y rituximab sobre CD-20."
+    },
+    {
+      "id": "q780",
+      "tema": "Corticoides e inmunosupresores",
+      "dificultad": "medio",
+      "enunciado": "¿Cuál de los siguientes biológicos NO es un anticuerpo monoclonal, sino una proteína de fusión?",
+      "opciones": [
+        "Etanercept",
+        "Infliximab",
+        "Golimumab",
+        "Ustekinumab"
+      ],
+      "correcta": 0,
+      "explicacion": "El material clasifica etanercept (sufijo -cept) como proteína de fusión dirigida frente al TNF-α; los demás son anticuerpos monoclonales (-ximab, -mumab, -numab)."
+    },
+    {
+      "id": "q781",
+      "tema": "Corticoides e inmunosupresores",
+      "dificultad": "medio",
+      "enunciado": "¿Qué fármaco inmunosupresor es un antimetabolito análogo del ácido fólico con estrecho margen terapéutico?",
+      "opciones": [
+        "Metotrexato",
+        "Infliximab",
+        "Dexametasona",
+        "Etanercept"
+      ],
+      "correcta": 0,
+      "explicacion": "El material define el metotrexato como antimetabolito análogo del ácido fólico de estrecho margen terapéutico; los demás son biológicos o un glucocorticoide."
+    },
+    {
+      "id": "q782",
+      "tema": "Corticoides e inmunosupresores",
+      "dificultad": "dificil",
+      "enunciado": "¿Cuál es el único anticuerpo quimérico (-ximab) cuya diana es el TNF-α?",
+      "opciones": [
+        "Rituximab",
+        "Infliximab",
+        "Certolizumab",
+        "Adalimumab"
+      ],
+      "correcta": 1,
+      "explicacion": "Infliximab es el anticuerpo quimérico anti-TNF-α; rituximab también es quimérico pero su diana es CD-20, mientras que certolizumab (humanizado) y adalimumab (humano) no son quiméricos."
+    },
+    {
+      "id": "q783",
+      "tema": "Corticoides e inmunosupresores",
+      "dificultad": "dificil",
+      "enunciado": "¿Cuál es el anticuerpo humanizado (-zumab) dirigido frente al TNF-α?",
+      "opciones": [
+        "Tocilizumab",
+        "Vedolizumab",
+        "Certolizumab",
+        "Infliximab"
+      ],
+      "correcta": 2,
+      "explicacion": "Según la tabla, certolizumab es humanizado y su diana es el TNF-α; tocilizumab (IL-6) y vedolizumab (integrina) son humanizados pero con otras dianas, e infliximab es quimérico."
+    },
+    {
+      "id": "q784",
+      "tema": "Farmacología del apetito",
+      "dificultad": "medio",
+      "enunciado": "¿Qué antiepiléptico produce pérdida de apetito y peso, y además se emplea en el tratamiento de la migraña y el dolor neuropático?",
+      "opciones": [
+        "topiramato",
+        "valproato",
+        "clozapina",
+        "trazodona"
+      ],
+      "correcta": 0,
+      "explicacion": "El material indica que el topiramato produce pérdida de apetito y peso y, además de la epilepsia, se usa en migraña y dolor neuropático. El valproato es el otro antiepiléptico citado, pero aumenta el apetito a dosis elevadas."
+    },
+    {
+      "id": "q785",
+      "tema": "Farmacología del apetito",
+      "dificultad": "dificil",
+      "enunciado": "¿Qué fármaco se utilizó en la obesidad y se suspendió por aumentar el riesgo de infarto e ictus en pacientes hipertensos, además de su baja eficacia?",
+      "opciones": [
+        "clobenzorex",
+        "rimonabant",
+        "sibutramina",
+        "ciproheptadina"
+      ],
+      "correcta": 2,
+      "explicacion": "Según el material, la sibutramina se suspendió por aumentar el riesgo de infarto e ictus en hipertensos y por su baja eficacia. Los distractores también fueron fármacos para la obesidad pero con otros mecanismos/problemas."
+    },
+    {
+      "id": "q786",
+      "tema": "Farmacología del apetito",
+      "dificultad": "dificil",
+      "enunciado": "¿Qué fármaco empleado en la obesidad bloquea los receptores CB1 endocannabinoides, abundantes en el hipotálamo, contrarrestando el efecto del cannabis sobre el apetito?",
+      "opciones": [
+        "sibutramina",
+        "rimonabant",
+        "clobenzorex",
+        "dronabinol"
+      ],
+      "correcta": 1,
+      "explicacion": "El rimonabant bloquea los receptores CB1 endocannabinoides para reducir el apetito. El dronabinol, por el contrario, es agonista de esos receptores y estimula el apetito."
+    },
+    {
+      "id": "q787",
+      "tema": "Farmacología del apetito",
+      "dificultad": "dificil",
+      "enunciado": "¿Qué profármaco empleado en la obesidad se metaboliza en el hígado dando una amina simpaticomimética que actúa en el hipotálamo disminuyendo el apetito, causando insomnio, taquicardia y nerviosismo?",
+      "opciones": [
+        "clobenzorex",
+        "sibutramina",
+        "rimonabant",
+        "metilfenidato"
+      ],
+      "correcta": 0,
+      "explicacion": "El clobenzorex es un profármaco que da un metabolito activo simpaticomimético que reduce el apetito, con insomnio, taquicardia y nerviosismo, y produce tolerancia y farmacodependencia."
+    },
+    {
+      "id": "q788",
+      "tema": "Farmacología del apetito",
+      "dificultad": "medio",
+      "enunciado": "¿Qué psicoestimulante derivado de las anfetaminas sigue utilizándose, en concreto en niños con trastorno por déficit de atención e hiperactividad (TDAH)?",
+      "opciones": [
+        "clobenzorex",
+        "metilfenidato",
+        "sibutramina",
+        "fluoxetina"
+      ],
+      "correcta": 1,
+      "explicacion": "El material señala que, eliminadas la mayoría de anfetaminas, persiste el metilfenidato, usado en niños con TDAH. El clobenzorex era para obesidad y se retiró."
+    },
+    {
+      "id": "q789",
+      "tema": "Farmacología del apetito",
+      "dificultad": "dificil",
+      "enunciado": "¿Qué antipsicótico atípico provoca en la mayoría de pacientes un gran aumento de peso y apetito en poco tiempo, pudiendo causar síndrome metabólico y DM II, lo que limita mucho su uso?",
+      "opciones": [
+        "clozapina",
+        "olanzapina",
+        "clorpromazina",
+        "haloperidol"
+      ],
+      "correcta": 1,
+      "explicacion": "El material atribuye a la olanzapina un gran aumento de peso y apetito con riesgo de síndrome metabólico y DM II. La clozapina, en cambio, produce saciedad por aumento de leptina con uso controlado."
+    },
+    {
+      "id": "q790",
+      "tema": "Farmacología del apetito",
+      "dificultad": "dificil",
+      "enunciado": "¿Qué antipsicótico atípico produce, con uso moderado y controlado, un aumento de leptina que causa sensación de saciedad, aunque su consumo prolongado lleva a aumento de peso?",
+      "opciones": [
+        "olanzapina",
+        "clozapina",
+        "clorpromazina",
+        "aloperidol"
+      ],
+      "correcta": 1,
+      "explicacion": "La clozapina aumenta la leptina (saciedad) con uso controlado, pero su consumo prolongado causa aumento de peso, constituyendo la paradoja descrita. La olanzapina provoca aumento de peso de forma directa."
+    },
+    {
+      "id": "q791",
+      "tema": "Farmacología del apetito",
+      "dificultad": "medio",
+      "enunciado": "¿Qué antipsicótico típico se ha relacionado con la elevación de la ingesta?",
+      "opciones": [
+        "aloperidol",
+        "cloropromacina",
+        "olanzapina",
+        "clozapina"
+      ],
+      "correcta": 1,
+      "explicacion": "El material relaciona la clorpromazina (cloropromacina) con la elevación de la ingesta, mientras que el haloperidol (aloperidol) solo con un leve aumento."
+    },
+    {
+      "id": "q792",
+      "tema": "Farmacología del apetito",
+      "dificultad": "medio",
+      "enunciado": "¿Qué antipsicótico típico se ha relacionado únicamente con un leve aumento de la ingesta?",
+      "opciones": [
+        "aloperidol",
+        "cloropromacina",
+        "olanzapina",
+        "clozapina"
+      ],
+      "correcta": 0,
+      "explicacion": "Según el material, el haloperidol (aloperidol) se relaciona con un leve aumento de la ingesta, frente a la clorpromazina, asociada a una elevación de la ingesta."
+    },
+    {
+      "id": "q793",
+      "tema": "Farmacología del apetito",
+      "dificultad": "medio",
+      "enunciado": "¿Qué antidepresivo (no ISRS) produce disminución del apetito, siendo menos potente que el tetracíclico?",
+      "opciones": [
+        "maprotilina",
+        "venlafaxina",
+        "trazodona",
+        "fluoxetina"
+      ],
+      "correcta": 1,
+      "explicacion": "El material indica que la venlafaxina produce disminución del apetito y es menos potente que el tetracíclico. La maprotilina, en cambio, aumenta el impulso por la ingesta de hidratos de carbono."
+    },
+    {
+      "id": "q794",
+      "tema": "Farmacología del apetito",
+      "dificultad": "medio",
+      "enunciado": "¿Qué fármaco, estructuralmente no benzodiacepínico, se emplea como ansiolítico e hipnosedante por no alterar la conducta alimentaria?",
+      "opciones": [
+        "buspirona",
+        "trazodona",
+        "venlafaxina",
+        "maprotilina"
+      ],
+      "correcta": 0,
+      "explicacion": "La buspirona, sin estructura benzodiacepínica, se usa como ansiolítico precisamente porque no altera la conducta alimentaria; también puede ser anticonvulsionante o miorrelajante."
+    },
+    {
+      "id": "q795",
+      "tema": "Farmacología del apetito",
+      "dificultad": "dificil",
+      "enunciado": "En la caquexia tumoral, ¿qué fármaco es un antihistamínico y antiserotoninérgico que estimula el apetito aumentando la ingesta de alimento?",
+      "opciones": [
+        "dronabinol",
+        "ciproheptadina",
+        "topiramato",
+        "clobenzorex"
+      ],
+      "correcta": 1,
+      "explicacion": "La ciproheptadina es un antihistamínico y antiserotoninérgico que estimula el apetito en la caquexia tumoral. El dronabinol es un cannabinoide agonista, mecanismo distinto."
+    },
+    {
+      "id": "q796",
+      "tema": "Farmacología del apetito",
+      "dificultad": "dificil",
+      "enunciado": "¿Qué antiepiléptico, a dosis moderadas incrementa la leptina y disminuye el apetito, pero a dosis muy elevadas (p. ej. en el tratamiento de la manía) provoca aumento de la ingesta y de peso?",
+      "opciones": [
+        "topiramato",
+        "valproato",
+        "buspirona",
+        "maprotilina"
+      ],
+      "correcta": 1,
+      "explicacion": "El valproato aumenta la leptina y reduce el apetito a dosis moderadas, pero a dosis elevadas produce aumento de la ingesta y peso, paradoja descrita en el material. El topiramato siempre reduce apetito y peso."
+    },
+    {
+      "id": "q797",
+      "tema": "Farmacología del apetito",
+      "dificultad": "dificil",
+      "enunciado": "¿Qué antipsicótico atípico comparte con el valproato la paradoja de inhibir teóricamente el apetito (vía leptina) pero causar aumento de peso en la práctica?",
+      "opciones": [
+        "olanzapina",
+        "clozapina",
+        "clorpromazina",
+        "haloperidol"
+      ],
+      "correcta": 1,
+      "explicacion": "El material señala expresamente la clozapina y el valproato como los dos fármacos que presentan la paradoja de aumentar la leptina (inhibir apetito) y, sin embargo, producir aumento de peso."
+    },
+    {
+      "id": "q798",
+      "tema": "Aparato digestivo",
+      "dificultad": "medio",
+      "enunciado": "¿Cuál de los siguientes fármacos es un inhibidor de la bomba de protones (ATPasa H+/K+)?",
+      "opciones": [
+        "famotidina",
+        "omeprazol",
+        "pirenzepina",
+        "sucralfato"
+      ],
+      "correcta": 1,
+      "explicacion": "El omeprazol es un IBP que bloquea de forma irreversible la salida final del ácido. La famotidina es un antihistamínico H2, la pirenzepina un anticolinérgico y el sucralfato un protector de la mucosa."
+    },
+    {
+      "id": "q799",
+      "tema": "Aparato digestivo",
+      "dificultad": "medio",
+      "enunciado": "¿Qué fármaco es un antihistamínico H2 que destaca por inhibir el CYP-450 y producir efectos antiandrogénicos como ginecomastia e impotencia?",
+      "opciones": [
+        "cimetidina",
+        "lansoprazol",
+        "domperidona",
+        "misoprostol"
+      ],
+      "correcta": 0,
+      "explicacion": "La cimetidina es el antihistamínico H2 que inhibe el CYP-450 (múltiples interacciones) y tiene efectos antiandrogénicos. El lansoprazol es un IBP, la domperidona un antiemético y el misoprostol un protector de la mucosa."
+    },
+    {
+      "id": "q800",
+      "tema": "Aparato digestivo",
+      "dificultad": "dificil",
+      "enunciado": "¿Qué fármaco anticolinérgico bloquea los receptores muscarínicos M3 de la célula parietal y se usa como alternativa en la úlcera duodenal?",
+      "opciones": [
+        "ranitidina",
+        "omeprazol",
+        "pirenzepina",
+        "almagato"
+      ],
+      "correcta": 2,
+      "explicacion": "La pirenzepina es el anticolinérgico representativo que bloquea los receptores M3 de la célula parietal. La ranitidina es un H2, el omeprazol un IBP y el almagato un antiácido."
+    },
+    {
+      "id": "q801",
+      "tema": "Aparato digestivo",
+      "dificultad": "medio",
+      "enunciado": "¿Cuál de los siguientes es un antiácido sistémico, muy absorbible, con riesgo de alcalosis e hipernatremia?",
+      "opciones": [
+        "magaldrato",
+        "bicarbonato sódico",
+        "carbonato cálcico",
+        "sucralfato"
+      ],
+      "correcta": 1,
+      "explicacion": "El bicarbonato sódico es el antiácido sistémico muy absorbible con riesgo de alcalosis e hipernatremia. El magaldrato es un antiácido no sistémico, el carbonato cálcico produce efecto rebote y el sucralfato es protector de la mucosa."
+    },
+    {
+      "id": "q802",
+      "tema": "Aparato digestivo",
+      "dificultad": "dificil",
+      "enunciado": "¿Qué antiácido tiene la máxima capacidad neutralizante pero provoca efecto rebote por estimular la gastrina e hipercalcemia?",
+      "opciones": [
+        "almagato",
+        "carbonato cálcico",
+        "bicarbonato sódico",
+        "magaldrato"
+      ],
+      "correcta": 1,
+      "explicacion": "El carbonato cálcico tiene máxima capacidad neutralizante pero el Ca2+ estimula la gastrina (efecto rebote) y causa hipercalcemia. Los demás son otros antiácidos sin esa característica."
+    },
+    {
+      "id": "q803",
+      "tema": "Aparato digestivo",
+      "dificultad": "medio",
+      "enunciado": "¿Qué protector de la mucosa es un análogo de prostaglandinas eficaz en la profilaxis de úlcera por AINEs, con riesgo de aborto?",
+      "opciones": [
+        "sucralfato",
+        "misoprostol",
+        "sales de bismuto",
+        "almagato"
+      ],
+      "correcta": 1,
+      "explicacion": "El misoprostol es un análogo de prostaglandinas que estimula moco/HCO3- y es eficaz en profilaxis por AINEs, con riesgo de aborto. El sucralfato y las sales de bismuto son protectores con otro mecanismo y el almagato es antiácido."
+    },
+    {
+      "id": "q804",
+      "tema": "Aparato digestivo",
+      "dificultad": "dificil",
+      "enunciado": "¿Qué protector de la mucosa precipita a pH ácido uniéndose a proteínas del tejido necrótico y puede oscurecer las heces?",
+      "opciones": [
+        "sucralfato",
+        "misoprostol",
+        "sales de bismuto",
+        "docusato sódico"
+      ],
+      "correcta": 2,
+      "explicacion": "Las sales de bismuto precipitan a pH ácido, blindan la úlcera contra la pepsina y oscurecen las heces. El sucralfato es sal de aluminio, el misoprostol análogo de prostaglandinas y el docusato un laxante emoliente."
+    },
+    {
+      "id": "q805",
+      "tema": "Aparato digestivo",
+      "dificultad": "medio",
+      "enunciado": "¿Qué fármaco es un antagonista del receptor NK1 (neuroquinina 1) empleado en los vómitos inducidos por citostáticos?",
+      "opciones": [
+        "ondansetrón",
+        "aprepitant",
+        "metoclopramida",
+        "escopolamina"
+      ],
+      "correcta": 1,
+      "explicacion": "El aprepitant es el antagonista del receptor NK1 usado en la quimioterapia. El ondansetrón es antagonista 5-HT3, la metoclopramida bloqueante D2 y la escopolamina antimuscarínico."
+    },
+    {
+      "id": "q806",
+      "tema": "Aparato digestivo",
+      "dificultad": "medio",
+      "enunciado": "¿Cuál de los siguientes es un antagonista serotoninérgico 5-HT3 con alta eficacia antiemética central y periférica?",
+      "opciones": [
+        "domperidona",
+        "granisetrón",
+        "dimenhidrinato",
+        "clebopride"
+      ],
+      "correcta": 1,
+      "explicacion": "El granisetrón es un antagonista 5-HT3, junto con ondansetrón y palonosetrón. La domperidona y la clebopride son bloqueantes D2 y el dimenhidrinato un bloqueante H1/M1."
+    },
+    {
+      "id": "q807",
+      "tema": "Aparato digestivo",
+      "dificultad": "dificil",
+      "enunciado": "¿Qué fármaco es una benzamida bloqueante dopaminérgico D2 utilizada como antiemético?",
+      "opciones": [
+        "palonosetrón",
+        "clebopride",
+        "aprepitant",
+        "escopolamina"
+      ],
+      "correcta": 1,
+      "explicacion": "La clebopride es una benzamida bloqueante D2 (como la metoclopramida). El palonosetrón es 5-HT3, el aprepitant antagonista NK1 y la escopolamina antimuscarínico."
+    },
+    {
+      "id": "q808",
+      "tema": "Aparato digestivo",
+      "dificultad": "medio",
+      "enunciado": "¿Qué fármaco bloqueante H1 y muscarínico M1 está especialmente indicado en la cinetosis?",
+      "opciones": [
+        "ondansetrón",
+        "dimenhidrinato",
+        "metoclopramida",
+        "aprepitant"
+      ],
+      "correcta": 1,
+      "explicacion": "El dimenhidrinato es un bloqueante H1/M1 indicado en la cinetosis, junto con la escopolamina transdérmica. El ondansetrón es 5-HT3, la metoclopramida D2 y el aprepitant NK1."
+    },
+    {
+      "id": "q809",
+      "tema": "Aparato digestivo",
+      "dificultad": "medio",
+      "enunciado": "¿Qué fármaco es el prototipo de los opiáceos antidiarreicos, con efecto antisecretor y que no atraviesa la barrera hematoencefálica?",
+      "opciones": [
+        "codeína",
+        "loperamida",
+        "butilescopolamina",
+        "papaverina"
+      ],
+      "correcta": 1,
+      "explicacion": "La loperamida es el prototipo de los opiáceos antidiarreicos: gran actividad gastrointestinal, no atraviesa la BHE y tiene efecto antisecretor. La codeína también es antidiarreica pero no es el prototipo; papaverina y butilescopolamina son espasmolíticos."
+    },
+    {
+      "id": "q810",
+      "tema": "Aparato digestivo",
+      "dificultad": "dificil",
+      "enunciado": "¿Qué espasmolítico inhibe la fosfodiesterasa, elevando el AMPc e induciendo relajación de la musculatura lisa?",
+      "opciones": [
+        "butilescopolamina",
+        "papaverina",
+        "loperamida",
+        "simeticona"
+      ],
+      "correcta": 1,
+      "explicacion": "La papaverina inhibe la fosfodiesterasa elevando el AMPc. La butilescopolamina es un anticolinérgico, la loperamida un opiáceo antidiarreico y la simeticona un antiflatulento."
+    },
+    {
+      "id": "q811",
+      "tema": "Aparato digestivo",
+      "dificultad": "medio",
+      "enunciado": "¿Qué adyuvante es una dimeticona activada que reduce la tensión superficial de las burbujas de gas, aliviando la flatulencia?",
+      "opciones": [
+        "simeticona",
+        "sucralfato",
+        "glicerol",
+        "lactulosa"
+      ],
+      "correcta": 0,
+      "explicacion": "La simeticona es una dimeticona activada que disgrega las burbujas de gas intestinal. El sucralfato es protector de la mucosa, y glicerol y lactulosa son laxantes."
+    },
+    {
+      "id": "q812",
+      "tema": "Aparato digestivo",
+      "dificultad": "medio",
+      "enunciado": "¿Cuál de los siguientes es un laxante osmótico usado en la encefalopatía hepática por reducir el amoniaco circulante?",
+      "opciones": [
+        "bisacodilo",
+        "lactulosa",
+        "docusato sódico",
+        "Plantago ovata"
+      ],
+      "correcta": 1,
+      "explicacion": "La lactulosa (y el lactitol) es un laxante osmótico que en el colon baja el pH e ioniza el amoniaco, aliviando la hiperamonemia. El bisacodilo es estimulante, el docusato emoliente y el Plantago ovata formador de masa."
+    },
+    {
+      "id": "q813",
+      "tema": "Aparato digestivo",
+      "dificultad": "medio",
+      "enunciado": "¿Qué fármaco es un laxante estimulante por contacto que irrita la mucosa para forzar el peristaltismo, con riesgo de habituación?",
+      "opciones": [
+        "lactitol",
+        "bisacodilo",
+        "docusato sódico",
+        "salvado"
+      ],
+      "correcta": 1,
+      "explicacion": "El bisacodilo es un laxante estimulante por contacto (como el sen y el aceite de ricino). El lactitol es osmótico, el docusato emoliente y el salvado formador de masa."
+    },
+    {
+      "id": "q814",
+      "tema": "Aparato digestivo",
+      "dificultad": "dificil",
+      "enunciado": "¿Qué fármaco es un laxante emoliente o suavizante que actúa como tensioactivo, mezclando los lípidos del bolo fecal con agua?",
+      "opciones": [
+        "sen",
+        "docusato sódico",
+        "lactulosa",
+        "Plantago ovata"
+      ],
+      "correcta": 1,
+      "explicacion": "El docusato sódico (junto con el glicerol) es un laxante emoliente tensioactivo. El sen es estimulante, la lactulosa osmótica y el Plantago ovata formador de masa."
+    },
+    {
+      "id": "q815",
+      "tema": "Aparato digestivo",
+      "dificultad": "medio",
+      "enunciado": "¿Qué fármaco es un laxante formador de masa, un polímero hidrófilo que absorbe agua y aumenta el volumen del bolo fecal?",
+      "opciones": [
+        "Plantago ovata",
+        "bisacodilo",
+        "lactulosa",
+        "docusato sódico"
+      ],
+      "correcta": 0,
+      "explicacion": "El Plantago ovata (y el salvado) es un laxante formador de masa. El bisacodilo es estimulante, la lactulosa osmótica y el docusato emoliente."
+    },
+    {
+      "id": "q816",
+      "tema": "Aparato digestivo",
+      "dificultad": "dificil",
+      "enunciado": "¿Qué fármaco es el aminosalicilato (ácido 5-aminosalicílico) empleado en la enfermedad inflamatoria intestinal que inhibe la 5-lipooxigenasa?",
+      "opciones": [
+        "mesalazina",
+        "misoprostol",
+        "loperamida",
+        "sucralfato"
+      ],
+      "correcta": 0,
+      "explicacion": "La mesalazina (ácido 5-aminosalicílico) es el aminosalicilato usado en la EII que inhibe la 5-lipooxigenasa. Los demás son fármacos digestivos de otros grupos."
+    },
+    {
+      "id": "q817",
+      "tema": "Aparato digestivo",
+      "dificultad": "medio",
+      "enunciado": "¿Qué fármaco es un análogo del GLP-1 que se autorizó a dosis más alta para pacientes con obesidad sin diabetes tipo II?",
+      "opciones": [
+        "exenatida",
+        "liraglutida",
+        "fluoxetina",
+        "metoclopramida"
+      ],
+      "correcta": 1,
+      "explicacion": "La liraglutida es el análogo del GLP-1 usado a dosis más alta en obesidad sin DMII. La exenatida es otro análogo GLP-1 (de la saliva de un lagarto), la fluoxetina trata la bulimia y la metoclopramida es antiemético."
+    },
+    {
+      "id": "q818",
+      "tema": "Aparato digestivo",
+      "dificultad": "dificil",
+      "enunciado": "¿Qué fármaco análogo del GLP-1 se obtuvo a partir de la saliva de un lagarto venenoso y se usa en la DMII y la obesidad?",
+      "opciones": [
+        "liraglutida",
+        "exenatida",
+        "fluoxetina",
+        "topiramato"
+      ],
+      "correcta": 1,
+      "explicacion": "La exenatida es el análogo del GLP-1 obtenido de la saliva de un lagarto venenoso. La liraglutida es otro análogo GLP-1, la fluoxetina un ISRS y el topiramato un antiepiléptico."
+    },
+    {
+      "id": "q819",
+      "tema": "Aparato digestivo",
+      "dificultad": "dificil",
+      "enunciado": "En los moduladores del apetito, ¿qué fármaco ISRS se cita como tratamiento de la bulimia?",
+      "opciones": [
+        "fluoxetina",
+        "liraglutida",
+        "topiramato",
+        "venlafaxina"
+      ],
+      "correcta": 0,
+      "explicacion": "La fluoxetina (ISRS) se cita como tratamiento de la bulimia. La liraglutida trata la obesidad, y topiramato y venlafaxina se asocian a pérdida de peso como efecto secundario."
+    },
+    {
+      "id": "q820",
+      "tema": "Tiroides y diabetes",
+      "dificultad": "medio",
+      "enunciado": "¿Cuál de los siguientes fármacos es un tioureíleno antitiroideo que impide la oxidación, yodación y acoplamiento de las hormonas tiroideas?",
+      "opciones": [
+        "levotiroxina",
+        "carbimazol",
+        "octreotida",
+        "empagliflozina"
+      ],
+      "correcta": 1,
+      "explicacion": "El carbimazol es un tioureíleno (junto al tiamazol/metimazol) que inhibe la oxidación, yodación y acoplamiento. La levotiroxina es reemplazo hormonal, la octreotida es análogo de somatostatina y la empagliflozina es un antidiabético oral."
+    },
+    {
+      "id": "q821",
+      "tema": "Tiroides y diabetes",
+      "dificultad": "dificil",
+      "enunciado": "¿Qué fármaco se administra por inyección intravenosa lenta y se reserva para urgencias como el coma hipotiroideo o mixedematoso por su acción mucho más rápida?",
+      "opciones": [
+        "liotironina",
+        "levotiroxina",
+        "tiroglobulina",
+        "carbimazol"
+      ],
+      "correcta": 0,
+      "explicacion": "La liotironina (T3) se reserva para urgencias como el coma mixedematoso, administrándose por vía IV lenta y con acción rápida. La levotiroxina (T4) es el mantenimiento de elección por vía oral; la tiroglobulina y el carbimazol no se usan en esa urgencia."
+    },
+    {
+      "id": "q822",
+      "tema": "Tiroides y diabetes",
+      "dificultad": "medio",
+      "enunciado": "¿Cuál de los siguientes es un mimético de incretinas administrado por inyección en el tratamiento de la diabetes?",
+      "opciones": [
+        "sitagliptina",
+        "acarbosa",
+        "semaglutida",
+        "glibenclamida"
+      ],
+      "correcta": 2,
+      "explicacion": "La semaglutida es un mimético de incretinas inyectable (como exenatida y liraglutida). La sitagliptina (gliptina), la acarbosa (inhibidor de alfa-glucosidasas) y la glibenclamida (sulfonilurea) son antidiabéticos orales."
+    },
+    {
+      "id": "q823",
+      "tema": "Tiroides y diabetes",
+      "dificultad": "medio",
+      "enunciado": "¿Qué fármaco oral es un agonista del receptor nuclear PPAR que actúa como sensibilizador a la acción de la insulina?",
+      "opciones": [
+        "metformina",
+        "pioglitazona",
+        "repaglinida",
+        "acarbosa"
+      ],
+      "correcta": 1,
+      "explicacion": "La pioglitazona es una tiazolidinediona (glitazona), agonista de PPAR y sensibilizadora a la insulina. La metformina es una biguanida, la repaglinida un secretagogo relacionado con sulfonilureas y la acarbosa un inhibidor de alfa-glucosidasas."
+    },
+    {
+      "id": "q824",
+      "tema": "Tiroides y diabetes",
+      "dificultad": "dificil",
+      "enunciado": "¿Cuál de los siguientes fármacos orales es un inhibidor de las alfa-glucosidasas?",
+      "opciones": [
+        "glipizida",
+        "acarbosa",
+        "empagliflozina",
+        "pioglitazona"
+      ],
+      "correcta": 1,
+      "explicacion": "La acarbosa es el inhibidor de alfa-glucosidasas citado en el material. La glipizida es sulfonilurea, la empagliflozina un inhibidor de SGLT2 y la pioglitazona una glitazona."
+    },
+    {
+      "id": "q825",
+      "tema": "Tiroides y diabetes",
+      "dificultad": "medio",
+      "enunciado": "¿Cuál de los siguientes antidiabéticos orales es una gliptina?",
+      "opciones": [
+        "sitagliptina",
+        "glibenclamida",
+        "repaglinida",
+        "metformina"
+      ],
+      "correcta": 0,
+      "explicacion": "La sitagliptina es la gliptina mencionada en el material. La glibenclamida es sulfonilurea, la repaglinida un fármaco relacionado y la metformina una biguanida."
+    },
+    {
+      "id": "q826",
+      "tema": "Tiroides y diabetes",
+      "dificultad": "facil",
+      "enunciado": "¿Cuál de los siguientes fármacos es una sulfonilurea?",
+      "opciones": [
+        "metformina",
+        "pioglitazona",
+        "glibenclamida",
+        "acarbosa"
+      ],
+      "correcta": 2,
+      "explicacion": "La glibenclamida (junto a la glipizida) es una sulfonilurea. La metformina es biguanida, la pioglitazona glitazona y la acarbosa inhibidor de alfa-glucosidasas."
+    },
+    {
+      "id": "q827",
+      "tema": "Tiroides y diabetes",
+      "dificultad": "medio",
+      "enunciado": "¿Cuál de las siguientes insulinas es un análogo de acción rápida, con comienzo a los 5-15 minutos y eliminación rápida?",
+      "opciones": [
+        "glargina",
+        "detemir",
+        "lispro",
+        "degludec"
+      ],
+      "correcta": 2,
+      "explicacion": "La lispro (como aspart y glulisina) es un análogo rápido con inicio a los 5-15 min. Glargina, detemir y degludec son análogos de acción prolongada con liberación sin picos."
+    },
+    {
+      "id": "q828",
+      "tema": "Tiroides y diabetes",
+      "dificultad": "medio",
+      "enunciado": "¿Cuál de las siguientes insulinas es un análogo de acción prolongada con liberación sin picos que reduce las hipoglucemias nocturnas?",
+      "opciones": [
+        "aspart",
+        "glulisina",
+        "lispro",
+        "degludec"
+      ],
+      "correcta": 3,
+      "explicacion": "La degludec (como glargina y detemir) es un análogo de acción prolongada con liberación sin picos. Aspart, glulisina y lispro son análogos de acción rápida."
+    },
+    {
+      "id": "q829",
+      "tema": "Tiroides y diabetes",
+      "dificultad": "dificil",
+      "enunciado": "¿Cuál es el análogo sintético de la somatostatina que actúa como inhibidor global del eje intestino-páncreas?",
+      "opciones": [
+        "exenatida",
+        "octreotida",
+        "liraglutida",
+        "repaglinida"
+      ],
+      "correcta": 1,
+      "explicacion": "La octreotida es el análogo de somatostatina que inhibe la liberación de insulina, glucagón y hormona del crecimiento. Exenatida y liraglutida son miméticos de incretinas y la repaglinida un secretagogo."
+    },
+    {
+      "id": "q830",
+      "tema": "Tiroides y diabetes",
+      "dificultad": "dificil",
+      "enunciado": "En el tratamiento del hipertiroidismo, ¿qué fármaco se concentra en el tiroides y emite partículas beta con efecto citotóxico local, usándose en recidivas o fracaso quirúrgico?",
+      "opciones": [
+        "radioyodo (131I)",
+        "tiamazol",
+        "levotiroxina",
+        "amiodarona"
+      ],
+      "correcta": 0,
+      "explicacion": "El radioyodo (131I) se concentra en el tiroides y emite partículas beta con efecto citotóxico local. El tiamazol es un tioureíleno, la levotiroxina reemplazo hormonal y la amiodarona puede provocar hipertiroidismo."
+    },
+    {
+      "id": "q831",
+      "tema": "Tiroides y diabetes",
+      "dificultad": "dificil",
+      "enunciado": "En un paciente que ha perdido la consciencia por hipoglucemia, ¿qué fármaco se administra por vía intramuscular como alternativa a la glucosa?",
+      "opciones": [
+        "insulina",
+        "octreotida",
+        "glucagón",
+        "metformina"
+      ],
+      "correcta": 2,
+      "explicacion": "El glucagón intramuscular es la alternativa en la hipoglucemia con pérdida de consciencia. La insulina la agravaría, la octreotida inhibe el eje pancreático y la metformina no se usa en la urgencia hipoglucémica."
+    },
+    {
+      "id": "q832",
+      "tema": "Tiroides y diabetes",
+      "dificultad": "medio",
+      "enunciado": "¿Cuál de los siguientes es un medio de contraste rico en yodo que puede provocar hipertiroidismo?",
+      "opciones": [
+        "ácido yopanoico",
+        "yodo de Lugol",
+        "liotironina",
+        "carbimazol"
+      ],
+      "correcta": 0,
+      "explicacion": "El ácido yopanoico es un medio de contraste que, como la amiodarona, puede provocar hipertiroidismo. El yodo de Lugol y el carbimazol se usan para tratar el hipertiroidismo y la liotironina es T3."
+    },
+    {
+      "id": "q833",
+      "tema": "Tiroides y diabetes",
+      "dificultad": "dificil",
+      "enunciado": "¿Cuál de los siguientes antidiabéticos orales reduce la gluconeogénesis hepática, aumenta la captación de glucosa y NO produce hipoglucemia, pudiendo causar acidosis láctica?",
+      "opciones": [
+        "glibenclamida",
+        "metformina",
+        "repaglinida",
+        "sitagliptina"
+      ],
+      "correcta": 1,
+      "explicacion": "La metformina (biguanida) reduce la gluconeogénesis hepática, no produce hipoglucemia y puede causar acidosis láctica. La glibenclamida y la repaglinida son secretagogos que sí pueden causar hipoglucemia, y la sitagliptina es una gliptina."
+    },
+    {
+      "id": "q834",
+      "tema": "Tiroides y diabetes",
+      "dificultad": "medio",
+      "enunciado": "¿Cuál de las siguientes es una insulina de perfil intermedio?",
+      "opciones": [
+        "glulisina",
+        "insulina isofánica (Zn-protamina)",
+        "glargina",
+        "aspart"
+      ],
+      "correcta": 1,
+      "explicacion": "La insulina isofánica (Zn-protamina) o Zn-cristalina tiene un perfil de acción intermedio. La glulisina y la aspart son análogos rápidos y la glargina es de acción prolongada."
+    },
+    {
+      "id": "q835",
+      "tema": "Tiroides y diabetes",
+      "dificultad": "medio",
+      "enunciado": "¿Cuál de los siguientes es un mimético de incretinas inyectable distinto de la exenatida y la semaglutida?",
+      "opciones": [
+        "liraglutida",
+        "empagliflozina",
+        "glipizida",
+        "acarbosa"
+      ],
+      "correcta": 0,
+      "explicacion": "La liraglutida es un mimético de incretinas inyectable junto a exenatida y semaglutida. La empagliflozina (SGLT2), la glipizida (sulfonilurea) y la acarbosa (alfa-glucosidasas) son orales."
+    },
+    {
+      "id": "q836",
+      "tema": "Tiroides y diabetes",
+      "dificultad": "medio",
+      "enunciado": "¿Cuál de los siguientes es un fármaco antitiroideo de tipo tioureíleno, también conocido como metimazol?",
+      "opciones": [
+        "carbimazol",
+        "tiamazol",
+        "levotiroxina",
+        "tiroglobulina"
+      ],
+      "correcta": 1,
+      "explicacion": "El tiamazol es el tioureíleno también denominado metimazol. El carbimazol es otro tioureíleno (no es el metimazol), y la levotiroxina y la tiroglobulina son terapia de reemplazo."
+    },
+    {
+      "id": "q837",
+      "tema": "Farmacología cardiovascular",
+      "dificultad": "medio",
+      "enunciado": "¿Cuál de los siguientes es un diurético del asa que actúa inhibiendo el cotransportador Na⁺/K⁺/2Cl⁻?",
+      "opciones": [
+        "espironolactona",
+        "furosemida",
+        "hidroclorotiazida",
+        "losartán"
+      ],
+      "correcta": 1,
+      "explicacion": "La furosemida es el prototipo de los diuréticos del asa y actúa en el asa de Henle sobre el cotransportador Na⁺/K⁺/2Cl⁻. La hidroclorotiazida es una tiazida y la espironolactona un ahorrador de potasio."
+    },
+    {
+      "id": "q838",
+      "tema": "Farmacología cardiovascular",
+      "dificultad": "medio",
+      "enunciado": "¿Qué fármaco es un diurético tiazídico cuya reacción adversa particular es la hipercalcemia?",
+      "opciones": [
+        "furosemida",
+        "espironolactona",
+        "hidroclorotiazida",
+        "enalapril"
+      ],
+      "correcta": 2,
+      "explicacion": "La hidroclorotiazida es el ejemplo de tiazida y, a diferencia de los diuréticos del asa, añade la hipercalcemia entre sus reacciones adversas."
+    },
+    {
+      "id": "q839",
+      "tema": "Farmacología cardiovascular",
+      "dificultad": "medio",
+      "enunciado": "¿Cuál de los siguientes diuréticos actúa por antagonismo de la aldosterona y puede producir hiperpotasemia?",
+      "opciones": [
+        "espironolactona",
+        "furosemida",
+        "hidroclorotiazida",
+        "verapamilo"
+      ],
+      "correcta": 0,
+      "explicacion": "La espironolactona es el prototipo de los ahorradores de potasio, actúa en el túbulo colector antagonizando la aldosterona y su reacción adversa crítica es la hiperpotasemia."
+    },
+    {
+      "id": "q840",
+      "tema": "Farmacología cardiovascular",
+      "dificultad": "dificil",
+      "enunciado": "¿Cuál de los siguientes bloqueantes beta-adrenérgicos es cardioselectivo (β1), reduciendo las reacciones adversas en asmáticos y diabéticos?",
+      "opciones": [
+        "propranolol",
+        "carvedilol",
+        "bisoprolol",
+        "nitroglicerina"
+      ],
+      "correcta": 2,
+      "explicacion": "El bisoprolol (como el atenolol) es cardioselectivo β1, lo que reduce reacciones adversas en asmáticos y diabéticos. El propranolol y el carvedilol no son cardioselectivos."
+    },
+    {
+      "id": "q841",
+      "tema": "Farmacología cardiovascular",
+      "dificultad": "medio",
+      "enunciado": "¿Qué fármaco es un IECA que inhibe la enzima convertidora de angiotensina?",
+      "opciones": [
+        "losartán",
+        "enalapril",
+        "valsartán",
+        "furosemida"
+      ],
+      "correcta": 1,
+      "explicacion": "El enalapril (como captopril y lisinopril) es un IECA que inhibe la enzima convertidora de angiotensina. El losartán y el valsartán son ARA II."
+    },
+    {
+      "id": "q842",
+      "tema": "Farmacología cardiovascular",
+      "dificultad": "medio",
+      "enunciado": "¿Cuál de los siguientes es un ARA II, antagonista competitivo directo del receptor de la angiotensina II?",
+      "opciones": [
+        "captopril",
+        "lisinopril",
+        "losartán",
+        "atenolol"
+      ],
+      "correcta": 2,
+      "explicacion": "El losartán (como el valsartán) es un ARA II que bloquea directamente el receptor de angiotensina II. El captopril y el lisinopril son IECA."
+    },
+    {
+      "id": "q843",
+      "tema": "Farmacología cardiovascular",
+      "dificultad": "dificil",
+      "enunciado": "Un paciente con angina precisa un fármaco que, por su acción vasodilatadora venosa y coronaria, sirva tanto para la profilaxis como para el tratamiento agudo. ¿Cuál es?",
+      "opciones": [
+        "nitroglicerina",
+        "atenolol",
+        "verapamilo",
+        "furosemida"
+      ],
+      "correcta": 0,
+      "explicacion": "La nitroglicerina es el nitrato prototipo; disminuye el Ca²⁺ citosólico produciendo vasodilatación venosa y coronaria, útil en profilaxis y tratamiento agudo de la angina."
+    },
+    {
+      "id": "q844",
+      "tema": "Farmacología cardiovascular",
+      "dificultad": "dificil",
+      "enunciado": "¿Cuál de los siguientes es un antagonista del calcio empleado como antianginoso de doble acción?",
+      "opciones": [
+        "propranolol",
+        "verapamilo",
+        "enalapril",
+        "nitroglicerina"
+      ],
+      "correcta": 1,
+      "explicacion": "El verapamilo (junto con el diltiazem y las dihidropiridinas) es un antagonista del calcio que bloquea la entrada de Ca²⁺, con vasodilatación coronaria y periférica (doble acción)."
+    },
+    {
+      "id": "q845",
+      "tema": "Farmacología cardiovascular",
+      "dificultad": "medio",
+      "enunciado": "¿Cuál de los siguientes fármacos es una heparina de bajo peso molecular (HBPM) de administración subcutánea?",
+      "opciones": [
+        "acenocumarol",
+        "enoxaparina",
+        "dabigatrán",
+        "warfarina"
+      ],
+      "correcta": 1,
+      "explicacion": "La enoxaparina (como bemiparina y tinzaparina) es una HBPM de administración subcutánea. El acenocumarol y la warfarina son antivitamina K orales y el dabigatrán es un ACOD."
+    },
+    {
+      "id": "q846",
+      "tema": "Farmacología cardiovascular",
+      "dificultad": "medio",
+      "enunciado": "¿Qué anticoagulante oral es un antivitamina K que inhibe los factores II, VII, IX y X y requiere control mediante INR?",
+      "opciones": [
+        "rivaroxabán",
+        "dabigatrán",
+        "acenocumarol",
+        "enoxaparina"
+      ],
+      "correcta": 2,
+      "explicacion": "El acenocumarol (Sintrom®), como la warfarina, es un antivitamina K que inhibe los factores dependientes de vitamina K (II, VII, IX, X) y precisa control por INR."
+    },
+    {
+      "id": "q847",
+      "tema": "Farmacología cardiovascular",
+      "dificultad": "dificil",
+      "enunciado": "¿Cuál de los siguientes ACOD es un inhibidor directo del factor II (trombina) cuyo antídoto específico es el idarucizumab?",
+      "opciones": [
+        "rivaroxabán",
+        "apixabán",
+        "dabigatrán",
+        "edoxabán"
+      ],
+      "correcta": 2,
+      "explicacion": "El dabigatrán (Pradaxa®) inhibe directamente el factor II (trombina) y su antídoto específico es el idarucizumab. Rivaroxabán, apixabán y edoxabán son inhibidores del factor Xa."
+    },
+    {
+      "id": "q848",
+      "tema": "Farmacología cardiovascular",
+      "dificultad": "dificil",
+      "enunciado": "¿Cuál de los siguientes anticoagulantes orales de acción directa es un inhibidor del factor Xa?",
+      "opciones": [
+        "dabigatrán",
+        "rivaroxabán",
+        "acenocumarol",
+        "warfarina"
+      ],
+      "correcta": 1,
+      "explicacion": "El rivaroxabán (Xarelto®), como apixabán y edoxabán, inhibe el factor Xa. El dabigatrán inhibe la trombina (IIa) y el acenocumarol y la warfarina son antivitamina K."
+    },
+    {
+      "id": "q849",
+      "tema": "Farmacología cardiovascular",
+      "dificultad": "medio",
+      "enunciado": "En la hipertensión arterial con actividad adrenérgica aumentada y situación post-infarto, ¿cuál de estos fármacos es un bloqueante beta de primera línea?",
+      "opciones": [
+        "losartán",
+        "propranolol",
+        "hidroclorotiazida",
+        "verapamilo"
+      ],
+      "correcta": 1,
+      "explicacion": "El propranolol es un bloqueante beta-adrenérgico, fármacos de primera línea en HTA con actividad adrenérgica aumentada, cardiopatía isquémica y post-infarto. Los demás pertenecen a otros grupos (ARA II, tiazida, calcioantagonista)."
+    },
+    {
+      "id": "q850",
+      "tema": "Farmacología cardiovascular",
+      "dificultad": "dificil",
+      "enunciado": "¿Cuál de los siguientes IECA puede producir tos seca persistente y angioedema por acumulación de bradicinina?",
+      "opciones": [
+        "valsartán",
+        "losartán",
+        "captopril",
+        "bisoprolol"
+      ],
+      "correcta": 2,
+      "explicacion": "El captopril es un IECA; los IECA acumulan bradicinina, lo que causa tos seca persistente y angioedema. Losartán y valsartán son ARA II y no producen tos."
+    },
+    {
+      "id": "q851",
+      "tema": "Hipolipemiantes y antigotosos",
+      "dificultad": "facil",
+      "enunciado": "¿Cuál de los siguientes fármacos es un inhibidor de la HMG-CoA reductasa (estatina)?",
+      "opciones": [
+        "fenofibrato",
+        "atorvastatina",
+        "colestiramina",
+        "ezetimiba"
+      ],
+      "correcta": 1,
+      "explicacion": "La atorvastatina es una estatina que inhibe la HMG-CoA reductasa; los distractores son un fibrato, una resina y un inhibidor de la absorción de colesterol."
+    },
+    {
+      "id": "q852",
+      "tema": "Hipolipemiantes y antigotosos",
+      "dificultad": "medio",
+      "enunciado": "¿Qué fármaco actúa activando la lipoproteína lipasa, aumentando el catabolismo de las VLDL?",
+      "opciones": [
+        "gemfibrozilo",
+        "simvastatina",
+        "colestiramina",
+        "colchicina"
+      ],
+      "correcta": 0,
+      "explicacion": "El gemfibrozilo es un fibrato cuyo mecanismo principal es la activación de la lipoproteína lipasa; los demás son una estatina, una resina y un antigotoso."
+    },
+    {
+      "id": "q853",
+      "tema": "Hipolipemiantes y antigotosos",
+      "dificultad": "medio",
+      "enunciado": "¿Cuál de los siguientes fármacos secuestra los ácidos biliares en el intestino impidiendo su reabsorción enterohepática?",
+      "opciones": [
+        "ezetimiba",
+        "pravastatina",
+        "colestiramina",
+        "bezafibrato"
+      ],
+      "correcta": 2,
+      "explicacion": "La colestiramina es una resina que secuestra los ácidos biliares; la ezetimiba inhibe el transportador NPC1L1, y los otros son una estatina y un fibrato."
+    },
+    {
+      "id": "q854",
+      "tema": "Hipolipemiantes y antigotosos",
+      "dificultad": "medio",
+      "enunciado": "¿Qué fármaco inhibe la absorción intestinal de colesterol a través del transportador NPC1L1 sin afectar a las vitaminas liposolubles?",
+      "opciones": [
+        "colestiramina",
+        "ezetimiba",
+        "lovastatina",
+        "clofibrato"
+      ],
+      "correcta": 1,
+      "explicacion": "La ezetimiba actúa sobre el transportador NPC1L1 sin interferir con las vitaminas liposolubles, a diferencia de la colestiramina (resina) que sí las afecta."
+    },
+    {
+      "id": "q855",
+      "tema": "Hipolipemiantes y antigotosos",
+      "dificultad": "medio",
+      "enunciado": "¿Cuál de los siguientes fármacos es un alcaloide derivado del Colchicum autumnale usado en el ataque agudo de gota?",
+      "opciones": [
+        "fenofibrato",
+        "atorvastatina",
+        "colchicina",
+        "ezetimiba"
+      ],
+      "correcta": 2,
+      "explicacion": "La colchicina es el alcaloide del Colchicum autumnale que bloquea la diapédesis de leucocitos en el ataque agudo de gota; los distractores son hipolipemiantes."
+    },
+    {
+      "id": "q856",
+      "tema": "Hipolipemiantes y antigotosos",
+      "dificultad": "dificil",
+      "enunciado": "¿Qué fármaco hipolipemiante debe administrarse con la cena para respetar el ritmo circadiano de la síntesis de colesterol?",
+      "opciones": [
+        "gemfibrozilo",
+        "simvastatina",
+        "colestiramina",
+        "ezetimiba"
+      ],
+      "correcta": 1,
+      "explicacion": "Las estatinas como la simvastatina se administran con la cena por el ritmo circadiano de síntesis del colesterol; los distractores no comparten esa pauta."
+    },
+    {
+      "id": "q857",
+      "tema": "Hipolipemiantes y antigotosos",
+      "dificultad": "dificil",
+      "enunciado": "Una mujer embarazada no debe tomar cierto hipolipemiante por su carácter teratógeno. ¿De cuál se trata?",
+      "opciones": [
+        "lovastatina",
+        "colestiramina",
+        "fenofibrato",
+        "ezetimiba"
+      ],
+      "correcta": 0,
+      "explicacion": "Las estatinas como la lovastatina están contraindicadas en el embarazo por ser teratógenas; los otros fármacos no se citan con esa contraindicación."
+    },
+    {
+      "id": "q858",
+      "tema": "Hipolipemiantes y antigotosos",
+      "dificultad": "dificil",
+      "enunciado": "¿Cuál de estos fármacos no debe tomarse con zumo de pomelo porque este inhibe su metabolismo?",
+      "opciones": [
+        "colchicina",
+        "fenofibrato",
+        "fluvastatina",
+        "colestiramina"
+      ],
+      "correcta": 2,
+      "explicacion": "Las estatinas como la fluvastatina no deben consumirse con zumo de pomelo, que inhibe su metabolismo; los distractores no presentan esa interacción descrita."
+    },
+    {
+      "id": "q859",
+      "tema": "Hipolipemiantes y antigotosos",
+      "dificultad": "medio",
+      "enunciado": "¿Qué fármaco se considera el estándar de oro en el tratamiento de las dislipemias?",
+      "opciones": [
+        "colestiramina",
+        "pravastatina",
+        "clofibrato",
+        "ezetimiba"
+      ],
+      "correcta": 1,
+      "explicacion": "Las estatinas, como la pravastatina, son el estándar de oro en el tratamiento de las dislipemias; los demás son una resina, un fibrato y un inhibidor de absorción."
+    },
+    {
+      "id": "q860",
+      "tema": "Hipolipemiantes y antigotosos",
+      "dificultad": "dificil",
+      "enunciado": "¿Cuál de los siguientes fármacos aumenta el riesgo de cálculos biliares y pancreatitis como reacción adversa característica?",
+      "opciones": [
+        "atorvastatina",
+        "colestiramina",
+        "bezafibrato",
+        "colchicina"
+      ],
+      "correcta": 2,
+      "explicacion": "Los fibratos como el bezafibrato aumentan el riesgo de cálculos biliares y pancreatitis; ese efecto no se atribuye a la estatina, la resina ni la colchicina."
+    },
+    {
+      "id": "q861",
+      "tema": "Hipolipemiantes y antigotosos",
+      "dificultad": "dificil",
+      "enunciado": "¿Qué fármaco interfiere en la absorción de las vitaminas liposolubles A, D, E y K y del ácido fólico?",
+      "opciones": [
+        "ezetimiba",
+        "colestiramina",
+        "simvastatina",
+        "fenofibrato"
+      ],
+      "correcta": 1,
+      "explicacion": "La colestiramina (resina) interfiere en la absorción de vitaminas liposolubles A, D, E, K y ácido fólico; la ezetimiba, en cambio, no las afecta."
+    },
+    {
+      "id": "q862",
+      "tema": "Hipolipemiantes y antigotosos",
+      "dificultad": "medio",
+      "enunciado": "¿Qué fármaco resulta útil para el tratamiento del prurito en las hepatopatías biliares además de su acción hipolipemiante?",
+      "opciones": [
+        "colestiramina",
+        "atorvastatina",
+        "gemfibrozilo",
+        "ezetimiba"
+      ],
+      "correcta": 0,
+      "explicacion": "La colestiramina, al secuestrar ácidos biliares, es útil para el prurito en hepatopatías biliares; los distractores no tienen esa indicación digestiva."
+    },
+    {
+      "id": "q863",
+      "tema": "Hipolipemiantes y antigotosos",
+      "dificultad": "facil",
+      "enunciado": "¿Cuál de los siguientes fármacos es un derivado del ácido fíbrico de elección en la hipertrigliceridemia?",
+      "opciones": [
+        "pravastatina",
+        "fenofibrato",
+        "colestiramina",
+        "colchicina"
+      ],
+      "correcta": 1,
+      "explicacion": "El fenofibrato es un fibrato (derivado del ácido fíbrico), fármaco de elección en la hipertrigliceridemia (tipos III y IV); los demás no son fibratos."
+    },
+    {
+      "id": "q864",
+      "tema": "Hipolipemiantes y antigotosos",
+      "dificultad": "dificil",
+      "enunciado": "¿Qué fármaco antigotoso actúa asociándose a las proteínas microtubulares para bloquear la migración (diapédesis) de los leucocitos?",
+      "opciones": [
+        "colchicina",
+        "ezetimiba",
+        "clofibrato",
+        "fluvastatina"
+      ],
+      "correcta": 0,
+      "explicacion": "La colchicina se une a las proteínas microtubulares e impide la diapédesis de leucocitos hacia la articulación inflamada; los distractores son hipolipemiantes."
+    },
+    {
+      "id": "q865",
+      "tema": "Hipolipemiantes y antigotosos",
+      "dificultad": "dificil",
+      "enunciado": "En una dislipemia, ¿cuál de estos fármacos secuestrantes hace que el hígado consuma más colesterol plasmático para sintetizar de nuevo ácidos biliares?",
+      "opciones": [
+        "ezetimiba",
+        "simvastatina",
+        "colestiramina",
+        "gemfibrozilo"
+      ],
+      "correcta": 2,
+      "explicacion": "La colestiramina, al impedir la reabsorción de ácidos biliares, obliga al hígado a consumir colesterol plasmático para resintetizarlos, descendiendo el cLDL."
+    },
+    {
+      "id": "q866",
+      "tema": "Hipolipemiantes y antigotosos",
+      "dificultad": "medio",
+      "enunciado": "¿Cuál de los siguientes es un fibrato cuyo nombre deriva de su origen en el ácido fíbrico?",
+      "opciones": [
+        "fluvastatina",
+        "binifibrato",
+        "colestiramina",
+        "ezetimiba"
+      ],
+      "correcta": 1,
+      "explicacion": "El binifibrato es uno de los fibratos (derivados del ácido fíbrico) citados en el material; los distractores son una estatina, una resina y un inhibidor de absorción."
+    },
+    {
+      "id": "q867",
+      "tema": "Antiinfecciosos",
+      "dificultad": "medio",
+      "enunciado": "¿Cuál de los siguientes fármacos es una cefalosporina dentro de los β-lactámicos?",
+      "opciones": [
+        "amoxicilina",
+        "ceftriaxona",
+        "imipenem",
+        "aztreonam"
+      ],
+      "correcta": 1,
+      "explicacion": "El material clasifica la ceftriaxona entre las cefalosporinas; amoxicilina es una penicilina, imipenem un carbapenem y aztreonam un monobactámico."
+    },
+    {
+      "id": "q868",
+      "tema": "Antiinfecciosos",
+      "dificultad": "medio",
+      "enunciado": "¿Cuál de los siguientes es un macrólido?",
+      "opciones": [
+        "doxiciclina",
+        "claritromicina",
+        "ciprofloxacino",
+        "gentamicina"
+      ],
+      "correcta": 1,
+      "explicacion": "Según el material, los macrólidos incluyen claritromicina; doxiciclina es tetraciclina, ciprofloxacino quinolona y gentamicina aminoglucósido."
+    },
+    {
+      "id": "q869",
+      "tema": "Antiinfecciosos",
+      "dificultad": "medio",
+      "enunciado": "¿Qué fármaco es un aminoglucósido que se administra solo por vía parenteral o tópica y se reserva para infecciones graves?",
+      "opciones": [
+        "amikacina",
+        "azitromicina",
+        "minociclina",
+        "levofloxacino"
+      ],
+      "correcta": 0,
+      "explicacion": "El material incluye amikacina entre los aminoglucósidos (vía parenteral/tópica, infecciones graves); azitromicina es macrólido, minociclina tetraciclina y levofloxacino quinolona."
+    },
+    {
+      "id": "q870",
+      "tema": "Antiinfecciosos",
+      "dificultad": "dificil",
+      "enunciado": "¿Cuál de los siguientes antibióticos conlleva un riesgo característico de rotura del tendón de Aquiles?",
+      "opciones": [
+        "eritromicina",
+        "tetraciclina",
+        "moxifloxacino",
+        "cefuroxima"
+      ],
+      "correcta": 2,
+      "explicacion": "El riesgo de rotura del tendón de Aquiles es una reacción adversa de las quinolonas, grupo al que pertenece moxifloxacino; los demás son macrólido, tetraciclina y cefalosporina."
+    },
+    {
+      "id": "q871",
+      "tema": "Antiinfecciosos",
+      "dificultad": "medio",
+      "enunciado": "¿Qué antibiótico puede causar coloración permanente de huesos y dientes, por lo que está contraindicado en niños y embarazadas?",
+      "opciones": [
+        "doxiciclina",
+        "norfloxacino",
+        "claritromicina",
+        "tobramicina"
+      ],
+      "correcta": 0,
+      "explicacion": "Las tetraciclinas, como doxiciclina, se acumulan en huesos y dientes causando coloración permanente; norfloxacino es quinolona, claritromicina macrólido y tobramicina aminoglucósido."
+    },
+    {
+      "id": "q872",
+      "tema": "Antiinfecciosos",
+      "dificultad": "dificil",
+      "enunciado": "¿Cuál de los siguientes antibióticos produce ototoxicidad irreversible (sordera y vértigo) y nefrotoxicidad?",
+      "opciones": [
+        "azitromicina",
+        "gentamicina",
+        "sulfadiazina",
+        "penicilina G"
+      ],
+      "correcta": 1,
+      "explicacion": "La oto y nefrotoxicidad son reacciones adversas características de los aminoglucósidos, como gentamicina; los demás son macrólido, sulfamida y penicilina."
+    },
+    {
+      "id": "q873",
+      "tema": "Antiinfecciosos",
+      "dificultad": "medio",
+      "enunciado": "¿Qué fármaco produce un importante efecto antabús con el alcohol y alteraciones del gusto?",
+      "opciones": [
+        "linezolid",
+        "clindamicina",
+        "metronidazol",
+        "ertapenem"
+      ],
+      "correcta": 2,
+      "explicacion": "El material señala que el metronidazol produce alteraciones del gusto y un importante efecto antabús con el alcohol; linezolid da la reacción del queso, clindamicina colitis pseudomembranosa y ertapenem es un carbapenem."
+    },
+    {
+      "id": "q874",
+      "tema": "Antiinfecciosos",
+      "dificultad": "dificil",
+      "enunciado": "¿Qué antibiótico tiene actividad IMAO y, por ello, interacciona con la tiramina ('reacción del queso')?",
+      "opciones": [
+        "linezolid",
+        "metronidazol",
+        "clindamicina",
+        "espiramicina"
+      ],
+      "correcta": 0,
+      "explicacion": "El material indica que el linezolid tiene actividad IMAO e interacciona con la tiramina; metronidazol da efecto antabús, clindamicina colitis pseudomembranosa y espiramicina es macrólido."
+    },
+    {
+      "id": "q875",
+      "tema": "Antiinfecciosos",
+      "dificultad": "medio",
+      "enunciado": "¿Cuál de los siguientes es un inhibidor de β-lactamasas?",
+      "opciones": [
+        "piperacilina",
+        "ácido clavulánico",
+        "cefepima",
+        "meropenem"
+      ],
+      "correcta": 1,
+      "explicacion": "El material clasifica el ácido clavulánico entre los inhibidores de β-lactamasas; piperacilina es penicilina, cefepima cefalosporina y meropenem carbapenem."
+    },
+    {
+      "id": "q876",
+      "tema": "Antiinfecciosos",
+      "dificultad": "facil",
+      "enunciado": "¿Qué fármaco es un antiviral empleado frente al virus de la gripe?",
+      "opciones": [
+        "oseltamivir",
+        "aciclovir",
+        "tenofovir",
+        "sofosbuvir"
+      ],
+      "correcta": 0,
+      "explicacion": "El material indica que frente a la gripe se emplea sobre todo el oseltamivir; aciclovir actúa frente a herpesvirus, tenofovir frente al VHB y sofosbuvir frente al VHC."
+    },
+    {
+      "id": "q877",
+      "tema": "Antiinfecciosos",
+      "dificultad": "medio",
+      "enunciado": "¿Cuál de los siguientes antivirales actúa frente al virus de la Hepatitis B (VHB)?",
+      "opciones": [
+        "zanamivir",
+        "entecavir",
+        "cidofovir",
+        "ribavirina"
+      ],
+      "correcta": 1,
+      "explicacion": "El material lista entecavir entre los fármacos frente al VHB; zanamivir actúa frente a la gripe, cidofovir frente al CMV y ribavirina es antiviral de amplio espectro."
+    },
+    {
+      "id": "q878",
+      "tema": "Antiinfecciosos",
+      "dificultad": "medio",
+      "enunciado": "¿Qué antiviral bloquea la replicación y expresión del gen viral y se utiliza frente al virus del herpes simple (VHS)?",
+      "opciones": [
+        "oseltamivir",
+        "aciclovir",
+        "adefovir",
+        "foscarnet"
+      ],
+      "correcta": 1,
+      "explicacion": "El material indica que el aciclovir actúa frente al VHS bloqueando la replicación y expresión del gen viral; oseltamivir es frente a la gripe, adefovir frente al VHB y foscarnet de amplio espectro."
+    },
+    {
+      "id": "q879",
+      "tema": "Antiinfecciosos",
+      "dificultad": "dificil",
+      "enunciado": "¿Cuál de los siguientes es un antiviral de amplio espectro?",
+      "opciones": [
+        "ganciclovir",
+        "foscarnet",
+        "amantadina",
+        "lamivudina"
+      ],
+      "correcta": 1,
+      "explicacion": "El material cita la ribavirina y el foscarnet como antivirales de amplio espectro; ganciclovir actúa frente al CMV, amantadina frente a la gripe y lamivudina frente al VHB/VIH."
+    },
+    {
+      "id": "q880",
+      "tema": "Antiinfecciosos",
+      "dificultad": "dificil",
+      "enunciado": "En el tratamiento del VHC con antivirales de acción directa, ¿cuál de los siguientes es un inhibidor de proteasa?",
+      "opciones": [
+        "ledipasvir",
+        "sofosbuvir",
+        "simeprevir",
+        "daclatasvir"
+      ],
+      "correcta": 2,
+      "explicacion": "El material clasifica simeprevir (y paritaprevir) como inhibidores de proteasa; ledipasvir y daclatasvir son inhibidores de NS5A y sofosbuvir inhibidor de polimerasa."
+    },
+    {
+      "id": "q881",
+      "tema": "Antiinfecciosos",
+      "dificultad": "dificil",
+      "enunciado": "Dentro de los antirretrovirales frente al VIH, ¿cuál de los siguientes es un inhibidor de la proteasa?",
+      "opciones": [
+        "abacavir",
+        "atazanavir",
+        "maraviroc",
+        "efavirenz"
+      ],
+      "correcta": 1,
+      "explicacion": "El material incluye atazanavir entre los inhibidores de la proteasa del VIH; abacavir y efavirenz son inhibidores de la transcriptasa inversa y maraviroc inhibidor de la entrada."
+    },
+    {
+      "id": "q882",
+      "tema": "Antiinfecciosos",
+      "dificultad": "medio",
+      "enunciado": "¿Qué fármaco es un inhibidor de la entrada del VIH que bloquea la fusión del virus con la célula CD4?",
+      "opciones": [
+        "nevirapina",
+        "lopinavir",
+        "maraviroc",
+        "zidovudina"
+      ],
+      "correcta": 2,
+      "explicacion": "El material señala maraviroc (y enfuvirtida) como inhibidores de la entrada; nevirapina y zidovudina son inhibidores de la transcriptasa inversa y lopinavir inhibidor de la proteasa."
+    },
+    {
+      "id": "q883",
+      "tema": "Antiinfecciosos",
+      "dificultad": "medio",
+      "enunciado": "¿Cuál de los siguientes antivirales está indicado frente al citomegalovirus (CMV)?",
+      "opciones": [
+        "brivudina",
+        "ganciclovir",
+        "tenofovir",
+        "oseltamivir"
+      ],
+      "correcta": 1,
+      "explicacion": "El material indica ganciclovir (valganciclovir) y cidofovir frente al CMV; brivudina actúa frente al VHS, tenofovir frente al VHB y oseltamivir frente a la gripe."
+    },
+    {
+      "id": "q884",
+      "tema": "Antiinfecciosos",
+      "dificultad": "dificil",
+      "enunciado": "¿Cuál de los siguientes antirretrovirales es un inhibidor de la transcriptasa inversa que bloquea la conversión del ARN viral en ADN?",
+      "opciones": [
+        "ritonavir",
+        "abacavir",
+        "enfuvirtida",
+        "atazanavir"
+      ],
+      "correcta": 1,
+      "explicacion": "El material lista abacavir entre los inhibidores de la transcriptasa inversa; ritonavir y atazanavir son inhibidores de la proteasa y enfuvirtida inhibidor de la entrada."
+    },
+    {
+      "id": "q885",
+      "tema": "Antineoplásicos",
+      "dificultad": "medio",
+      "enunciado": "¿Cuál de los siguientes fármacos es una mostaza nitrogenada con acción alquilante?",
+      "opciones": [
+        "carmustina",
+        "dacarbazina",
+        "ciclofosfamida",
+        "cisplatino"
+      ],
+      "correcta": 2,
+      "explicacion": "La ciclofosfamida es el ejemplo de mostaza nitrogenada entre los agentes alquilantes. La carmustina es una nitrosourea, la dacarbazina una hidrazina y el cisplatino un complejo de platino."
+    },
+    {
+      "id": "q886",
+      "tema": "Antineoplásicos",
+      "dificultad": "dificil",
+      "enunciado": "¿Qué fármaco alquilante pertenece al grupo de las nitrosoureas?",
+      "opciones": [
+        "ciclofosfamida",
+        "carmustina",
+        "dacarbazina",
+        "oxaliplatino"
+      ],
+      "correcta": 1,
+      "explicacion": "La carmustina es la nitrosourea citada como agente alquilante. La ciclofosfamida es una mostaza nitrogenada, la dacarbazina una hidrazina y el oxaliplatino un complejo de platino."
+    },
+    {
+      "id": "q887",
+      "tema": "Antineoplásicos",
+      "dificultad": "dificil",
+      "enunciado": "¿Cuál de estos agentes alquilantes es una hidrazina?",
+      "opciones": [
+        "dacarbazina",
+        "ciclofosfamida",
+        "carmustina",
+        "carboplatino"
+      ],
+      "correcta": 0,
+      "explicacion": "La dacarbazina es la hidrazina mencionada en el grupo de los agentes alquilantes; la ciclofosfamida es una mostaza nitrogenada y la carmustina una nitrosourea."
+    },
+    {
+      "id": "q888",
+      "tema": "Antineoplásicos",
+      "dificultad": "medio",
+      "enunciado": "¿Qué fármaco es un alcaloide de la Vinca derivado de la planta Vinca?",
+      "opciones": [
+        "paclitaxel",
+        "vincristina",
+        "metotrexato",
+        "docetaxel"
+      ],
+      "correcta": 1,
+      "explicacion": "La vincristina (y la vinblastina) son alcaloides de la Vinca; el paclitaxel y el docetaxel son taxanos derivados del Tejo y el metotrexato es un antimetabolito."
+    },
+    {
+      "id": "q889",
+      "tema": "Antineoplásicos",
+      "dificultad": "medio",
+      "enunciado": "¿Cuál de los siguientes fármacos es un taxano obtenido a partir del árbol Tejo?",
+      "opciones": [
+        "vinblastina",
+        "mercaptopurina",
+        "paclitaxel",
+        "citarabina"
+      ],
+      "correcta": 2,
+      "explicacion": "El paclitaxel es un taxano (junto al docetaxel) procedente del Tejo; la vinblastina es un alcaloide de la Vinca y la mercaptopurina y la citarabina son antimetabolitos."
+    },
+    {
+      "id": "q890",
+      "tema": "Antineoplásicos",
+      "dificultad": "medio",
+      "enunciado": "¿Qué antimetabolito es un análogo del ácido fólico?",
+      "opciones": [
+        "5-fluorouracilo",
+        "capecitabina",
+        "metotrexato",
+        "tioguanina"
+      ],
+      "correcta": 2,
+      "explicacion": "El metotrexato es el principal análogo del ácido fólico. El 5-fluorouracilo, la capecitabina y la tioguanina son análogos de pirimidinas o purinas."
+    },
+    {
+      "id": "q891",
+      "tema": "Antineoplásicos",
+      "dificultad": "facil",
+      "enunciado": "¿Cuál de los siguientes fármacos es un antimetabolito que actúa compitiendo con los nucleósidos fisiológicos?",
+      "opciones": [
+        "citarabina",
+        "cisplatino",
+        "vincristina",
+        "paclitaxel"
+      ],
+      "correcta": 0,
+      "explicacion": "La citarabina es un análogo de pirimidinas/purinas, es decir, un antimetabolito. El cisplatino es un complejo de platino y la vincristina y el paclitaxel son productos naturales."
+    },
+    {
+      "id": "q892",
+      "tema": "Antineoplásicos",
+      "dificultad": "dificil",
+      "enunciado": "¿Qué fármaco actúa formando puentes intercatenarios o intracatenarios que impiden la duplicación del ADN?",
+      "opciones": [
+        "metotrexato",
+        "docetaxel",
+        "ciclofosfamida",
+        "capecitabina"
+      ],
+      "correcta": 2,
+      "explicacion": "La ciclofosfamida es un agente alquilante, cuyo mecanismo es formar puentes inter/intracatenarios que impiden la duplicación del ADN. El metotrexato y la capecitabina son antimetabolitos y el docetaxel un taxano."
+    },
+    {
+      "id": "q893",
+      "tema": "Antineoplásicos",
+      "dificultad": "facil",
+      "enunciado": "¿Cuál de los siguientes es un complejo de platino?",
+      "opciones": [
+        "dacarbazina",
+        "oxaliplatino",
+        "vinblastina",
+        "tamoxifeno"
+      ],
+      "correcta": 1,
+      "explicacion": "El oxaliplatino (junto a cisplatino y carboplatino) es un complejo de platino. La dacarbazina es un alquilante hidrazina, la vinblastina un alcaloide de la Vinca y el tamoxifeno un antiestrógeno."
+    },
+    {
+      "id": "q894",
+      "tema": "Antineoplásicos",
+      "dificultad": "medio",
+      "enunciado": "¿Qué fármaco antiestrogénico se utiliza en el cáncer de mama con receptor estrogénico positivo?",
+      "opciones": [
+        "bicalutamida",
+        "flutamida",
+        "tamoxifeno",
+        "leuprorelina"
+      ],
+      "correcta": 2,
+      "explicacion": "El tamoxifeno es un antiestrógeno usado en el cáncer de mama RE positivo. La bicalutamida, la flutamida y la leuprorelina disminuyen la actividad androgénica y se emplean en el cáncer de próstata."
+    },
+    {
+      "id": "q895",
+      "tema": "Antineoplásicos",
+      "dificultad": "medio",
+      "enunciado": "¿Cuál de los siguientes fármacos disminuye la actividad androgénica en el tratamiento del cáncer de próstata?",
+      "opciones": [
+        "fulvestrant",
+        "goserelina",
+        "anastrozol",
+        "exemestano"
+      ],
+      "correcta": 1,
+      "explicacion": "La goserelina (junto a leuprorelina, triptorelina, flutamida y bicalutamida) disminuye la actividad androgénica en el cáncer de próstata. El fulvestrant, el anastrozol y el exemestano son antiestrógenos usados en el cáncer de mama."
+    },
+    {
+      "id": "q896",
+      "tema": "Antineoplásicos",
+      "dificultad": "dificil",
+      "enunciado": "¿Qué fármaco puede producir sofocos, osteoporosis, tromboembolismo y riesgo de cáncer de endometrio como toxicidad propia?",
+      "opciones": [
+        "cisplatino",
+        "tamoxifeno",
+        "vincristina",
+        "carmustina"
+      ],
+      "correcta": 1,
+      "explicacion": "El tamoxifeno es un antiestrógeno cuya toxicidad es similar a la menopausia: sofocos, osteoporosis, tromboembolismo y riesgo de cáncer endometrial. Los demás son citotóxicos sin ese perfil hormonal."
+    },
+    {
+      "id": "q897",
+      "tema": "Antineoplásicos",
+      "dificultad": "dificil",
+      "enunciado": "¿Cuál de estos fármacos puede causar ginecomastia, galactorrea, disminución de la libido y hepatotoxicidad como efectos adversos comunes?",
+      "opciones": [
+        "paclitaxel",
+        "metotrexato",
+        "flutamida",
+        "carboplatino"
+      ],
+      "correcta": 2,
+      "explicacion": "La flutamida, antiandrogénica para el cáncer de próstata, produce ginecomastia, galactorrea, disminución de la libido y hepatotoxicidad. El paclitaxel, metotrexato y carboplatino son citotóxicos clásicos sin ese perfil."
+    },
+    {
+      "id": "q898",
+      "tema": "Antineoplásicos",
+      "dificultad": "medio",
+      "enunciado": "¿Qué antimetabolito es un análogo de pirimidinas o purinas?",
+      "opciones": [
+        "metotrexato",
+        "mercaptopurina",
+        "cisplatino",
+        "docetaxel"
+      ],
+      "correcta": 1,
+      "explicacion": "La mercaptopurina es un análogo de purinas (grupo pirimidinas y purinas). El metotrexato es un análogo del ácido fólico; el cisplatino es un complejo de platino y el docetaxel un taxano."
+    },
+    {
+      "id": "q899",
+      "tema": "Interacciones alimentos-medicamentos",
+      "dificultad": "medio",
+      "enunciado": "Anticoagulante oral cuyo efecto disminuye con alimentos ricos en vitamina K (vegetales verdes, hígado, cereales), aumentando el riesgo tromboembólico:",
+      "opciones": [
+        "acenocumarol",
+        "metoclopramida",
+        "disulfiram",
+        "levodopa"
+      ],
+      "correcta": 0,
+      "explicacion": "El material indica que el acenocumarol (Sintrom) ve reducido su efecto anticoagulante por la vitamina K, recomendándose ingesta estable y control del INR."
+    },
+    {
+      "id": "q900",
+      "tema": "Interacciones alimentos-medicamentos",
+      "dificultad": "dificil",
+      "enunciado": "Procinético que, al contrario que los anticolinérgicos, aumenta la absorción del alcohol:",
+      "opciones": [
+        "isoniazida",
+        "metoclopramida",
+        "alendronato",
+        "saquinavir"
+      ],
+      "correcta": 1,
+      "explicacion": "Según el material, los procinéticos como la metoclopramida aumentan la absorción del alcohol, mientras que los anticolinérgicos la disminuyen."
+    },
+    {
+      "id": "q901",
+      "tema": "Interacciones alimentos-medicamentos",
+      "dificultad": "dificil",
+      "enunciado": "Antiparkinsoniano cuya absorción se reduce por competición con transportadores frente a las proteínas de la dieta:",
+      "opciones": [
+        "carbamazepina",
+        "ciclosporina",
+        "levodopa",
+        "risedronato"
+      ],
+      "correcta": 2,
+      "explicacion": "El material señala que las proteínas disminuyen la absorción del antiparkinsoniano levodopa por competición con transportadores."
+    },
+    {
+      "id": "q902",
+      "tema": "Interacciones alimentos-medicamentos",
+      "dificultad": "medio",
+      "enunciado": "Bifosfonato cuya absorción se reduce por formación de quelatos con calcio, magnesio o hierro de los alimentos:",
+      "opciones": [
+        "alendronato",
+        "moclobemida",
+        "metronidazol",
+        "carbamazepina"
+      ],
+      "correcta": 0,
+      "explicacion": "El material cita el alendronato (junto al risedronato) como bifosfonato que forma quelatos con minerales, reduciéndose su absorción."
+    },
+    {
+      "id": "q903",
+      "tema": "Interacciones alimentos-medicamentos",
+      "dificultad": "medio",
+      "enunciado": "Inmunosupresor que ve AUMENTADA su absorción cuando se administra junto con alimentos:",
+      "opciones": [
+        "levodopa",
+        "ciclosporina",
+        "alendronato",
+        "linezolid"
+      ],
+      "correcta": 1,
+      "explicacion": "El material incluye la ciclosporina entre los fármacos cuya absorción se incrementa al administrarse con alimentos."
+    },
+    {
+      "id": "q904",
+      "tema": "Interacciones alimentos-medicamentos",
+      "dificultad": "dificil",
+      "enunciado": "Fármaco que, junto al disulfiram, puede desencadenar el efecto antabús al combinarse con alcohol:",
+      "opciones": [
+        "selegilina",
+        "ibuprofeno",
+        "metronidazol",
+        "saquinavir"
+      ],
+      "correcta": 2,
+      "explicacion": "El material indica que el disulfiram y el metronidazol pueden producir el efecto antabús, un cuadro tóxico, al interaccionar con el alcohol."
+    },
+    {
+      "id": "q905",
+      "tema": "Interacciones alimentos-medicamentos",
+      "dificultad": "dificil",
+      "enunciado": "Antibiótico que puede causar efecto antabús con alcohol e inhibir el metabolismo, siendo un IMAO el grupo opuesto a estos ejemplos. ¿Cuál de los siguientes es un IMAO?",
+      "opciones": [
+        "metronidazol",
+        "linezolid",
+        "metoclopramida",
+        "ibuprofeno"
+      ],
+      "correcta": 1,
+      "explicacion": "El material enumera el linezolid entre los IMAO (junto a moclobemida, isoniazida y selegilina) que requieren restringir alimentos ricos en tiramina."
+    },
+    {
+      "id": "q906",
+      "tema": "Interacciones alimentos-medicamentos",
+      "dificultad": "medio",
+      "enunciado": "Antiepiléptico cuya absorción se incrementa al administrarse junto con alimentos:",
+      "opciones": [
+        "carbamazepina",
+        "levodopa",
+        "risedronato",
+        "moclobemida"
+      ],
+      "correcta": 0,
+      "explicacion": "El material incluye la carbamazepina entre los fármacos cuya absorción aumenta cuando se toman con alimentos."
+    },
+    {
+      "id": "q907",
+      "tema": "Interacciones alimentos-medicamentos",
+      "dificultad": "medio",
+      "enunciado": "AINE que, combinado con alcohol, aumenta el riesgo y la gravedad de las lesiones gástricas por irritación gastrointestinal:",
+      "opciones": [
+        "disulfiram",
+        "ibuprofeno",
+        "ciclosporina",
+        "selegilina"
+      ],
+      "correcta": 1,
+      "explicacion": "El material señala los AINE como la aspirina o el ibuprofeno como irritantes gastrointestinales que agravan las lesiones gástricas con alcohol."
+    },
+    {
+      "id": "q908",
+      "tema": "Interacciones alimentos-medicamentos",
+      "dificultad": "dificil",
+      "enunciado": "Antirretroviral para el VIH cuya absorción se ve favorecida (aumentada) al administrarse con alimentos:",
+      "opciones": [
+        "saquinavir",
+        "metronidazol",
+        "levodopa",
+        "alendronato"
+      ],
+      "correcta": 0,
+      "explicacion": "El material indica que el saquinavir, usado para el VIH, incrementa su absorción cuando se administra junto con alimentos."
     }
   ]
 }
