@@ -27,10 +27,26 @@ python3 -m http.server 8000
 > No vale con abrir `index.html` con doble clic: `fetch()` del JSON necesita
 > servirse por HTTP.
 
+## Asignaturas
+
+Hay varias asignaturas, cada una con su propio banco. El listado está en
+[`data/subjects.json`](data/subjects.json):
+
+```json
+{ "asignaturas": [
+  { "id": "farmacologia", "nombre": "Farmacología y Nutrición", "archivo": "farmacologia.json" },
+  { "id": "pnaya", "nombre": "PNAyA · Patología Nutricional", "archivo": "pnaya.json" }
+] }
+```
+
+La web muestra un selector de pestañas (solo si hay 2+ asignaturas) y recuerda
+la última elegida en `localStorage`, así que **no se resetea al recargar**.
+Para añadir una asignatura: crea su `data/<id>.json` y añade una entrada al
+manifiesto.
+
 ## Banco de preguntas
 
-Todas las preguntas viven en [`data/questions.json`](data/questions.json).
-Formato de cada pregunta:
+Cada asignatura tiene su archivo `data/<id>.json`. Formato de cada pregunta:
 
 ```json
 {
@@ -54,8 +70,7 @@ Formato de cada pregunta:
 | `correcta`    | entero  | Índice base 0 de la opción correcta dentro de `opciones`.  |
 | `explicacion` | string  | Se muestra al fallar o en la revisión.                     |
 
-Las preguntas actuales son **de ejemplo**. Se sustituirán por las generadas a
-partir del temario.
+Las preguntas se generan a partir del temario de cada asignatura.
 
 ## Ajustes
 
@@ -69,9 +84,11 @@ En [`js/app.js`](js/app.js), objeto `CONFIG`:
 
 ```
 farma-tests/
-├── index.html          # interfaz
-├── css/styles.css      # estilos
-├── js/app.js           # lógica (generación, corrección, resultados)
-├── data/questions.json # banco de preguntas
-└── .github/workflows/  # despliegue automático a GitHub Pages
+├── index.html              # interfaz
+├── css/styles.css          # estilos
+├── js/app.js               # lógica (asignaturas, generación, corrección)
+├── data/subjects.json      # manifiesto de asignaturas
+├── data/farmacologia.json  # banco de Farmacología
+├── data/pnaya.json         # banco de PNAyA
+└── .github/workflows/      # despliegue automático a GitHub Pages
 ```

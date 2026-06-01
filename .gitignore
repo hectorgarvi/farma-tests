@@ -6,3 +6,6 @@ Thumbs.db
 .vscode/
 .idea/
 *.swp
+
+# Temario fuente — material privado, no publicar en repo público
+temario/*.pdf

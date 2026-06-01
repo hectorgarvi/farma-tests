@@ -56,6 +56,33 @@ code {
   font-size: 0.85em;
 }
 
+.subject-tabs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 22px;
+  border-bottom: 1px solid var(--border);
+  padding-bottom: 14px;
+}
+.subject-tab {
+  appearance: none;
+  border: 1px solid var(--border);
+  background: var(--surface);
+  color: var(--muted);
+  padding: 9px 16px;
+  border-radius: 10px;
+  font-size: 0.92rem;
+  cursor: pointer;
+  transition: border-color 0.12s, color 0.12s, background 0.12s;
+}
+.subject-tab:hover { border-color: var(--primary); color: var(--text); }
+.subject-tab.active {
+  background: var(--primary);
+  border-color: var(--primary);
+  color: #06231f;
+  font-weight: 600;
+}
+
 .bank-info {
   background: var(--surface);
   border: 1px solid var(--border);

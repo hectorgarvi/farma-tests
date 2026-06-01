@@ -1,0 +1,6 @@
+{
+  "asignaturas": [
+    { "id": "farmacologia", "nombre": "Farmacología y Nutrición", "archivo": "farmacologia.json" },
+    { "id": "pnaya", "nombre": "PNAyA · Patología Nutricional", "archivo": "pnaya.json" }
+  ]
+}

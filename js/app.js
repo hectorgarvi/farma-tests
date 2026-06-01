@@ -1,5 +1,5 @@
 /* Farma Tests — simulador de examen estático
-   Banco de preguntas en data/questions.json
+   Asignaturas en data/subjects.json; un banco JSON por asignatura.
    Sin dependencias, sin build. Funciona en GitHub Pages. */
 
 const CONFIG = {
@@ -39,11 +39,72 @@ function show(screenId) {
   window.scrollTo({ top: 0, behavior: "smooth" });
 }
 
+/* ---------- asignaturas (selector + persistencia) ---------- */
+
+const LS_SUBJECT = "farmaTests:subject"; // clave localStorage
+let subjects = []; // [{id, nombre, archivo}]
+let activeSubject = null; // id de la asignatura activa
+
+// Carga el manifiesto, monta las pestañas y restaura la última elegida.
+async function initSubjects() {
+  try {
+    const res = await fetch("data/subjects.json", { cache: "no-store" });
+    if (!res.ok) throw new Error("HTTP " + res.status);
+    subjects = (await res.json()).asignaturas || [];
+  } catch (err) {
+    $("#bank-info").innerHTML =
+      `<strong>No se pudo cargar la lista de asignaturas.</strong> (${err.message})`;
+    return;
+  }
+  if (subjects.length === 0) {
+    $("#bank-info").textContent = "No hay asignaturas configuradas.";
+    return;
+  }
+
+  // Restaura la asignatura guardada si sigue existiendo; si no, la primera.
+  const saved = localStorage.getItem(LS_SUBJECT);
+  const initial = subjects.some((s) => s.id === saved) ? saved : subjects[0].id;
+  renderSubjectTabs();
+  await selectSubject(initial);
+}
+
+function renderSubjectTabs() {
+  const wrap = $("#subject-tabs");
+  wrap.innerHTML = "";
+  // Una sola asignatura: no hace falta selector.
+  if (subjects.length < 2) {
+    wrap.classList.add("hidden");
+    return;
+  }
+  wrap.classList.remove("hidden");
+  for (const s of subjects) {
+    const btn = document.createElement("button");
+    btn.className = "subject-tab" + (s.id === activeSubject ? " active" : "");
+    btn.textContent = s.nombre;
+    btn.dataset.id = s.id;
+    btn.setAttribute("role", "tab");
+    btn.addEventListener("click", () => selectSubject(s.id));
+    wrap.appendChild(btn);
+  }
+}
+
+async function selectSubject(id) {
+  activeSubject = id;
+  localStorage.setItem(LS_SUBJECT, id); // persiste entre recargas
+  $("#subject-tabs")
+    .querySelectorAll(".subject-tab")
+    .forEach((b) => b.classList.toggle("active", b.dataset.id === id));
+  const subj = subjects.find((s) => s.id === id);
+  await loadBank(subj.archivo);
+}
+
 /* ---------- carga del banco ---------- */
 
-async function loadBank() {
+async function loadBank(archivo) {
+  $("#btn-start").disabled = true;
+  $("#bank-info").textContent = "Cargando banco de preguntas…";
   try {
-    const res = await fetch("data/questions.json", { cache: "no-store" });
+    const res = await fetch("data/" + archivo, { cache: "no-store" });
     if (!res.ok) throw new Error("HTTP " + res.status);
     const data = await res.json();
     state.bank = (data.preguntas || []).filter(validQuestion);
@@ -51,7 +112,7 @@ async function loadBank() {
     state.bank = [];
     $("#bank-info").innerHTML =
       `<strong>No se pudo cargar el banco de preguntas.</strong><br>` +
-      `Revisa <code>data/questions.json</code>. (${err.message})`;
+      `Revisa <code>data/${archivo}</code>. (${err.message})`;
     return;
   }
   renderBankInfo();
@@ -85,7 +146,7 @@ function renderBankInfo() {
 
   if (total === 0) {
     $("#bank-info").innerHTML =
-      `El banco está vacío. Añade preguntas en <code>data/questions.json</code>.`;
+      `El banco de esta asignatura está vacío todavía.`;
     startBtn.disabled = true;
     return;
   }
@@ -343,7 +404,7 @@ function startExam() {
 
 document.addEventListener("DOMContentLoaded", () => {
   $("#exam-size-label").textContent = CONFIG.examSize;
-  loadBank();
+  initSubjects();
 
   $("#btn-start").addEventListener("click", startExam);
   $("#btn-restart").addEventListener("click", () => show("#screen-start"));
