@@ -3,6 +3,7 @@
     { "id": "farmacologia", "nombre": "Farmacología y Nutrición", "archivo": "farmacologia.json" },
     { "id": "pnaya", "nombre": "PNAyA · Patología Nutricional", "archivo": "pnaya.json", "examSize": 60 },
     { "id": "comunitaria", "nombre": "Nutrición Comunitaria", "archivo": "comunitaria.json" },
-    { "id": "snynh", "nombre": "SNyNH · Soporte y Nutrición Hospitalaria", "archivo": "snynh.json", "examSize": 40 }
+    { "id": "snynh", "nombre": "SNyNH · Soporte y Nutrición Hospitalaria", "archivo": "snynh.json", "examSize": 40 },
+    { "id": "pnn", "nombre": "PNN · Patología Nutricional del Niño", "archivo": "pnn.json", "examSize": 55 }
   ]
 }
