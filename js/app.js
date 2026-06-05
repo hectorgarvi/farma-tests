@@ -251,7 +251,14 @@ function buildExam() {
 // recalculando el índice correcto, sin mutar el banco original.
 function prepareQuestion(q) {
   const shuffleOpts = $("#opt-shuffle").checked;
-  let opciones = q.opciones.map((texto, idx) => ({ texto, esCorrecta: idx === q.correcta }));
+  // `porques[i]` (opcional): por qué la opción i es incorrecta. Se arrastra
+  // pegado a cada opción para sobrevivir al barajado.
+  const porques = Array.isArray(q.porques) ? q.porques : [];
+  let opciones = q.opciones.map((texto, idx) => ({
+    texto,
+    esCorrecta: idx === q.correcta,
+    porque: porques[idx] || "",
+  }));
   if (shuffleOpts) opciones = shuffle(opciones);
   const correcta = opciones.findIndex((o) => o.esCorrecta);
   return {
@@ -298,8 +305,14 @@ function renderQuestion() {
   let explanationHtml = "";
   if (showFeedback) {
     const correct = answered === q.correcta;
+    const porqueMal = !correct && q.opciones[answered] && q.opciones[answered].porque;
     explanationHtml = `<div class="explanation ${correct ? "good" : "bad"}">
       <div class="verdict">${correct ? "✅ Correcto" : "❌ Incorrecto"}</div>
+      ${
+        porqueMal
+          ? `<div class="ri-line ri-yours">Tu respuesta (<strong>${KEYS[answered]}</strong>) es incorrecta: ${escapeHtml(porqueMal)}</div>`
+          : ""
+      }
       ${
         correct
           ? ""
@@ -413,6 +426,11 @@ function renderReview() {
           : correct
           ? `<div class="ri-line ri-correct">✅ ${KEYS[ans]}. ${escapeHtml(q.opciones[ans].texto)}</div>`
           : `<div class="ri-line ri-yours">❌ Tu respuesta: ${KEYS[ans]}. ${escapeHtml(q.opciones[ans].texto)}</div>`;
+      const porqueMal =
+        ans !== null && !correct && q.opciones[ans] && q.opciones[ans].porque;
+      const porqueMalLine = porqueMal
+        ? `<div class="ri-line muted">Por qué es incorrecta: ${escapeHtml(porqueMal)}</div>`
+        : "";
       const correctLine =
         correct
           ? ""
@@ -420,6 +438,7 @@ function renderReview() {
       return `<div class="review-item ${cls}">
         <div class="ri-q">${k + 1}. ${escapeHtml(q.enunciado)}</div>
         ${yourLine}
+        ${porqueMalLine}
         ${correctLine}
         ${q.explicacion ? `<div class="ri-line muted">${escapeHtml(q.explicacion)}</div>` : ""}
       </div>`;

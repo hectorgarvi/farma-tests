@@ -56,7 +56,8 @@ Cada asignatura tiene su archivo `data/<id>.json`. Formato de cada pregunta:
   "enunciado": "¿...?",
   "opciones": ["A", "B", "C", "D"],
   "correcta": 0,
-  "explicacion": "Por qué es correcta / aclaración."
+  "explicacion": "Por qué es correcta / aclaración.",
+  "porques": ["", "Por qué B es incorrecta.", "Por qué C…", "Por qué D…"]
 }
 ```
 
@@ -69,6 +70,7 @@ Cada asignatura tiene su archivo `data/<id>.json`. Formato de cada pregunta:
 | `opciones`    | array   | 4 respuestas (admite 2–6).                                 |
 | `correcta`    | entero  | Índice base 0 de la opción correcta dentro de `opciones`.  |
 | `explicacion` | string  | Se muestra al fallar o en la revisión.                     |
+| `porques`     | array   | Opcional. Alineado con `opciones`: por qué cada opción incorrecta lo es (cadena vacía en la correcta). Si falta, no se muestra. |
 
 Las preguntas se generan a partir del temario de cada asignatura.
 
