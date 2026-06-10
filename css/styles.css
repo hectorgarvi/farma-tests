@@ -46,7 +46,9 @@ body {
   min-height: 100vh;
   transition: background 0.2s, color 0.2s;
 }
-
+h1 {
+  margin-top: 0;
+}
 .topbar {
   display: flex;
   align-items: baseline;
