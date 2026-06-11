@@ -10,3 +10,4 @@ Thumbs.db
 
 # Temario fuente — material privado, no publicar en repo público
 temario/*.pdf
+.claude/
